@@ -1,0 +1,14 @@
+[33m2854a00[m Ignore generated SQLite database
+[33m819f148[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m SQL Database created
+[33m22296c8[m SQL Database created
+[33mf3798ff[m SQL Database created
+[33mbadf380[m SQL Database created
+[33m93a7c4f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m trying a new route for SQL DB
+[33m7148e6d[m Ignore large Goodreads dataset files
+[33m432c837[m Added gitignore because file size was so large it wasnt pushing this whole time
+[33ma295da1[m first commit
+[33m48dcaa3[m added gitignore so the file isn't too big and will actually push
+[33m58e5ef2[m added a requirements.txt
+[33m45c0ccf[m Stuck buffering on DB write
+[33mc225f10[m reduced disc size
+[33ma6473d3[m establishing_github_repo
