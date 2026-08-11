@@ -1,1 +1,9 @@
-Data/
+# Goodreads dataset files
+Data/Goodreads_Books/
+
+# Parquet files
+*.parquet
+
+# Python/Jupyter files
+__pycache__/
+.ipynb_checkpoints/
