@@ -169,8 +169,9 @@ Book_Genre_Trends_Analysis/
 │   └── EDA.ipynb
 │
 ├── .gitignore
-└── README.md
-
+├── README.md
+└── requirements.txt
+```
 
 # Requirements
 
@@ -432,11 +433,11 @@ These classifications were created specifically for this analysis and do not alt
 
 ### Finding
 
-**[INSERT YOUR CHART 1 FINDING HERE]**
+![alt text](output1.png)
 
 The chart shows that:
 
-**[Describe whether Fiction, Nonfiction, or both increase/decrease over time and identify the most important change.]**
+The Fiction and Nonfiction trends show a notable shift in the composition of the dataset over time. Nonfiction leads Fiction beginning around 1965 and remains ahead for several decades. Around 2010, however, Fiction experiences a dramatic increase and quickly surpasses Nonfiction by a substantial margin. This sharp reversal suggests that the overall change in the dataset is not simply a gradual shift between Fiction and Nonfiction, but may be driven by significant growth in specific Fiction genres during the later period.
 
 This establishes the broad trend that the remaining analysis attempts to explain.
 
@@ -463,15 +464,11 @@ A negative value indicates that a genre became less represented in the later per
 
 ### Finding
 
-**[INSERT YOUR CHART 2 FINDING HERE]**
+![alt text](output2.png)
 
 The results indicate that:
 
-**[Identify the genres with the largest increases.]**
-
-**[Identify any genres with notable decreases.]**
-
-**[Explain how these changes help explain the trend observed in Chart 1.]**
+The genre-level analysis helps explain the shift observed in Chart 1. Romance, Contemporary, and Fantasy showed the largest increases in representation between 1900–1979 and 1980–2016, while History and Historical Fiction experienced notable decreases. The growth of Romance and Fantasy—both primarily Fiction genres—corresponds with the sharp rise in Fiction observed in Chart 1. In contrast, the decline in History, a primarily Nonfiction category, is consistent with the weakening relative representation of Nonfiction during the later period.
 
 This step moves the analysis from simply observing that the overall composition of books changed to identifying the specific genres responsible for those changes.
 
@@ -508,15 +505,11 @@ They remain in the underlying database and are excluded only from this particula
 
 ### Finding
 
-**[INSERT YOUR CHART 3 FINDING HERE]**
+![alt text](output3.png)
 
 The results indicate:
 
-**[Describe whether highly represented genres tend to have higher, lower, or similar average ratings.]**
-
-**[Identify any notable high- or low-rated genres.]**
-
-**[Discuss whether the relationship between representation and rating appears strong, weak, or unclear.]**
+The relationship between genre representation and average reader ratings appears to be relatively weak. The highly represented genres generally cluster around an average Goodreads rating of approximately 3.8 stars, with the top 10 most represented genres showing very similar ratings. Overall, there is little noticeable difference in average rating between highly represented genres and the remaining genres in the dataset. This suggests that greater genre representation does not necessarily correspond to higher or lower reader ratings.
 
 Point size represents the total number of Goodreads ratings, providing an additional indication of reader engagement.
 
