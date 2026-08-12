@@ -7,3 +7,6 @@ Data/
 # Python/Jupyter files
 __pycache__/
 .ipynb_checkpoints/
+
+# Database files
+*.db
