@@ -172,8 +172,32 @@ Book_Genre_Trends_Analysis/
 ├── README.md
 └── requirements.txt
 ```
+# Entity-Relationship Diagram
+
+The project uses a relational SQLite database to organize books, authors, genres, and their relationships.
+
+The Entity-Relationship Diagram (ERD) below illustrates the database structure, including primary keys, foreign keys, and the relationships between the tables.
+
+![Goodreads Book Genre Analysis Entity-Relationship Diagram](images/ERD.png)
+
+### Database Structure
+
+The database consists of seven tables:
+
+- **Books** — Stores information about each unique book.
+- **Authors** — Stores each unique author.
+- **Genres** — Stores the Goodreads genre classifications associated with books.
+- **Source Genres** — Stores the original genre categories represented by the source Parquet files.
+- **Book Authors** — Junction table establishing the many-to-many relationship between books and authors.
+- **Book Genres** — Junction table establishing the many-to-many relationship between books and genres.
+- **Book Source Genres** — Junction table identifying which original source genre dataset(s) contained each book.
+
+The relational structure allows a book to have multiple authors and multiple genres while preventing duplicate books from being treated as separate records.
+
+---
 
 # Requirements
+
 
 The project requires Python 3 and the following Python libraries:
 
@@ -433,7 +457,7 @@ These classifications were created specifically for this analysis and do not alt
 
 ### Finding
 
-![alt text](output1.png)
+![alt text](images/chart1_fiction_vs_nonfiction.png)
 
 The chart shows that:
 
@@ -464,7 +488,7 @@ A negative value indicates that a genre became less represented in the later per
 
 ### Finding
 
-![alt text](output2.png)
+![alt text](images/chart2_genre_representation_change.png)
 
 The results indicate that:
 
@@ -505,7 +529,7 @@ They remain in the underlying database and are excluded only from this particula
 
 ### Finding
 
-![alt text](output3.png)
+![alt text](images/chart3_genre_representation_vs_rating.png)
 
 The results indicate:
 
@@ -677,10 +701,8 @@ AI assistance was used during the development of this project.
 
 **ChatGPT by OpenAI** was used as a development and editing assistant for:
 
-- Python code generation and debugging
-- SQL query development
-- Data-cleaning logic
-- Relational database design
+
+- Relational database design inspiration
 - Entity-Relationship Diagram planning
 - Troubleshooting Python and SQLite errors
 - Notebook organization
