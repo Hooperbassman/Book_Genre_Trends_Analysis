@@ -162,6 +162,12 @@ Book_Genre_Trends_Analysis/
 │   │
 │   └── goodreads_capstone.db
 │
+├── images/
+│   ├── chart1_fiction_vs_nonfiction.png
+│   ├── chart2_genre_representation_change.png
+│   ├── chart3_genre_representation_vs_rating.png
+│   └── ERD.png
+│
 ├── notebooks/
 │   ├── data_preparation.ipynb
 │   ├── database_creation.ipynb
@@ -573,31 +579,41 @@ This provides a more complete picture of how Goodreads book categories have evol
 
 # Key Findings and Conclusions
 
-Based on the three visualizations, the project evaluates several broader observations.
+Based on the three visualizations, the project evaluates several broader observations about changes in Goodreads book representation and reader ratings between 1900 and 2016.
 
 ### Finding 1 — Fiction and Nonfiction Representation
 
-**[INSERT FINAL CHART 1 CONCLUSION]**
+The Fiction and Nonfiction trends show a significant shift in the composition of the dataset over time.
 
 The Fiction/Nonfiction comparison demonstrates that:
 
-**[INSERT CONCLUSION]**
+**Nonfiction leads Fiction beginning around 1965 and remains ahead for several decades. Around 2010, however, Fiction experiences a dramatic increase and quickly surpasses Nonfiction by a substantial margin.**
+
+This sharp reversal suggests that the overall change in the dataset is not simply a gradual shift between Fiction and Nonfiction, but may be driven by significant growth in specific Fiction genres during the later period.
 
 ### Finding 2 — Genre-Level Changes
 
-**[INSERT FINAL CHART 2 CONCLUSION]**
+The genre-level analysis helps explain the shift observed in the Fiction/Nonfiction comparison.
 
 The genre-level comparison shows that:
 
-**[INSERT CONCLUSION]**
+**Romance, Contemporary, and Fantasy showed the largest increases in representation between 1900–1979 and 1980–2016, while History and Historical Fiction experienced notable decreases.**
+
+The growth of Romance and Fantasy, both primarily Fiction genres, corresponds with the sharp rise in Fiction observed in Chart 1. In contrast, the decline in History, a primarily Nonfiction category, is consistent with the weakening relative representation of Nonfiction during the later period.
+
+These results suggest that the shift toward Fiction was influenced by changes within specific genres rather than being evenly distributed across all categories.
 
 ### Finding 3 — Ratings and Genre Representation
 
-**[INSERT FINAL CHART 3 CONCLUSION]**
+The analysis of genre representation and reader ratings suggests that the popularity or representation of a genre does not have a strong relationship with its average Goodreads rating.
 
 The relationship between genre representation and reader ratings suggests:
 
-**[INSERT CONCLUSION]**
+**Highly represented genres generally cluster around an average Goodreads rating of approximately 3.8 stars, with the top 10 most represented genres showing very similar ratings.**
+
+There is little noticeable difference in average rating between highly represented genres and the remaining genres in the dataset. This suggests that greater genre representation does not necessarily correspond to higher or lower reader ratings.
+
+Overall, the analysis indicates that **genre representation changed substantially over time, but those changes do not appear to be strongly associated with differences in average reader ratings.**
 
 ### Overall Conclusion
 
