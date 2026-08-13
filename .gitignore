@@ -1,5 +1,5 @@
 # Goodreads dataset files
-Data/
+Data/Goodreads_books/
 
 # Parquet files
 *.parquet
