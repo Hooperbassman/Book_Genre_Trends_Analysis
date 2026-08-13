@@ -70,6 +70,16 @@ The original data was distributed across multiple Parquet files organized by sou
 
 ## Secondary Dataset — Goodreads Science Fiction and Fantasy Books
 
+**Goodreads Pop Science Fiction and Fantasy Books**
+
+- Author: Michael Cai
+- Source: Kaggle
+- Original source of the book information: Goodreads
+
+Dataset:
+
+[https://www.kaggle.com/datasets/michaelcai2021/goodreads-pop-science-fiction-and-fantasy-books?resource=download](https://www.kaggle.com/datasets/michaelcai2021/goodreads-pop-science-fiction-and-fantasy-books?resource=download)
+
 The second dataset contains popular Goodreads Science Fiction and Fantasy books.
 
 The source files were:
@@ -347,6 +357,8 @@ This table allows the two datasets to remain independent while still providing a
 # Entity-Relationship Diagram
 
 The project uses an Entity-Relationship Diagram (ERD) to document the structure of the relational database.
+
+![alt text](images/ERD.png)
 
 The ERD illustrates:
 
@@ -707,6 +719,8 @@ Nonfiction includes categories such as:
 
 These classifications were created specifically for this analysis and do not alter the original source genre classifications stored in the database.
 
+![alt text](images/chart1_fiction_vs_nonfiction.png)
+
 ### Finding
 
 The chart shows that the Fiction and Nonfiction trends show a notable shift in the composition of the dataset over time.
@@ -737,6 +751,8 @@ The 10 most represented genres were identified and their changes in representati
 A positive value indicates that a genre became more represented in the later period.
 
 A negative value indicates that a genre became less represented in the later period.
+
+![alt text](images/chart2_genre_representation_change.png)
 
 ### Finding
 
@@ -778,6 +794,8 @@ The following categories are also excluded:
 These categories were excluded because they describe formats, media types, or literary forms rather than being directly comparable to traditional genres.
 
 They remain in the underlying database and are excluded only from this particular analysis.
+
+![alt text](images/chart3_genre_representation_vs_rating.png)
 
 ### Finding
 
