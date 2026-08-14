@@ -1,0 +1,1247 @@
+,title,author,pub_year,avg_rate,num_rate,shelved,series_name,series_num
+0,Dune,Frank Herbert,1965,4.25,1128771,17356,Dune,1
+1,Ender's Game,Orson Scott Card,1985,4.3,1273765,16692,Ender's Saga,1
+2,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,4.23,1679109,15896,Hitchhiker's Guide to the Galaxy,1
+3,The Martian,Andy Weir,2011,4.41,990146,14130,,
+4,Ready Player One,Ernest Cline,2011,4.24,1044522,12187,Ready Player One,1
+5,Fahrenheit 451,Ray Bradbury,1953,3.98,2098080,11942,,
+6,1984,George Orwell,1949,4.19,3968565,11599,,
+7,The Hunger Games,Suzanne Collins,2008,4.32,7605395,11439,The Hunger Games,1
+8,Brave New World,Aldous Huxley,1932,3.99,1679609,10532,,
+9,Foundation,Isaac Asimov,1951,4.17,487319,10185,Foundation,1
+10,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,4.09,405960,9295,,
+11,Catching Fire,Suzanne Collins,2009,4.3,3069935,8992,The Hunger Games,2
+12,Mockingjay,Suzanne Collins,2010,4.06,2808858,8448,The Hunger Games,3
+13,The Time Machine,H.G. Wells,1895,3.9,475165,7728,,
+14,Neuromancer,William Gibson,1984,3.9,297831,7549,Sprawl,1
+15,"I, Robot",Isaac Asimov,1950,4.21,318699,7224,Robot,0.1
+16,Leviathan Wakes,James S.A. Corey,2011,4.28,226016,6979,The Expanse,1
+17,The Three-Body Problem,Liu Cixin,2006,4.08,233011,6560,Remembrance of Earth’s Past,1
+18,Jurassic Park,Michael Crichton,1990,4.07,890331,6475,Jurassic Park,1
+19,Divergent,Veronica Roth,2011,4.16,3546767,6418,Divergent,1
+20,The Handmaid's Tale,Margaret Atwood,1985,4.13,1801729,6362,The Handmaid's Tale,1
+21,2001: A Space Odyssey,Arthur C. Clarke,1968,4.16,290745,6318,,
+22,The War of the Worlds,H.G. Wells,1897,3.83,284137,6265,,
+23,Stranger in a Strange Land,Robert A. Heinlein,1961,3.92,297694,6186,,
+24,Hyperion,Dan Simmons,1989,4.25,220015,6131,Hyperion Cantos,1
+25,The Restaurant at the End of the Universe,Douglas Adams,1980,4.21,263364,6114,Hitchhiker's Guide to the Galaxy,2
+26,Cinder,Marissa Meyer,2012,4.13,832620,6050,The Lunar Chronicles,1
+27,The Left Hand of Darkness,Ursula K. Le Guin,1969,4.09,152185,6018,Hainish Cycle,4
+28,All Systems Red,Martha Wells,2017,4.16,153114,6003,The Murderbot Diaries,1
+29,The Martian Chronicles,Ray Bradbury,1950,4.15,241051,5958,,
+30,Slaughterhouse-Five,Kurt Vonnegut Jr.,1969,4.09,1265251,5841,,
+31,Project Hail Mary,Andy Weir,2021,4.52,331893,5718,,
+32,Speaker for the Dead,Orson Scott Card,1986,4.08,240578,5676,Ender's Saga,2
+33,Speaker for the Dead,Orson Scott Card,1986,4.08,240578,5675,Ender's Saga,2
+34,Snow Crash,Neal Stephenson,1992,4.03,261243,5637,,
+35,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,1818,3.84,1390629,5636,,
+36,Red Rising,Pierce Brown,2014,4.26,311677,5627,Red Rising Saga,1
+37,Dune Messiah,Frank Herbert,1969,3.89,215333,5606,Dune,2
+38,The Giver,Lois Lowry,1993,4.13,2177588,5520,The Giver,1
+39,Foundation and Empire,Isaac Asimov,1952,4.22,185313,5399,Foundation,2
+40,A Wrinkle in Time,Madeleine L'Engle,1962,3.99,1131894,5272,Time Quintet,1
+41,"The Long Way to a Small, Angry Planet",Becky  Chambers,2014,4.17,113226,5065,Wayfarers,1
+42,Second Foundation,Isaac Asimov,1953,4.26,168642,4937,Foundation,3
+43,"Life, the Universe and Everything",Douglas Adams,1982,4.18,217925,4932,Hitchhiker's Guide to the Galaxy,3
+44,Starship Troopers,Robert A. Heinlein,1959,4.01,213407,4877,,
+45,Artemis,Andy Weir,2017,3.69,227109,4782,,
+46,The Maze Runner,James Dashner,2009,4.04,1328095,4747,The Maze Runner,1
+47,The Forever War,Joe Haldeman,1974,4.14,154937,4737,The Forever War,1
+48,Annihilation,Jeff VanderMeer,2014,3.74,192833,4731,,
+49,Childhood's End,Arthur C. Clarke,1953,4.11,146818,4613,,
+50,The Man in the High Castle,Philip K. Dick,1962,3.61,194233,4530,,
+51,Rendezvous with Rama,Arthur C. Clarke,1973,4.11,152294,4521,Rama,1
+52,Ancillary Justice,Ann Leckie,2013,3.98,95109,4506,Imperial Radch,1
+53,Flowers for Algernon,Daniel Keyes,1959,4.18,583145,4486,,
+54,Children of Dune,Frank Herbert,1976,3.95,149651,4317,Dune,3
+55,The Host,Stephenie Meyer,2008,3.85,963525,4299,The Host,1
+56,Station Eleven,Emily St. John Mandel,2014,4.07,428626,4298,,
+57,"So Long, and Thanks for All the Fish",Douglas Adams,1984,4.09,160771,4136,The Hitchhiker's Guide to the Galaxy,4
+58,Never Let Me Go,Kazuo Ishiguro,2005,3.84,593716,4129,,
+59,Insurgent,Veronica Roth,2012,3.99,1369318,4113,Divergent,2
+60,The Dispossessed,Ursula K. Le Guin,1974,4.23,107302,4043,Hainish Cycle,6
+61,The Moon Is a Harsh Mistress,Robert A. Heinlein,1966,4.16,123072,3984,,
+62,Scarlet,Marissa Meyer,2013,4.26,377748,3890,The Lunar Chronicles,2
+63,Redshirts,John Scalzi,2012,3.86,97739,3860,,
+64,Illuminae,Amie Kaufman,2015,4.25,142003,3852,The Illuminae Files,1
+65,Xenocide,Orson Scott Card,1991,3.81,150509,3822,Ender's Saga,3
+66,Caliban's War,James S.A. Corey,2012,4.36,130379,3812,The Expanse,2
+67,Ringworld,Larry Niven,1970,3.95,114875,3722,Ringworld,1
+68,Oryx and Crake,Margaret Atwood,2003,4.01,248582,3606,MaddAddam,1
+69,Recursion,Blake Crouch,2019,4.16,178668,3559,,
+70,A Canticle for Leibowitz,Walter M. Miller Jr.,1959,3.98,102299,3551,St. Leibowitz,1
+71,Ender's Shadow,Orson Scott Card,1999,4.31,164822,3545,The Shadow Series,1
+72,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,1996,4.38,308538,3480,Hitchhiker's Guide to the Galaxy,1
+73,Altered Carbon,Richard K. Morgan,2002,4.04,98831,3475,Takeshi Kovacs,1
+74,The Invisible Man,H.G. Wells,1897,3.64,173634,3470,,
+75,Artificial Condition,Martha Wells,2018,4.27,90731,3451,The Murderbot Diaries,2
+76,The Caves of Steel,Isaac Asimov,1953,4.18,90363,3444,Robot,1
+77,Cress,Marissa Meyer,2014,4.42,332262,3426,The Lunar Chronicles,3
+78,The 5th Wave,Rick Yancey,2013,4.02,433515,3405,The 5th Wave,1
+79,Wool Omnibus,Hugh Howey,2012,4.21,174685,3394,Silo,1
+80,Consider Phlebas,Iain M. Banks,1987,3.86,83832,3346,Culture,1
+81,Sleeping Giants,Sylvain Neuvel,2016,3.83,82889,3326,Themis Files,1
+82,Twenty Thousand Leagues Under the Sea,Jules Verne,1870,3.89,232736,3302,,
+83,This is How You Lose the Time War,Amal El-Mohtar,2019,3.96,101160,3292,,
+84,Mostly Harmless,Douglas Adams,1992,3.97,121849,3268,Hitchhiker's Guide to the Galaxy,5
+85,Allegiant,Veronica Roth,2013,3.61,962640,3253,Divergent,3
+86,The Andromeda Strain,Michael Crichton,1969,3.91,242679,3237,Andromeda,1
+87,Cat's Cradle,Kurt Vonnegut Jr.,1963,4.16,373430,3223,,
+88,Children of Time,Adrian Tchaikovsky,2015,4.29,86059,3222,Children of Time,1
+89,Abaddon's Gate,James S.A. Corey,2013,4.26,110084,3180,The Expanse,3
+90,Solaris,Stanisław Lem,1961,3.99,90292,3141,,
+91,Contact,Carl Sagan,1985,4.14,134697,3138,,
+92,Uglies,Scott Westerfeld,2005,3.85,622990,3136,Uglies,1
+93,Binti,Nnedi Okorafor,2015,3.89,63813,3131,Binti,1
+94,Red Mars,Kim Stanley Robinson,1992,3.86,75897,3125,Mars Trilogy,1
+95,Stories of Your Life and Others,Ted Chiang,2002,4.25,86744,3092,,
+96,The Road,Cormac McCarthy,2006,3.98,812179,3084,,
+97,Foundation's Edge,Isaac Asimov,1982,4.16,81384,3058,Foundation,4
+98,Kindred,Octavia E. Butler,1979,4.29,153340,3041,,
+99,Golden Son,Pierce Brown,2015,4.44,186822,3034,Red Rising Saga,2
+100,Seveneves,Neal Stephenson,2015,3.99,107384,3032,,
+101,A Clockwork Orange,Anthony Burgess,1962,4.0,665672,3001,,
+102,The Fall of Hyperion,Dan Simmons,1990,4.22,111344,2999,Hyperion Cantos,2
+103,God Emperor of Dune,Frank Herbert,1981,3.87,90461,2985,Dune,4
+104,Ubik,Philip K. Dick,1969,4.1,97668,2970,,
+105,Parable of the Sower,Octavia E. Butler,1993,4.21,121587,2895,Earthseed,1
+106,Rogue Protocol,Martha Wells,2018,4.26,72032,2877,The Murderbot Diaries,3
+107,The Windup Girl,Paolo Bacigalupi,2009,3.74,72162,2863,,
+108,Journey to the Center of the Earth,Jules Verne,1864,3.86,178955,2858,,
+109,World War Z: An Oral History of the Zombie War,Max Brooks,2006,4.01,489745,2799,,
+110,The Island of Dr. Moreau,H.G. Wells,1896,3.73,109641,2780,,
+111,Children of the Mind,Orson Scott Card,1996,3.77,103402,2780,Ender's Saga,4
+112,Skyward,Brandon Sanderson,2018,4.5,108822,2753,Skyward,1
+113,Winter,Marissa Meyer,2015,4.43,246122,2739,The Lunar Chronicles,4
+114,Cloud Atlas,David Mitchell,2004,4.01,236259,2738,,
+115,The Day of the Triffids,John Wyndham,1951,4.01,99860,2712,,
+116,The Lathe of Heaven,Ursula K. Le Guin,1971,4.12,63840,2684,,
+117,The Time Traveler's Wife,Audrey Niffenegger,2004,3.99,1704701,2675,,
+118,Exit Strategy,Martha Wells,2018,4.39,64621,2635,The Murderbot Diaries,4
+119,The Scorch Trials,James Dashner,2010,3.9,527229,2634,The Maze Runner,2
+120,Cibola Burn,James S.A. Corey,2014,4.2,89470,2624,The Expanse,4
+121,Foundation and Earth,Isaac Asimov,1986,4.07,65612,2618,Foundation,5
+122,The Fifth Season,N.K. Jemisin,2015,4.32,214749,2617,The Broken Earth,1
+123,Sphere,Michael Crichton,1987,3.82,176628,2617,,
+124,Prelude to Foundation,Isaac Asimov,1988,4.15,80255,2574,,
+125,"The Diamond Age: Or, a Young Lady's Illustrated Primer",Neal Stephenson,1995,4.16,87313,2571,,
+126,11/22/63,Stephen King,2011,4.32,485279,2566,,
+127,Doomsday Book,Connie Willis,1992,4.03,55673,2545,Oxford Time Travel,1
+128,The Sparrow,Mary Doria Russell,1996,4.13,70266,2532,The Sparrow,1
+129,A Scanner Darkly,Philip K. Dick,1977,4.02,97547,2521,,
+130,The Dark Forest,Liu Cixin,2008,4.41,101703,2514,Remembrance of Earth’s Past,2
+131,"Saga, Volume 1",Brian K. Vaughan,2012,4.17,303222,2508,,
+132,Morning Star,Pierce Brown,2016,4.48,155592,2506,Red Rising Saga,3
+133,The Ghost Brigades,John Scalzi,2006,4.11,77044,2461,Old Man's War,2
+134,Armada,Ernest Cline,2015,3.54,112371,2453,,
+135,Lock In,John Scalzi,2014,3.9,62094,2444,Lock In,1
+136,The Stars My Destination,Alfred Bester,1956,4.08,47352,2431,,
+137,The Knife of Never Letting Go,Patrick Ness,2008,3.97,183805,2415,Chaos Walking,1
+138,Timeline,Michael Crichton,1999,3.86,199081,2413,,
+139,Scythe,Neal Shusterman,2016,4.33,227875,2412,Arc of a Scythe,1
+140,A Fire Upon the Deep,Vernor Vinge,1992,4.13,56553,2411,Zones of Thought,1
+141,The Illustrated Man,Ray Bradbury,1951,4.13,90248,2402,,
+142,The Sirens of Titan,Kurt Vonnegut Jr.,1959,4.14,129194,2379,,
+143,The Naked Sun,Isaac Asimov,1958,4.17,51423,2370,Robot,2
+144,The Lost World,Michael Crichton,1995,3.82,140597,2368,Jurassic Park,2
+145,A Memory Called Empire,Arkady Martine,2019,4.13,40352,2347,Teixcalaan,1
+146,Heretics of Dune,Frank Herbert,1984,3.88,68637,2335,Dune,5
+147,The Player of Games,Iain M. Banks,1988,4.27,66542,2326,Culture,2
+148,Revelation Space,Alastair Reynolds,2000,3.99,50835,2314,Revelation Space,1
+149,The Girl with All the Gifts,M.R. Carey,2014,3.95,210582,2297,The Girl with All the Gifts,1
+150,Nemesis Games,James S.A. Corey,2015,4.42,80091,2283,The Expanse,5
+151,Out of the Silent Planet,C.S. Lewis,1938,3.92,85463,2279,The Space Trilogy,1
+152,A Closed and Common Orbit,Becky  Chambers,2016,4.35,54572,2259,Wayfarers,2
+153,Animal Farm,George Orwell,1945,3.98,3390135,2254,,
+154,The Gods Themselves,Isaac Asimov,1972,4.09,58909,2233,,
+155,Legend,Marie Lu,2011,4.16,487776,2222,Legend,1
+156,Anathem,Neal Stephenson,2008,4.16,68580,2203,,
+157,Dirk Gently's Holistic Detective Agency,Douglas Adams,1987,3.97,133779,2202,Dirk Gently,1
+158,Network Effect,Martha Wells,2020,4.47,53920,2193,The Murderbot Diaries,5
+159,The Collapsing Empire,John Scalzi,2017,4.11,47361,2177,The Interdependency,1
+160,Klara and the Sun,Kazuo Ishiguro,2021,3.77,222460,2176,,
+161,The Death Cure,James Dashner,2011,3.78,402861,2165,The Maze Runner,3
+162,Across the Universe,Beth Revis,2011,3.77,117192,2151,Across the Universe,1
+163,The Mote in God's Eye,Larry Niven,1974,4.07,67075,2146,Moties,1
+164,Exhalation,Ted Chiang,2019,4.27,71792,2136,,
+165,Unwind,Neal Shusterman,2007,4.17,213469,2129,Unwind,1
+166,I Am Number Four,Pittacus Lore,2010,3.94,332408,2124,Lorien Legacies,1
+167,Warcross,Marie Lu,2017,4.15,104380,2124,Warcross,1
+168,The Robots of Dawn,Isaac Asimov,1983,4.18,45173,2122,Robot,3
+169,Cryptonomicon,Neal Stephenson,1999,4.24,107087,2086,,
+170,We,Yevgeny Zamyatin,1924,3.9,85844,2080,,
+171,Shards of Honour,Lois McMaster Bujold,1986,4.08,34023,2080,Vorkosigan Saga,1
+172,Heir to the Empire,Timothy Zahn,1991,4.15,81262,2079,Star Wars: The Thrawn Trilogy,1
+173,The Foundation Trilogy,Isaac Asimov,1953,4.41,97849,2057,Foundation,1
+174,Chapterhouse: Dune,Frank Herbert,1985,3.91,57350,2056,Dune,6
+175,Roadside Picnic,Arkady Strugatsky,1972,4.16,55450,2047,,
+176,Ancillary Sword,Ann Leckie,2014,4.06,48241,2041,Imperial Radch,2
+177,Dawn,Octavia E. Butler,1987,4.15,40992,2037,Xenogenesis,1
+178,2010: Odyssey Two,Arthur C. Clarke,1982,3.93,54365,1998,,
+179,Babylon's Ashes,James S.A. Corey,2016,4.24,66545,1997,The Expanse,6
+180,The Last Colony,John Scalzi,2007,4.08,58898,1951,Old Man's War,3
+181,Death's End,Liu Cixin,2010,4.43,78883,1932,Remembrance of Earth’s Past,3
+182,Vicious,V.E. Schwab,2013,4.23,175673,1931,Villains,1
+183,A Princess of Mars,Edgar Rice Burroughs,1912,3.81,54900,1926,Barsoom,1
+184,We Are Legion,Dennis E. Taylor,2016,4.28,75003,1920,Bobiverse,1
+185,Pandora's Star,Peter F. Hamilton,2004,4.23,46739,1917,Commonwealth Saga,1
+186,Matched,Ally Condie,2010,3.63,732228,1917,Matched,1
+187,Pretties,Scott Westerfeld,2005,3.84,249815,1899,Uglies,2
+188,Gemina,Amie Kaufman,2016,4.45,71106,1871,The Illuminae Files,2
+189,Authority,Jeff VanderMeer,2014,3.53,72828,1870,,
+190,The Passage,Justin Cronin,2010,4.04,201683,1851,The Passage,1
+191,Gideon the Ninth,Tamsyn Muir,2019,4.23,82790,1843,The Locked Tomb,1
+192,Forward the Foundation,Isaac Asimov,1993,4.15,51745,1820,Foundation: Prequel ,2
+193,Steelheart,Brandon Sanderson,2013,4.14,168785,1814,The Reckoners,1
+194,The Stand,Stephen King,1978,4.34,702280,1804,,
+195,I Am Legend,Richard Matheson,1954,4.06,117123,1792,,
+196,The End of Eternity,Isaac Asimov,1955,4.24,51491,1787,,
+197,The End of Eternity,Isaac Asimov,1955,4.24,51491,1787,,
+198,The Long Earth,Terry Pratchett,2012,3.77,55774,1778,The Long Earth,1
+199,"Saga, Volume 2",Brian K. Vaughan,2013,4.5,104318,1773,,
+200,The Calculating Stars,Mary Robinette Kowal,2018,3.97,28955,1762,Lady Astronaut Universe,1
+201,Endymion,Dan Simmons,1996,4.18,54390,1759,Hyperion Cantos,3
+202,Blindsight,Peter Watts,2006,4.01,34279,1728,Firefall,1
+203,Spin,Robert Charles Wilson,2005,4.02,38946,1727,Spin,1
+204,To Say Nothing of the Dog,Connie Willis,1997,4.11,37861,1721,Oxford Time Travel,2
+205,The Year of the Flood,Margaret Atwood,2009,4.05,117838,1712,MaddAddam,2
+206,On Basilisk Station,David Weber,1992,4.13,44644,1712,Honor Harrington,1
+207,"To Be Taught, If Fortunate",Becky  Chambers,2019,4.2,31422,1702,,
+208,A Psalm for the Wild-Built,Becky  Chambers,2021,4.29,37058,1673,Monk & Robot,1
+209,These Broken Stars,Amie Kaufman,2013,3.9,68127,1663,Starbound,1
+210,Gateway,Frederik Pohl,1977,4.06,42742,1663,Heechee Saga,1
+211,Use of Weapons,Iain M. Banks,1990,4.17,44097,1660,Culture,3
+212,Ready Player Two,Ernest Cline,2020,3.43,125306,1656,Ready Player One,2
+213,Aurora Rising,Amie Kaufman,2019,4.12,57133,1656,The Aurora Cycle,1
+214,Persepolis Rising,James S.A. Corey,2017,4.37,56329,1650,The Expanse,7
+215,Ancillary Mercy,Ann Leckie,2015,4.2,39043,1637,Imperial Radch,3
+216,To Sleep in a Sea of Stars,Christopher Paolini,2020,3.78,42594,1633,,
+217,Fugitive Telemetry,Martha Wells,2021,4.32,39929,1632,The Murderbot Diaries,6
+218,The First Fifteen Lives of Harry August,Claire North,2014,4.03,79471,1629,,
+219,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,3.83,489508,1621,,
+220,Prey,Michael Crichton,2002,3.77,170978,1613,,
+221,Count Zero,William Gibson,1986,4.01,50053,1607,Sprawl,2
+222,The Demolished Man,Alfred Bester,1953,3.98,30441,1599,,
+223,The Humans,Matt Haig,2013,4.08,91891,1597,,
+224,Specials,Scott Westerfeld,2006,3.76,181771,1594,Uglies,3
+225,The Rise of Endymion,Dan Simmons,1997,4.17,51106,1594,Hyperion Cantos,4
+226,Shadow Puppets,Orson Scott Card,2002,3.89,57125,1586,The Shadow Series,3
+227,Watchmen,Alan Moore,1987,4.37,527977,1573,,
+228,Record of a Spaceborn Few,Becky  Chambers,2018,4.1,35596,1572,Wayfarers,3
+229,Dark Force Rising,Timothy Zahn,1992,4.17,58808,1540,Star Wars: The Thrawn Trilogy,2
+230,An Absolutely Remarkable Thing,Hank Green,2018,4.04,96353,1531,The Carls,1
+231,Under the Dome,Stephen King,2009,3.91,281840,1525,,
+232,"Saga, Volume 3",Brian K. Vaughan,2014,4.49,89202,1521,,
+233,Fairest,Marissa Meyer,2015,3.97,125630,1519,The Lunar Chronicles,3.5
+234,The City of Ember,Jeanne DuPrau,2003,3.88,267410,1489,Book of Ember,1
+235,Waking Gods,Sylvain Neuvel,2017,4.01,41644,1479,Themis Files,2
+236,Acceptance,Jeff VanderMeer,2014,3.62,56056,1478,,
+237,Green Mars,Kim Stanley Robinson,1993,3.94,35978,1477,Mars Trilogy,2
+238,The Last Command,Timothy Zahn,1993,4.24,52651,1456,Star Wars: The Thrawn Trilogy,3
+239,Starsight,Brandon Sanderson,2019,4.4,68202,1455,Skyward,2
+240,Obsidio,Amie Kaufman,2018,4.47,48302,1453,The Illuminae Files,3
+241,Delirium,Lauren Oliver,2011,3.96,451326,1451,Delirium,1
+242,Mona Lisa Overdrive,William Gibson,1988,4.0,40605,1451,Sprawl,3
+243,The City and the Stars,Arthur C. Clarke,1956,4.08,31575,1446,,
+244,Embassytown,China Miéville,2011,3.89,29903,1442,,
+245,Perelandra,C.S. Lewis,1943,3.98,47707,1434,The Space Trilogy,2
+246,The Chrysalids,John Wyndham,1955,3.93,50474,1433,,
+247,Tiamat's Wrath,James S.A. Corey,2019,4.57,50835,1426,The Expanse,8
+248,Robots and Empire,Isaac Asimov,1985,4.21,30259,1417,Robot,4
+249,The Infinite Sea,Rick Yancey,2014,3.85,133257,1413,The 5th Wave,2
+250,"Flow My Tears, the Policeman Said",Philip K. Dick,1974,3.92,38106,1403,,
+251,The Space Between Worlds,Micaiah Johnson,2020,3.97,29324,1401,,
+252,Leviathan,Scott Westerfeld,2009,3.91,90510,1393,Leviathan,1
+253,The Three Stigmata of Palmer Eldritch,Philip K. Dick,1965,4.01,35785,1391,,
+254,Shift,Hugh Howey,2013,4.12,78865,1383,Silo,2
+255,The Warrior's Apprentice,Lois McMaster Bujold,1986,4.27,26432,1383,Vorkosigan Saga,2
+256,Dragonflight,Anne McCaffrey,1968,4.09,132799,1376,Dragonriders of Pern,1
+257,Shadow of the Giant,Orson Scott Card,2005,4.01,51759,1373,The Shadow Series,4
+258,Lord of Light,Roger Zelazny,1967,4.07,31031,1367,,
+259,2061: Odyssey Three,Arthur C. Clarke,1989,3.59,29189,1363,,
+260,Feed,M.T. Anderson,2002,3.56,61251,1354,,
+261,The Obelisk Gate,N.K. Jemisin,2016,4.31,130745,1350,The Broken Earth,2
+262,Ender in Exile,Orson Scott Card,2008,3.91,47750,1350,Ender's Saga,5
+263,Sea of Tranquility,Emily St. John Mandel,2022,4.17,78549,1348,,
+264,"Saga, Volume 4",Brian K. Vaughan,2014,4.43,73585,1346,,
+265,Ninefox Gambit,Yoon Ha Lee,2016,3.81,17944,1339,The Machineries of Empire,1
+266,The Gunslinger,Stephen King,1982,3.94,565554,1312,The Dark Tower,1
+267,Shatter Me,Tahereh Mafi,2011,3.9,522246,1310,Shatter Me,1
+268,The Reality Dysfunction,Peter F. Hamilton,1996,4.13,34690,1306,Night's Dawn,1
+269,The Word for World Is Forest,Ursula K. Le Guin,1972,4.01,24478,1296,Hainish Cycle,5
+270,Nightfall,Isaac Asimov,1990,4.05,34312,1271,,
+271,Fuzzy Nation,John Scalzi,2011,4.12,28954,1269,Fuzzy Sapiens ,7
+272,Perdido Street Station,China Miéville,2000,3.97,65496,1267,New Crobuzon,1
+273,Blue Mars,Kim Stanley Robinson,1996,3.94,29245,1261,Mars Trilogy,3
+274,Robopocalypse,Daniel H. Wilson,2011,3.7,38061,1258,Robopocalypse,1
+275,The House of the Scorpion,Nancy Farmer,2002,4.07,88385,1254,Matteo Alacran,1
+276,Thunderhead,Neal Shusterman,2018,4.42,128299,1252,Arc of a Scythe,2
+277,The Darkest Minds,Alexandra Bracken,2012,4.16,176393,1246,The Darkest Minds,1
+278,Flatland: A Romance of Many Dimensions,Edwin A. Abbott,1884,3.81,64419,1245,,
+279,The Circle,Dave Eggers,2013,3.44,203592,1238,,
+280,Barrayar,Lois McMaster Bujold,1991,4.3,27337,1237,Vorkosigan Saga,7
+281,Burning Chrome,William Gibson,1986,4.06,37546,1235,Sprawl,0
+282,All the Birds in the Sky,Charlie Jane Anders,2016,3.59,42947,1227,All the Birds in the Sky,1
+283,Sundiver,David Brin,1980,3.69,25379,1220,The Uplift Saga,1
+284,Dust,Hugh Howey,2013,4.25,74968,1216,Silo,3
+285,The Quantum Thief,Hannu Rajaniemi,2010,3.83,21210,1207,Jean le Flambeur ,1
+286,Borne,Jeff VanderMeer,2017,3.93,31728,1206,Borne,1
+287,The Angel Experiment,James Patterson,2005,4.07,218033,1204,Maximum Ride,1
+288,American Gods,Neil Gaiman,2001,4.11,857176,1199,American Gods,1
+289,Home,Nnedi Okorafor,2017,4.06,25070,1197,Binti,2
+290,Pebble in the Sky,Isaac Asimov,1950,3.89,22480,1196,Galactic Empire,3
+291,The Stone Sky,N.K. Jemisin,2017,4.36,109612,1193,The Broken Earth,3
+292,The Long Dark Tea-Time of the Soul,Douglas Adams,1988,4.03,83800,1193,Dirk Gently,2
+293,The City & the City,China Miéville,2009,3.9,63208,1188,,
+294,Ilium,Dan Simmons,2003,4.03,28591,1185,Ilium,1
+295,3001: The Final Odyssey,Arthur C. Clarke,1999,3.57,24357,1184,,
+296,Judas Unchained,Peter F. Hamilton,2005,4.3,35393,1176,Commonwealth Saga,2
+297,Blackout,Connie Willis,2010,3.84,24299,1175,All Clear,1
+298,Broken Angels,Richard K. Morgan,2003,3.93,34521,1174,Takeshi Kovacs,2
+299,Congo,Michael Crichton,1980,3.61,165673,1174,,
+300,MaddAddam,Margaret Atwood,2013,4.0,70984,1170,MaddAddam,3
+301,Gone,Michael  Grant,2008,3.86,193793,1170,Gone,1
+302,Lucifer's Hammer,Larry Niven,1977,3.99,42440,1168,,
+303,"Saga, Volume 5",Brian K. Vaughan,2015,4.41,63839,1166,,
+304,Dauntless,Jack Campbell,2006,3.96,29790,1163,The Lost Fleet,1
+305,The Midnight Library,Matt Haig,2020,4.03,1132927,1159,,
+306,The Ask and the Answer,Patrick Ness,2009,4.19,90523,1159,Chaos Walking,2
+307,Pattern Recognition,William Gibson,2003,3.86,49123,1156,Blue Ant,1
+308,Mortal Engines,Philip Reeve,2001,3.77,59155,1155,Mortal Engines,1
+309,The Fountains of Paradise,Arthur C. Clarke,1979,3.96,28435,1152,,
+310,Startide Rising,David Brin,1983,4.04,31029,1147,The Uplift Saga,2
+311,"The Stars, Like Dust",Isaac Asimov,1951,3.74,21074,1147,Galactic Empire,1
+312,A Wind in the Door,Madeleine L'Engle,1973,4.0,124753,1144,Time Quintet,2
+313,House of Suns,Alastair Reynolds,2008,4.23,24652,1144,,
+314,A Thousand Pieces of You,Claudia Gray,2014,3.9,55466,1143,Firebird,1
+315,The Vor Game,Lois McMaster Bujold,1990,4.27,23765,1141,Vorkosigan Saga,6
+316,2312,Kim Stanley Robinson,2012,3.5,18842,1141,,
+317,To Your Scattered Bodies Go,Philip José Farmer,1971,3.94,30753,1141,Riverworld,1
+318,Little Brother,Cory Doctorow,2008,3.93,49607,1140,Little Brother,1
+319,Excession,Iain M. Banks,1996,4.2,28568,1135,Culture,5
+320,That Hideous Strength,C.S. Lewis,1945,3.89,36075,1135,The Space Trilogy,3
+321,Renegades,Marissa Meyer,2017,4.15,113925,1129,Renegades,1
+322,Time Enough for Love,Robert A. Heinlein,1973,3.97,34275,1129,,
+323,Aurora,Kim Stanley Robinson,2015,3.75,23306,1127,,
+324,Way Station,Clifford D. Simak,1988,4.03,25430,1124,,
+325,The Golden Compass,Philip Pullman,1995,4.01,1430899,1120,His Dark Materials,1
+326,"Paper Girls, Volume 1",Brian K. Vaughan,2016,3.88,88519,1119,,
+327,Have Space Suit—Will Travel,Robert A. Heinlein,1958,3.92,29098,1117,,
+328,The Postman,David Brin,1985,3.89,34042,1116,,
+329,Iron Gold,Pierce Brown,2018,4.22,61773,1114,Red Rising Saga,4
+330,The Human Division,John Scalzi,2013,4.08,31218,1112,Old Man's War,5
+331,Stars Above,Marissa Meyer,2016,4.18,82758,1107,The Lunar Chronicles,4.5
+332,The Ballad of Songbirds and Snakes,Suzanne Collins,2020,3.83,319489,1107,The Hunger Games,0
+333,A Deepness in the Sky,Vernor Vinge,1999,4.31,31501,1105,Zones of Thought,2
+334,Extras,Scott Westerfeld,2006,3.6,113566,1104,Uglies,4
+335,An Unkindness of Ghosts,Rivers Solomon,2017,3.98,16630,1100,,
+336,Parable of the Talents,Octavia E. Butler,1998,4.3,44134,1100,Earthseed,2
+337,Babel-17,Samuel R. Delany,1966,3.74,15754,1088,,
+338,Too Like the Lightning,Ada Palmer,2016,3.81,11965,1077,Terra Ignota,1
+339,Six Wakes,Mur Lafferty,2017,3.83,15525,1072,,
+340,Eon,Greg Bear,1985,3.88,27835,1069,The Way,1
+341,Planet of the Apes,Pierre Boulle,1963,3.97,37825,1061,,
+342,The Door Into Summer,Robert A. Heinlein,1957,4.01,24552,1056,,
+343,Metro 2033,Dmitry Glukhovsky,2002,4.0,53619,1055,Metro,1
+344,Rama II,Arthur C. Clarke,1989,3.7,25234,1052,Rama,2
+345,The Testaments,Margaret Atwood,2019,4.2,305440,1051,The Handmaid's Tale,2
+346,I Have No Mouth and I Must Scream,Harlan Ellison,1967,3.9,28557,1050,,
+347,Wool,Hugh Howey,2011,4.12,81120,1050,Wool,1
+348,Life As We Knew It,Susan Beth Pfeffer,2006,3.88,124275,1050,Last Survivors,1
+349,The Ringworld Engineers,Larry Niven,1979,3.87,31056,1045,Ringworld,2
+350,Prodigy,Marie Lu,2013,4.24,241495,1043,Legend,2
+351,Chasm City,Alastair Reynolds,2001,4.13,23312,1039,,
+352,Fortune's Pawn,Rachel Bach,2013,3.94,14653,1038,Paradox ,1
+353,Only Human,Sylvain Neuvel,2018,3.63,27866,1034,Themis Files,3
+354,VALIS,Philip K. Dick,1981,3.92,27654,1033,,
+355,Redemption Ark,Alastair Reynolds,2002,4.15,27316,1028,Revelation Space,2
+356,The Consuming Fire,John Scalzi,2018,4.21,27398,1026,The Interdependency,2
+357,Feed,Mira Grant,2010,3.85,56089,1025,Newsflesh,1
+358,Friday,Robert A. Heinlein,1982,3.84,28574,1024,,
+359,The Puppet Masters,Robert A. Heinlein,1951,3.88,31736,1023,,
+360,"Saga, Volume 6",Brian K. Vaughan,2016,4.47,48940,1022,,
+361,The Dreaming Void,Peter F. Hamilton,2007,4.18,26571,1017,,
+362,For We Are Many,Dennis E. Taylor,2017,4.37,46695,1017,Bobiverse,2
+363,The Kaiju Preservation Society,John Scalzi,2022,4.08,22354,1015,,
+364,Provenance,Ann Leckie,2017,3.83,16630,1015,,
+365,Daemon,Daniel Suarez,2006,4.16,44016,1014,Daemon,1
+366,The Honor of the Queen,David Weber,1993,4.22,27516,1013,Honor Harrington,2
+367,Falling Free,Lois McMaster Bujold,1988,3.84,20231,1007,Vorkosigan Saga,4
+368,I Am Legend and Other Stories,Richard Matheson,1954,4.0,126376,1000,,
+369,Monsters of Men,Patrick Ness,2010,4.22,81079,992,Chaos Walking,3
+370,The Children of Men,P.D. James,1992,3.68,44420,981,,
+371,The Currents of Space,Isaac Asimov,1952,3.84,17750,979,Galactic Empire,2
+372,Gathering Blue,Lois Lowry,2000,3.82,177967,972,The Giver,2
+373,The Kill Order,James Dashner,2012,3.71,204092,972,The Maze Runner,0.4
+374,"The Galaxy, and the Ground Within",Becky  Chambers,2021,4.42,20533,971,Wayfarers,4
+375,Pines,Blake Crouch,2012,3.94,104405,971,Wayward Pines,1
+376,Winter's Orbit,Everina Maxwell,2021,4.03,16193,964,,
+377,Ship Breaker,Paolo Bacigalupi,2010,3.75,43660,964,Ship Breaker,1
+378,More Than Human,Theodore Sturgeon,1953,3.95,17256,960,,
+379,Matter,Iain M. Banks,2008,4.09,25944,960,Culture,8
+380,More Than This,Patrick Ness,2013,3.96,60356,956,,
+381,Something Wicked This Way Comes,Ray Bradbury,1962,3.92,117104,956,Green Town,2
+382,Blindness,José Saramago,1996,4.16,251452,952,,
+383,Rosewater,Tade Thompson,2017,3.76,12966,952,The Wormwood Trilogy,1
+384,Look to Windward,Iain M. Banks,2000,4.21,25178,952,Culture,7
+385,Cetaganda,Lois McMaster Bujold,1995,4.17,18834,952,Vorkosigan Saga,9
+386,Iron Widow,Xiran Jay Zhao,2021,4.17,45518,951,Iron Widow,1
+387,The Power of Six,Pittacus Lore,2011,4.15,132133,948,Lorien Legacies,2
+388,Grimspace,Ann Aguirre,2008,3.74,15309,943,Sirantha Jax,1
+389,The Midwich Cuckoos,John Wyndham,1957,3.92,22384,942,,
+390,Firefight,Brandon Sanderson,2015,4.26,93378,942,The Reckoners,2
+391,The Eyre Affair,Jasper Fforde,2001,3.88,128957,940,Thursday Next,1
+392,Upgrade,Blake Crouch,2022,3.87,36882,938,,
+393,Leviathan Falls,James S.A. Corey,2021,4.54,35628,936,The Expanse,9
+394,Stand on Zanzibar,John Brunner,1968,3.94,15985,936,,
+395,Under the Never Sky,Veronica Rossi,2011,3.99,113270,934,Under the Never Sky,1
+396,Crossed,Ally Condie,2011,3.52,234025,933,Matched,2
+397,The Toll,Neal Shusterman,2019,4.21,87885,929,Arc of a Scythe,3
+398,When You Reach Me,Rebecca Stead,2009,4.08,104926,929,,
+399,Around the World in Eighty Days,Jules Verne,1872,3.94,221747,928,,
+400,Wild Seed,Octavia E. Butler,1980,4.21,28826,927,Patternmaster,1
+401,A Swiftly Tilting Planet,Madeleine L'Engle,1978,4.08,106346,927,Time Quintet,3
+402,The Android's Dream,John Scalzi,2006,3.98,20676,926,,
+403,The Lost World,Arthur Conan Doyle,1912,3.93,62635,923,Professor Challenger ,1
+404,Children of Ruin,Adrian Tchaikovsky,2019,4.06,25503,921,Children of Time,2
+405,The Adoration of Jenna Fox,Mary E. Pearson,2008,3.69,50952,916,Jenna Fox Chronicles,1
+406,A Million Suns,Beth Revis,2012,4.01,53451,915,Across the Universe,2
+407,The Echo Wife,Sarah Gailey,2021,3.63,25094,912,,
+408,Just One Damned Thing After Another,Jodi Taylor,2013,3.88,39420,911,The Chronicles of St Mary's,1
+409,Space Opera,Catherynne M. Valente,2018,3.47,14253,908,,
+410,Axiom's End,Lindsay  Ellis,2020,3.74,19728,904,Noumena,1
+411,The Algebraist,Iain M. Banks,2004,4.03,21081,904,,
+412,The Night Masquerade,Nnedi Okorafor,2018,4.02,19100,898,Binti,3
+413,City,Clifford D. Simak,1952,4.08,15977,898,,
+414,Woken Furies,Richard K. Morgan,2005,4.02,28808,897,Takeshi Kovacs,3
+415,Double Star,Robert A. Heinlein,1956,3.91,21792,896,,
+416,Downbelow Station,C.J. Cherryh,1981,3.9,14860,894,The Company Wars,1
+417,Obsidian,Jennifer L. Armentrout,2011,4.15,267410,894,Lux,1
+418,Mirror Dance,Lois McMaster Bujold,1994,4.31,21024,891,Vorkosigan Saga,8
+419,Breakfast of Champions,Kurt Vonnegut Jr.,1973,4.07,243832,889,,
+420,Brothers in Arms,Lois McMaster Bujold,1989,4.19,17024,888,Vorkosigan Saga,5
+421,City of Golden Shadow,Tad Williams,1996,3.92,26631,885,Otherland,1
+422,Earth Abides,George R. Stewart,1949,3.95,27886,884,,
+423,The Minority Report,Philip K. Dick,1956,3.84,20920,882,,
+424,Nexus,Ramez Naam,2012,4.04,19426,881,Nexus,1
+425,A Civil Campaign,Lois McMaster Bujold,1999,4.4,18139,881,Vorkosigan Saga,12
+426,Accelerando,Charles Stross,2005,3.88,20513,881,,
+427,The Selection,Kiera Cass,2012,4.1,1308131,880,The Selection,1
+428,Memory,Lois McMaster Bujold,1996,4.42,17608,878,Vorkosigan Saga,10
+429,Harrow the Ninth,Tamsyn Muir,2020,4.29,38935,874,The Locked Tomb,2
+430,"Saga, Volume 7",Brian K. Vaughan,2017,4.48,41255,874,,
+431,Surface Detail,Iain M. Banks,2010,4.25,26301,873,Culture ,9
+432,All These Worlds,Dennis E. Taylor,2017,4.41,41054,871,Bobiverse,3
+433,The Last Star,Rick Yancey,2016,3.62,68574,871,The 5th Wave,3
+434,Replay,Ken Grimwood,1987,4.15,35685,870,,
+435,Wildcard,Marie Lu,2018,4.0,47826,868,Warcross,2
+436,Champion,Marie Lu,2013,4.33,199982,867,Legend,3
+437,The Paper Menagerie and Other Stories,Ken Liu,2016,4.37,25325,866,,
+438,The Ship Who Sang,Anne McCaffrey,1969,4.03,24710,866,Brainship,1
+439,The Peripheral,William Gibson,2014,3.93,22566,864,,
+440,The Age of Miracles,Karen Thompson Walker,2012,3.66,90271,863,,
+441,1Q84,Haruki Murakami,2009,3.93,236976,862,1Q84,1
+442,Pushing Ice,Alastair Reynolds,2005,4.06,17358,860,,
+443,How to Live Safely in a Science Fictional Universe,Charles Yu,2010,3.44,16704,858,,
+444,The Difference Engine,William Gibson,1990,3.46,21149,858,,
+445,The Uplift War,David Brin,1987,4.07,25882,857,The Uplift Saga,3
+446,Carve the Mark,Veronica Roth,2017,3.78,79742,857,Carve the Mark,1
+447,The Fold,Peter Clines,2015,3.87,28716,856,Threshold,2
+448,All Clear,Connie Willis,2010,4.07,19332,855,All Clear,2
+449,Virtual Light,William Gibson,1993,3.86,24292,854,Bridge,1
+450,Dragonquest,Anne McCaffrey,1971,4.08,47931,853,Dragonriders of Pern,2
+451,The Book of Strange New Things,Michel Faber,2014,3.66,30009,853,,
+452,Absolution Gap,Alastair Reynolds,2003,4.01,20974,853,Revelation Space,3
+453,A Desolation Called Peace,Arkady Martine,2021,4.35,17532,852,Teixcalaan,2
+454,Vengeful,V.E. Schwab,2018,4.19,68901,850,Villains,2
+455,Next,Michael Crichton,2006,3.52,70292,845,,
+456,Boneshaker,Cherie Priest,2009,3.52,32833,842,The Clockwork Century,1
+457,Adulthood Rites,Octavia E. Butler,1988,4.18,18408,839,Xenogenesis,2
+458,Head On,John Scalzi,2018,4.0,20326,837,Lock In,2
+459,The End of All Things,John Scalzi,2015,3.98,21396,837,Old Man's War,6
+460,The Butcher of Anderson Station,James S.A. Corey,2011,3.99,19061,837,The Expanse,1.5
+461,Fantastic Voyage,Isaac Asimov,1966,3.91,26964,836,,
+462,Nemesis,Isaac Asimov,1989,3.8,16615,834,,
+463,The Rise and Fall of D.O.D.O.,Neal Stephenson,2017,3.86,29184,833,D.O.D.O. ,1
+464,The Cat Who Walks Through Walls,Robert A. Heinlein,1985,3.71,22482,833,,
+465,The Hydrogen Sonata,Iain M. Banks,2012,4.19,21943,832,Culture ,10
+466,All Our Wrong Todays,Elan Mastai,2017,3.75,25653,831,,
+467,CryoBurn,Lois McMaster Bujold,2010,4.06,15124,831,Vorkosigan Saga,14
+468,Ethan of Athos,Lois McMaster Bujold,1986,3.79,14882,831,Vorkosigan Saga,3
+469,Artemis Fowl,Eoin Colfer,2001,3.86,532048,827,Artemis Fowl,1
+470,Gods of Risk,James S.A. Corey,2012,3.72,18644,826,The Expanse,2.5
+471,The White Dragon,Anne McCaffrey,1978,4.19,45275,826,Dragonriders of Pern,3
+472,Dhalgren,Samuel R. Delany,1975,3.77,10640,825,,
+473,Red Queen,Victoria Aveyard,2015,4.03,835752,821,Red Queen,1
+474,We Are the Ants,Shaun David Hutchinson,2016,4.14,42526,820,,
+475,"Alas, Babylon",Pat Frank,1959,4.08,43060,819,,
+476,Planetfall,Emma Newman,2015,3.72,10831,818,Planetfall,1
+477,The Churn,James S.A. Corey,2014,4.09,20745,817,The Expanse,3.5
+478,Autonomous,Annalee Newitz,2017,3.58,15153,814,,
+479,The 100,Kass Morgan,2013,3.57,66315,814,The 100,1
+480,Lexicon,Max Barry,2013,3.91,35575,813,,
+481,Komarr,Lois McMaster Bujold,1998,4.28,16435,812,Vorkosigan Saga,11
+482,The Water Knife,Paolo Bacigalupi,2015,3.84,23952,811,,
+483,Rocannon's World,Ursula K. Le Guin,1966,3.77,16755,810,Hainish Cycle,1
+484,Reamde,Neal Stephenson,2011,3.99,53503,809,,
+485,The Short Victorious War,David Weber,1994,4.17,22531,809,Honor Harrington,3
+486,Light from Uncommon Stars,Ryka Aoki,2021,4.11,12857,806,,
+487,Tau Zero,Poul Anderson,1970,3.84,13433,804,,
+488,Captain Vorpatril's Alliance,Lois McMaster Bujold,2012,4.2,15242,801,Vorkosigan Saga,15
+489,The Butlerian Jihad,Brian Herbert,2002,3.84,38354,800,Legends of Dune,1
+490,Partials,Dan Wells,2012,3.93,57759,797,Partials Sequence,1
+491,The Last Emperox,John Scalzi,2020,4.11,22763,796,The Interdependency,3
+492,Diplomatic Immunity,Lois McMaster Bujold,2002,4.18,15422,794,Vorkosigan Saga,13
+493,The Garden of Rama,Arthur C. Clarke,1991,3.79,24014,794,Rama,3
+494,The Songs of Distant Earth,Arthur C. Clarke,1986,3.91,15010,793,,
+495,From the Earth to the Moon,Jules Verne,1865,3.77,29417,789,,
+496,Idoru,William Gibson,1996,3.82,22858,785,Bridge ,2
+497,Trading in Danger,Elizabeth Moon,2003,3.99,14452,783,Vatta's War,1
+498,House Atreides,Brian Herbert,1999,3.79,25291,782,Prelude to Dune,1
+499,The Dispatcher,John Scalzi,2016,3.99,26843,778,The Dispatcher ,1
+500,The Prefect,Alastair Reynolds,2007,4.15,18029,773,Prefect Dreyfus Emergency,1
+501,Darwin's Radio,Greg Bear,1999,3.72,15131,773,Darwin's Radio ,1
+502,Lilith's Brood,Octavia E. Butler,1987,4.37,17938,770,Xenogenesis,1
+503,Thrawn,Timothy Zahn,2017,4.29,38881,769,Star Wars: Thrawn,1
+504,Rainbows End,Vernor Vinge,2006,3.77,17617,768,,
+505,And Another Thing...,Eoin Colfer,2009,3.56,30183,766,Hitchhiker's Guide to the Galaxy,6
+506,The Memory Police,Yōko Ogawa,1994,3.75,60014,765,,
+507,Severance,Ling  Ma,2018,3.91,66725,765,,
+508,The Complete Robot,Isaac Asimov,1982,4.32,16441,765,,
+509,Emergency Skin,N.K. Jemisin,2019,4.05,22258,763,,
+510,Dragonsong,Anne McCaffrey,1976,4.24,53606,762,Harper Hall,1
+511,Blood Music,Greg Bear,1985,3.82,12637,760,,
+512,All You Need Is Kill,Hiroshi Sakurazaka,2004,4.03,20394,759,,
+513,Inversions,Iain M. Banks,1998,3.93,16827,758,Culture,6
+514,"Saga, Volume 8",Brian K. Vaughan,2017,4.46,33212,753,,
+515,The Drowned World,J.G. Ballard,1962,3.51,18887,752,,
+516,Dragonsdawn,Anne McCaffrey,1988,4.21,37173,751,Pern,9
+517,V for Vendetta,Alan Moore,1990,4.26,294503,748,,
+518,Four: A Divergent Story Collection,Veronica Roth,2014,3.99,200393,747,Divergent,0.1
+519,Anthem,Ayn Rand,1938,3.62,145053,746,,
+520,The Rise of Nine,Pittacus Lore,2012,4.17,103277,742,Lorien Legacies,3
+521,The Atrocity Archives,Charles Stross,2004,3.9,24240,742,Laundry Files,1
+522,The First Men in the Moon,H.G. Wells,1901,3.66,14789,741,,
+523,Foreigner,C.J. Cherryh,1994,3.92,9722,739,Foreigner,1
+524,Citizen of the Galaxy,Robert A. Heinlein,1957,4.0,16160,737,,
+525,Battlefield Earth: A Saga of the Year 3000,L. Ron Hubbard,1982,3.54,22321,737,,
+526,Outlander,Diana Gabaldon,1991,4.25,958356,734,Outlander,1
+527,Bloodchild and Other Stories,Octavia E. Butler,1995,4.36,18489,732,,
+528,Aftermath,Chuck Wendig,2015,3.28,30245,730,Star Wars: Aftermath,1
+529,The Institute,Stephen King,2019,4.2,211880,726,,
+530,Remote Control,Nnedi Okorafor,2021,3.87,13015,726,,
+531,New York 2140,Kim Stanley Robinson,2017,3.57,12436,726,,
+532,The State of the Art,Iain M. Banks,1991,3.84,16069,726,Culture,4
+533,The Test,Sylvain Neuvel,2019,3.85,17318,723,,
+534,The Shadow of the Torturer,Gene Wolfe,1980,3.81,24955,723,The Book of the New Sun ,1
+535,The Gods of Mars,Edgar Rice Burroughs,1913,3.88,18222,722,Barsoom ,2
+536,Great North Road,Peter F. Hamilton,2012,4.07,16493,722,,
+537,The Twelve,Justin Cronin,2012,4.01,94352,722,The Passage,2
+538,Semiosis,Sue Burke,2018,3.91,10952,721,Semiosis Duology,1
+539,Reached,Ally Condie,2012,3.55,157492,720,Matched,3
+540,The City in the Middle of the Night,Charlie Jane Anders,2019,3.51,10314,719,,
+541,Shades of Earth,Beth Revis,2013,4.07,32840,719,Across the Universe,3
+542,Grass,Sheri S. Tepper,1989,4.03,11890,717,Arbai ,1
+543,How High We Go in the Dark,Sequoia Nagamatsu,2022,3.89,18840,717,,
+544,Messenger,Lois Lowry,2004,3.91,126527,717,The Giver,3
+545,The Temporal Void,Peter F. Hamilton,2008,4.24,22245,714,,
+546,The Running Man,Stephen King,1982,3.89,118291,713,,
+547,The Long War,Terry Pratchett,2013,3.63,23472,713,The Long Earth,2
+548,Forever Peace,Joe Haldeman,1997,3.75,20278,713,The Forever War,2
+549,Children of God,Mary Doria Russell,1998,4.08,19570,713,The Sparrow,2
+550,Calamity,Brandon Sanderson,2016,4.18,72982,711,Reckoners,3
+551,Field of Dishonor,David Weber,1994,4.21,20297,710,Honor Harrington,4
+552,Imago,Octavia E. Butler,1989,4.21,16100,707,Xenogenesis,3
+553,The Subtle Knife,Philip Pullman,1997,4.14,410814,706,His Dark Materials,2
+554,Olympos,Dan Simmons,2005,3.94,18081,704,Ilium,2
+555,Dragonsinger,Anne McCaffrey,1977,4.29,44157,704,Harper Hall,2
+556,Footfall,Larry Niven,1985,3.92,16166,704,,
+557,Brave New World / Brave New World Revisited,Aldous Huxley,1958,4.16,156151,702,,
+558,Among the Hidden,Margaret Peterson Haddix,1998,3.99,119663,697,Shadow Children,1
+559,The Last Question,Isaac Asimov,1956,4.56,22443,696,,
+560,Terms of Enlistment,Marko Kloos,2013,4.03,27954,695,Frontlines,1
+561,Unravel Me,Tahereh Mafi,2013,4.18,313351,694,Shatter Me,2
+562,Pandemonium,Lauren Oliver,2012,4.04,231640,694,Delirium,2
+563,Flashforward,Robert J. Sawyer,1999,3.64,15316,694,,
+564,Singularity Sky,Charles Stross,2003,3.84,14928,690,Eschaton,1
+565,Fearless,Jack Campbell,2007,3.99,20778,690,The Lost Fleet,2
+566,School's Out—Forever,James Patterson,2006,4.14,117616,690,Maximum Ride,2
+567,Neverwhere,Neil Gaiman,1996,4.17,486016,687,London Below,1
+568,Galápagos,Kurt Vonnegut Jr.,1985,3.87,75489,687,,
+569,The Neutronium Alchemist,Peter F. Hamilton,1997,4.26,18725,686,Night's Dawn,2
+570,Flag in Exile,David Weber,1995,4.22,18334,685,Honor Harrington,5
+571,The Stars Are Legion,Kameron Hurley,2017,3.65,9072,683,,
+572,Battle Royale,Koushun Takami,1999,4.23,69298,683,,
+573,Cytonic,Brandon Sanderson,2021,4.11,28625,680,Skyward,3
+574,The Drawing of the Three,Stephen King,1987,4.23,240129,678,The Dark Tower,2
+575,The Forge of God,Greg Bear,1987,3.87,14676,678,Forge of God,1
+576,Into the Drowning Deep,Mira Grant,2017,3.99,24682,677,Rolling in the Deep,1
+577,House Harkonnen,Brian Herbert,2000,3.71,16845,677,Prelude to Dune,2
+578,The Amber Spyglass,Philip Pullman,2000,4.1,337445,677,His Dark Materials,3
+579,The Naked God,Peter F. Hamilton,1999,4.22,18641,677,Night's Dawn,3
+580,The Fated Sky,Mary Robinette Kowal,2018,4.29,11844,671,Lady Astronaut Universe,2
+581,The Evolutionary Void,Peter F. Hamilton,2009,4.28,21014,669,,
+582,All Our Yesterdays,Cristin Terrill,2013,4.02,23008,668,,
+583,The Gone World,Tom Sweterlitsch,2018,3.94,15088,667,,
+584,Player Piano,Kurt Vonnegut Jr.,1952,3.88,51681,667,,
+585,The Cyberiad,Stanisław Lem,1965,4.17,11594,666,,
+586,The City We Became,N.K. Jemisin,2020,3.91,52740,664,Great Cities,1
+587,The Light Brigade,Kameron Hurley,2019,3.91,9014,661,,
+588,Dark Age,Pierce Brown,2019,4.43,36834,661,Red Rising Saga,5
+589,Star Maker,Olaf Stapledon,1937,3.92,7279,661,,
+590,The Female Man,Joanna Russ,1975,3.49,6862,661,,
+591,Tunnel in the Sky,Robert A. Heinlein,1955,3.95,12832,660,,
+592,The Luminous Dead,Caitlin  Starling,2019,3.7,10743,659,,
+593,The Salmon of Doubt,Douglas Adams,2002,3.93,28316,658,Dirk Gently,3
+594,The Atlantis Gene,A.G. Riddle,2013,3.77,73958,657,The Origin Mystery,1
+595,The Diabolic,S.J. Kincaid,2016,4.05,23320,656,The Diabolic,1
+596,Cordelia's Honor,Lois McMaster Bujold,1996,4.33,13604,656,Vorkosigan Omnibus,1
+597,Found,Margaret Peterson Haddix,2008,3.98,38930,655,The Missing,1
+598,This Shattered World,Amie Kaufman,2014,3.95,20041,652,Starbound,2
+599,UnWholly,Neal Shusterman,2012,4.25,54355,652,Unwind,2
+600,Y The Last Man Vol. 1:Unmanned,Brian K. Vaughan,2003,4.08,111945,651,,
+601,The Stainless Steel Rat,Harry Harrison,1961,3.93,14867,650,Stainless Steel Rat,4
+602,Honor Among Enemies,David Weber,1996,4.27,17268,645,Honor Harrington,6
+603,Shadows in Flight,Orson Scott Card,2011,3.81,18540,643,The Shadow Series,5
+604,The Last Policeman,Ben H. Winters,2012,3.78,31086,643,The Last Policeman,1
+605,The Ministry for the Future,Kim Stanley Robinson,2020,3.89,17852,641,,
+606,Incarceron,Catherine Fisher,2007,3.64,60057,641,Incarceron,1
+607,The Memory of Earth,Orson Scott Card,1992,3.58,15901,641,Homecoming,1
+608,Crystal Singer,Anne McCaffrey,1982,4.12,20022,641,Crystal Singer,1
+609,Methuselah's Children,Robert A. Heinlein,1958,4.0,19727,640,,
+610,Hominids,Robert J. Sawyer,2002,3.79,12235,640,Neanderthal Parallax,1
+611,The Space Merchants,Frederik Pohl,1952,3.85,9849,640,The Space Merchants,1
+612,"Paper Girls, Volume 2",Brian K. Vaughan,2016,4.12,28802,639,,
+613,Armor,John Steakley,1984,4.12,18116,639,,
+614,The One,John Marrs,2016,4.12,108676,637,,
+615,Starflight,Melissa Landers,2016,3.85,12563,637,Starflight,1
+616,The White Mountains,John Christopher,1967,3.95,12734,636,The Tripods,1
+617,Martian Time-Slip,Philip K. Dick,1964,3.77,11923,636,,
+618,The Loneliest Girl in the Universe,Lauren   James,2018,3.76,18674,634,,
+619,The Rowan,Anne McCaffrey,1990,4.05,16712,633,The Tower and the Hive,1
+620,Rama Revealed,Arthur C. Clarke,1993,3.81,15855,632,Rama,4
+621,The Waste Lands,Stephen King,1991,4.24,204824,630,The Dark Tower,3
+622,Bloodline,Claudia Gray,2016,4.08,22172,629,,
+623,Down and Out in the Magic Kingdom,Cory Doctorow,2003,3.56,12789,629,,
+624,The Bone Clocks,David Mitchell,2014,3.84,91240,628,,
+625,House Corrino,Brian Herbert,2001,3.72,15866,627,Prelude to Dune,3
+626,Blue Remembered Earth,Alastair Reynolds,2012,3.88,10820,627,Poseidon's Children,1
+627,Dragondrums,Anne McCaffrey,1979,4.09,34272,624,Harper Hall,3
+628,Invasion of the Body Snatchers,Jack Finney,1955,3.9,21011,624,,
+629,Where Late the Sweet Birds Sang,Kate Wilhelm,1976,3.85,9597,624,,
+630,Shards of Earth,Adrian Tchaikovsky,2021,4.21,11862,623,The Final Architecture,1
+631,Aurora Burning,Amie Kaufman,2020,4.29,28804,623,The Aurora Cycle,2
+632,Behemoth,Scott Westerfeld,2010,4.17,38563,622,Leviathan,2
+633,The Engines of God,Jack McDevitt,1994,3.83,9031,622,The Academy,1
+634,On the Beach,Nevil Shute,1957,3.96,40353,622,,
+635,Crosstalk,Connie Willis,2016,3.54,11209,620,,
+636,The Snow Queen,Joan D. Vinge,1980,3.95,12219,620,The Snow Queen Cycle,1
+637,The Number of the Beast,Robert A. Heinlein,1980,3.61,12250,620,,
+638,Courageous,Jack Campbell,2007,3.99,17027,614,The Lost Fleet,3
+639,Defy the Stars,Claudia Gray,2017,4.03,11782,614,Constellation,1
+640,In Enemy Hands,David Weber,1997,4.24,15817,611,Honor Harrington,7
+641,How Long 'til Black Future Month?,N.K. Jemisin,2018,4.29,14459,610,,
+642,How to Stop Time,Matt Haig,2017,3.85,124327,609,,
+643,Ice Planet Barbarians,Ruby Dixon,2015,3.68,76236,609,Ice Planet Barbarians,1
+644,The Machine Stops,E.M. Forster,1909,4.07,13660,608,,
+645,The Eye of Minds,James Dashner,2013,3.85,39254,603,The Mortality Doctrine,1
+646,Diaspora,Greg Egan,1997,4.13,8296,603,,
+647,Job: A Comedy of Justice,Robert A. Heinlein,1984,3.78,17465,603,,
+648,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,1990,4.25,651848,601,,
+649,Saving the World and Other Extreme Sports,James Patterson,2007,4.14,91144,599,Maximum Ride,3
+650,Ignite Me,Tahereh Mafi,2014,4.45,265316,598,Shatter Me,3
+651,Time Out of Joint,Philip K. Dick,1959,3.86,12841,597,,
+652,First Meetings in Ender's Universe,Orson Scott Card,1999,3.84,13044,596,Ender's Saga,0.5
+653,Sea of Rust,C. Robert Cargill,2017,4.07,10458,596,Sea of Rust,1
+654,The Inverted World,Christopher Priest,1974,3.92,7931,595,,
+655,I Will Fear No Evil,Robert A. Heinlein,1970,3.67,11443,595,,
+656,Farnham's Freehold,Robert A. Heinlein,1964,3.57,11773,594,,
+657,New Moon,Ian McDonald,2015,3.74,7370,593,Luna,1
+658,Borders of Infinity,Lois McMaster Bujold,1989,4.25,10091,591,Vorkosigan Saga [Publication] ,5.1
+659,Lost Stars,Claudia Gray,2015,4.28,24793,589,,
+660,American War,Omar El Akkad,2017,3.79,34624,588,,
+661,River of Blue Fire,Tad Williams,1998,4.03,15513,587,Otherland,2
+662,Beggars in Spain,Nancy Kress,1993,3.93,7865,586,Sleepless,1
+663,"Home: Habitat, Range, Niche, Territory",Martha Wells,2020,4.07,10970,585,The Murderbot Diaries,4.5
+664,The Bicentennial Man and Other Stories,Isaac Asimov,1976,4.13,13471,585,,
+665,Dandelion Wine,Ray Bradbury,1957,4.08,63720,585,Green Town,1
+666,"Saga, Volume 9",Brian K. Vaughan,2018,4.57,27694,584,,
+667,Time and Again,Jack Finney,1970,3.94,21182,580,Time,1
+668,Hunters of Dune,Brian Herbert,2006,3.67,15056,578,Dune,7
+669,The Mysterious Island,Jules Verne,1875,4.12,49651,577,,
+670,Wires and Nerve,Marissa Meyer,2017,4.13,24513,575,Wires and Nerve,1
+671,Those Left Behind,Joss Whedon,2006,4.04,27087,575,Serenity ,1
+672,Against a Dark Background,Iain M. Banks,1993,4.11,15436,574,,
+673,They Both Die at the End,Adam Silvera,2017,3.84,520098,572,,
+674,Agent to the Stars,John Scalzi,2004,3.9,19945,571,,
+675,Planet of Exile,Ursula K. Le Guin,1966,3.7,9655,571,Hainish Cycle,2
+676,A Beautifully Foolish Endeavor,Hank Green,2020,4.25,36553,570,The Carls,2
+677,Polaris Rising,Jessie Mihalik,2019,3.92,10510,570,Consortium Rebellion,1
+678,Son,Lois Lowry,2012,3.99,93648,570,The Giver,4
+679,Robot Dreams,Isaac Asimov,1986,4.16,10864,568,Robot,0.4
+680,Wanderers,Chuck Wendig,2019,3.97,20291,568,,
+681,Vox,Christina Dalcher,2018,3.54,69520,568,,
+682,The Man Who Fell to Earth,Walter Tevis,1963,4.06,10756,567,,
+683,Echoes of Honor,David Weber,1998,4.24,14637,567,Honor Harrington,8
+684,A Game of Thrones,George R.R. Martin,1996,4.44,2280917,566,A Song of Ice and Fire,1
+685,All the Weyrs of Pern,Anne McCaffrey,1991,4.2,24781,566,Pern,11
+686,Sandworms of Dune,Brian Herbert,2007,3.67,12817,566,Dune,8
+687,The Vital Abyss,James S.A. Corey,2015,3.89,13693,565,The Expanse,5.5
+688,Dead Silence,S.A. Barnes,2022,3.82,9769,564,,
+689,On a Sunbeam,Tillie Walden,2018,4.3,22339,562,,
+690,The Heart Goes Last,Margaret Atwood,2015,3.39,62389,562,,
+691,Never Fade,Alexandra Bracken,2013,4.22,89957,562,The Darkest Minds,2
+692,The Bone Season,Samantha Shannon,2013,3.79,71725,561,The Bone Season,1
+693,The Machine Crusade,Brian Herbert,2003,3.78,14517,561,Legends of Dune,2
+694,Halting State,Charles Stross,2007,3.79,11817,560,Halting State,1
+695,The Fall of Five,Pittacus Lore,2013,4.22,63808,559,Lorien Legacies,4
+696,Wayward,Blake Crouch,2013,4.14,57905,558,Wayward Pines,2
+697,The Many-Coloured Land,Julian  May,1981,4.07,12167,558,Saga of Pliocene Exile,1
+698,Onyx,Jennifer L. Armentrout,2012,4.25,171766,557,Lux,2
+699,The Testing,Joelle Charbonneau,2013,4.05,69116,556,The Testing,1
+700,The Warlord of Mars,Edgar Rice Burroughs,1919,3.87,13712,555,Barsoom,3
+701,The Tommyknockers,Stephen King,1987,3.58,140422,555,,
+702,Gridlinked,Neal Asher,2001,3.97,11094,555,Agent Cormac ,1
+703,Star Wars: A New Hope,George Lucas,1976,4.05,15925,554,Star Wars: Novelizations,4
+704,Tin Stars,Jeff Lemire,2015,4.09,18095,554,Descender,1
+705,A Fall of Moondust,Arthur C. Clarke,1961,3.88,9750,553,,
+706,Hunger,Michael  Grant,2009,4.02,82330,553,Gone,2
+707,Firestarter,Stephen King,1980,3.9,211663,553,,
+708,Ashes of Victory,David Weber,2000,4.18,13992,553,Honor Harrington,9
+709,The Force Awakens,Alan Dean Foster,2015,3.72,17251,552,Star Wars: Novelizations,7
+710,The Hobbit,J.R.R. Tolkien,1937,4.28,3483063,552,,
+711,Revenger,Alastair Reynolds,2016,3.81,10730,551,Revenger ,1
+712,Specter of the Past,Timothy Zahn,1997,4.01,19090,551,Star Wars: The Hand of Thrawn Duology,1
+713,Dreamsnake,Vonda N. McIntyre,1978,3.86,9743,551,,
+714,Enclave,Ann Aguirre,2011,3.91,68682,550,Razorland,1
+715,The Speed of Dark,Elizabeth Moon,2002,4.0,10501,550,,
+716,Ahsoka,E.K. Johnston,2016,4.07,30470,549,,
+717,Infinity Welcomes Careful Drivers,Grant Naylor,1989,4.07,26754,549,Red Dwarf ,1
+718,Lagoon,Nnedi Okorafor,2014,3.63,7205,549,,
+719,Century Rain,Alastair Reynolds,2004,3.94,9789,548,,
+720,Valiant,Jack Campbell,2008,4.0,15682,547,The Lost Fleet,4
+721,Gentleman Jole and the Red Queen,Lois McMaster Bujold,2016,3.82,8644,547,Vorkosigan Saga,16
+722,The Future of Another Timeline,Annalee Newitz,2019,3.75,6782,545,,
+723,Under the Skin,Michel Faber,2000,3.74,23574,545,,
+724,Many Waters,Madeleine L'Engle,1962,3.97,45799,545,Time Quintet,4
+725,Glasshouse,Charles Stross,2006,3.88,10845,544,,
+726,Wilder Girls,Rory Power,2019,3.48,70468,543,,
+727,Archenemies,Marissa Meyer,2018,4.28,65964,543,Renegades,2
+728,Sand,Hugh Howey,2014,3.97,25900,542,The Sand Chronicles,1
+729,Off Armageddon Reef,David Weber,2007,4.14,11380,542,Safehold,1
+730,The Dreamers,Karen Thompson Walker,2019,3.64,37048,541,,
+731,The Elite,Kiera Cass,2013,3.97,647678,541,The Selection,2
+732,Shadow & Claw,Gene Wolfe,1994,4.02,17858,540,,
+733,Orphans of the Sky,Robert A. Heinlein,1963,3.79,10282,540,,
+734,Reboot,Amy Tintera,2013,3.89,32252,537,Reboot,1
+735,Woman on the Edge of Time,Marge Piercy,1976,3.94,15726,535,,
+736,The Tea Master and the Detective,Aliette de Bodard,2018,3.87,4706,534,,
+737,One Word Kill,Mark  Lawrence,2019,3.75,18471,534,Impossible Times ,1
+738,Genesis,Bernard Beckett,2006,3.89,12063,534,,
+739,Moreta: Dragonlady of Pern,Anne McCaffrey,1983,4.01,27291,534,Pern,7
+740,Fallen Dragon,Peter F. Hamilton,2001,4.08,13599,534,,
+741,Red Planet,Robert A. Heinlein,1949,3.82,9750,534,,
+742,Welcome to Night Vale,Joseph Fink,2015,3.83,37835,533,Welcome to Night Vale,1
+743,Salvation,Peter F. Hamilton,2018,4.14,12553,532,Salvation Sequence,1
+744,Quicksilver,Neal Stephenson,2003,3.91,40836,532,The Baroque Cycle,1
+745,Killashandra,Anne McCaffrey,1985,4.06,14432,532,Crystal Singer ,2
+746,The Gap Into Conflict: The Real Story,Stephen R. Donaldson,1990,3.71,9798,532,Gap,1
+747,Timescape,Gregory Benford,1980,3.73,10624,532,,
+748,The Terminal Man,Michael Crichton,1972,3.38,26405,532,,
+749,Glitches,Marissa Meyer,2011,3.97,22697,531,The Lunar Chronicles,0.5
+750,Dangerous Visions,Harlan Ellison,1967,4.18,8840,530,,
+751,Shades of Grey,Jasper Fforde,2009,4.15,34796,530,Shades of Grey,1
+752,Nova,Samuel R. Delany,1968,3.81,7397,530,,
+753,City of Illusions,Ursula K. Le Guin,1967,3.9,7811,529,Hainish Cycle,3
+754,Warm Bodies,Isaac Marion,2010,3.91,102745,528,Warm Bodies,1
+755,The Phantom Menace,Terry Brooks,1999,3.61,17732,528,Star Wars: Novelizations,1
+756,Jedi Search,Kevin J. Anderson,1994,3.67,16152,528,Star Wars: The Jedi Academy Trilogy,1
+757,Calculating God,Robert J. Sawyer,2000,3.85,9065,528,,
+758,Strange Dogs,James S.A. Corey,2017,4.04,12369,527,The Expanse,6.5
+759,"William Shakespeare's Star Wars: Verily, A New Hope",Ian Doescher,2013,3.94,19066,527,William Shakespeare's Star Wars,4
+760,Hard-Boiled Wonderland and the End of the World,Haruki Murakami,1985,4.14,122808,527,,
+761,Summer Frost,Blake Crouch,2019,4.09,17685,525,,
+762,Last and First Men,Olaf Stapledon,1930,3.79,5555,525,,
+763,Relentless,Jack Campbell,2009,4.08,16615,524,The Lost Fleet,5
+764,Freedom™,Daniel Suarez,2010,4.27,27026,524,Daemon,2
+765,The Ringworld Throne,Larry Niven,1996,3.54,10553,524,Ringworld,3
+766,Honor's Knight,Rachel Bach,2014,3.98,9126,523,Paradox,2
+767,Path of Destruction,Drew Karpyshyn,2006,4.32,26221,522,Star Wars: Darth Bane,1
+768,Valor's Choice,Tanya Huff,2000,3.99,7938,521,Confederation,1
+769,All Tomorrow's Parties,William Gibson,1999,3.92,15624,520,Bridge,3
+770,The Lives of Tao,Wesley Chu,2013,3.74,8376,519,Tao,1
+771,State of Fear,Michael Crichton,2004,3.7,84034,519,,
+772,Permutation City,Greg Egan,1994,4.08,9099,519,Subjective Cosmology ,2
+773,Mountain of Black Glass,Tad Williams,1999,4.07,15192,518,Otherland,3
+774,The People of Sparks,Jeanne DuPrau,2004,3.69,55597,518,Book of Ember,2
+775,Halo: The Fall of Reach,Eric S. Nylund,2001,4.25,26913,517,,
+776,"Fall or, Dodge in Hell",Neal Stephenson,2019,3.56,16235,516,,
+777,A Prayer for the Crown-Shy,Becky  Chambers,2022,4.48,11912,513,Monk & Robot,2
+778,War of Honor,David Weber,2002,4.13,12683,513,Honor Harrington,10
+779,"Paper Girls, Volume 3",Brian K. Vaughan,2017,4.07,20704,512,,
+780,The Wild Robot,Peter  Brown,2016,4.05,48817,511,The Wild Robot,1
+781,Deadline,Mira Grant,2011,4.1,25307,510,Newsflesh,2
+782,Wizard and Glass,Stephen King,1997,4.25,183140,510,The Dark Tower,4
+783,In the Garden of Iden,Kage Baker,1997,3.77,5359,509,The Company,1
+784,The Battle of Corrin,Brian Herbert,2004,3.77,12743,509,Legends of Dune,3
+785,Unlocked: An Oral History of Haden's Syndrome,John Scalzi,2014,3.96,8102,508,Lock In,0.5
+786,Goliath,Scott Westerfeld,2011,4.23,31161,508,Leviathan,3
+787,Micro,Michael Crichton,2011,3.47,33837,507,,
+788,InterWorld,Neil Gaiman,2007,3.54,20911,507,InterWorld,1
+789,The Long Mars,Terry Pratchett,2014,3.75,14412,506,The Long Earth,3
+790,Requiem,Lauren Oliver,2013,3.74,141654,505,Delirium,3
+791,Spook Country,William Gibson,2007,3.71,19662,505,Blue Ant,2
+792,WWW: Wake,Robert J. Sawyer,2009,3.81,7735,504,WWW,1
+793,14,Peter Clines,2012,3.96,34076,504,Threshold,1
+794,Bird Box,Josh Malerman,2014,4.04,170187,503,Bird Box,1
+795,Victorious,Jack Campbell,2010,4.1,15830,503,The Lost Fleet,6
+796,Farmer in the Sky,Robert A. Heinlein,1950,3.77,9161,503,,
+797,Bellwether,Connie Willis,1996,3.92,11911,503,,
+798,The Kraken Wakes,John Wyndham,1953,3.77,8311,502,,
+799,Vision of the Future,Timothy Zahn,1997,4.09,16816,501,Star Wars: The Hand of Thrawn Duology,2
+800,The Final Warning,James Patterson,2008,3.85,68645,501,Maximum Ride,4
+801,Brightness Reef,David Brin,1995,3.9,10089,500,Uplift Storm Trilogy,1
+802,Who Fears Death,Nnedi Okorafor,2010,3.95,22637,499,Who Fears Death,1
+803,The Best of All Possible Worlds,Karen Lord,2013,3.59,4614,499,,
+804,Hidden Empire,Kevin J. Anderson,2002,3.79,8352,499,The Saga of Seven Suns,1
+805,Legion,Brandon Sanderson,2012,4.14,38148,498,Legion,1
+806,Beyond the Blue Event Horizon,Frederik Pohl,1980,3.95,12735,498,Heechee Saga,2
+807,Splinter of the Mind's Eye,Alan Dean Foster,1978,3.26,10292,498,,
+808,I Sing the Body Electric! & Other Stories,Ray Bradbury,1969,4.05,11849,497,,
+809,The Arctic Incident,Eoin Colfer,2002,3.96,149305,497,Artemis Fowl,2
+810,A Big Ship at the Edge of the Universe,Alex White,2018,3.8,6135,495,The Salvagers,1
+811,Glory Road,Robert A. Heinlein,1963,3.78,12977,495,,
+812,Brilliance,Marcus Sakey,2013,3.98,31690,493,Brilliance Saga,1
+813,Logan's Run,William F. Nolan,1967,3.65,11123,491,,
+814,Podkayne of Mars,Robert A. Heinlein,1963,3.66,8658,491,,
+815,The Color of Magic,Terry Pratchett,1983,4.0,356940,491,Discworld,1
+816,The Thousandth Floor,Katharine McGee,2016,3.67,39890,490,The Thousandth Floor,1
+817,The Past Through Tomorrow,Robert A. Heinlein,1967,4.17,16248,490,Future History,1
+818,Little Fuzzy,H. Beam Piper,1962,4.02,9599,489,Fuzzy Sapiens,1
+819,The Last Town,Blake Crouch,2014,4.09,53091,489,Wayward Pines,3
+820,Rubinrot,Kerstin Gier,2009,4.12,138563,489,Edelstein-Trilogie,1
+821,Wolves of the Calla,Stephen King,2003,4.19,171254,488,The Dark Tower,5
+822,The Yiddish Policemen's Union,Michael Chabon,2007,3.71,74019,488,,
+823,The Fireman,Joe Hill,2016,3.91,56036,487,,
+824,Influx,Daniel Suarez,2014,3.93,16372,487,,
+825,Sea of Silver Light,Tad Williams,2001,4.14,13590,487,Otherland,4
+826,Dr. Bloodmoney,Philip K. Dick,1965,3.69,8205,486,,
+827,Cyteen,C.J. Cherryh,1988,4.0,9864,486,Cyteen,1
+828,LIFEL1K3,Jay Kristoff,2018,3.96,9847,486,Lifelike,1
+829,The Ones We're Meant to Find,Joan He,2021,3.59,8504,485,,
+830,Earth Afire,Orson Scott Card,2013,4.06,14329,485,The First Formic War,2
+831,The Accidental Time Machine,Joe Haldeman,2007,3.72,9096,485,,
+832,Cloud Cuckoo Land,Anthony Doerr,2021,4.28,117026,484,,
+833,Drive,James S.A. Corey,2012,4.02,9437,484,The Expanse,2.7
+834,Unearthed,Amie Kaufman,2017,3.81,6936,484,Unearthed,1
+835,Marque and Reprisal,Elizabeth Moon,2004,4.09,9917,484,Vatta's War,2
+836,Saturn's Children,Charles Stross,2008,3.58,7393,484,Freyaverse ,1
+837,Pastwatch: The Redemption of Christopher Columbus,Orson Scott Card,1996,3.97,14504,483,,
+838,Freedom's Landing,Anne McCaffrey,1995,3.96,10892,483,Catteni,1
+839,Alienated,Melissa Landers,2014,3.9,22549,482,Alienated,1
+840,Blackfish City,Sam J. Miller,2018,3.58,7485,481,,
+841,Thirteen,Richard K. Morgan,2007,3.9,11605,481,,
+842,At the Mountains of Madness,H.P. Lovecraft,1931,3.84,44558,480,,
+843,The Penultimate Truth,Philip K. Dick,1964,3.78,8972,480,,
+844,Alien,Alan Dean Foster,1979,4.09,19382,480,,
+845,Dark Apprentice,Kevin J. Anderson,1994,3.63,13992,480,Star Wars: The Jedi Academy Trilogy,2
+846,Shadows of the Empire,Steve Perry,1996,3.83,17145,480,,
+847,Here and Now and Then,Mike Chen,2019,3.75,8256,479,,
+848,Middlegame,Seanan McGuire,2019,4.03,24251,479,Alchemical Journeys,1
+849,Horus Rising,Dan Abnett,2006,4.21,20844,478,The Horus Heresy,1
+850,Starfish,Peter Watts,1999,3.95,7794,478,Rifters,1
+851,The Gripping Hand,Larry Niven,1993,3.83,11266,475,Moties,2
+852,This Immortal,Roger Zelazny,1966,3.92,10924,475,,
+853,The Rook,Daniel O'Malley,2012,4.11,54185,474,The Checquy Files,1
+854,Passage,Connie Willis,2001,3.7,8833,474,,
+855,The One,Kiera Cass,2014,4.17,576260,472,The Selection,3
+856,UnSouled,Neal Shusterman,2013,4.23,30909,472,Unwind,3
+857,For Darkness Shows the Stars,Diana Peterfreund,2012,3.87,18346,472,For Darkness Shows the Stars,1
+858,Dragon's Egg,Robert L. Forward,1980,4.14,7929,471,Cheela,1
+859,Fledgling,Octavia E. Butler,2005,3.86,26149,470,,
+860,The First Sister,Linden A. Lewis,2020,3.89,5360,469,The First Sister Trilogy,1
+861,Pathfinder,Orson Scott Card,2010,4.0,22878,469,Pathfinder,1
+862,The Masterharper of Pern,Anne McCaffrey,1998,4.25,23923,469,Pern,14
+863,Chocky,John Wyndham,1968,3.84,9305,469,,
+864,The Years of Rice and Salt,Kim Stanley Robinson,2002,3.74,12801,469,,
+865,The Vanished Birds,Simon Jimenez,2020,4.07,5335,468,,
+866,"Good Morning, Midnight",Lily Brooks-Dalton,2016,3.9,17223,468,,
+867,Opal,Jennifer L. Armentrout,2012,4.26,143797,468,Lux,3
+868,The Great Dune Trilogy,Frank Herbert,1979,4.37,59565,468,,
+869,The Renegades of Pern,Anne McCaffrey,1989,3.89,19393,468,Pern,10
+870,Pump Six and Other Stories,Paolo Bacigalupi,2008,4.04,8113,467,,
+871,The Last Cuentista,Donna Barba Higuera,2021,4.17,9357,466,,
+872,Their Fractured Light,Amie Kaufman,2015,4.11,13340,465,Starbound,3
+873,Protector,Larry Niven,1973,4.07,9869,464,,
+874,Champions of the Force,Kevin J. Anderson,1994,3.67,13271,464,Star Wars: The Jedi Academy Trilogy,3
+875,Dreamcatcher,Stephen King,2001,3.64,165414,464,,
+876,A Maze of Death,Philip K. Dick,1970,3.8,7776,463,,
+877,Remnant Population,Elizabeth Moon,1996,4.09,4881,463,,
+878,The Courtship of Princess Leia,Dave Wolverton,1994,3.6,13989,463,,
+879,The Truce at Bakura,Kathy Tyers,1994,3.43,12305,462,,
+880,Through the Ever Night,Veronica Rossi,2013,4.13,71881,462,Under the Never Sky,2
+881,High-Rise,J.G. Ballard,1975,3.62,29933,461,,
+882,Starters,Lissa Price,2012,3.89,42644,461,Starters,1
+883,Man Plus,Frederik Pohl,1976,3.74,7877,461,Man Plus ,1
+884,Lord of the Flies,William Golding,1954,3.69,2636060,460,,
+885,Naked in Death,J.D. Robb,1995,4.13,181643,460,In Death,1
+886,The Futurological Congress: From the Memoirs of Ijon Tichy,Stanisław Lem,1971,4.2,11229,460,,
+887,Dying Inside,Robert Silverberg,1972,3.83,5971,459,,
+888,Raven Stratagem,Yoon Ha Lee,2017,4.11,7975,459,The Machineries of Empire,2
+889,A Wizard of Earthsea,Ursula K. Le Guin,1968,4.01,282091,459,Earthsea Cycle,1
+890,Zoe's Tale,John Scalzi,2008,3.75,31536,458,Old Man's War,4
+891,Her Smoke Rose Up Forever,James Tiptree Jr.,1990,4.21,3935,458,,
+892,Earth,David Brin,1990,3.93,7204,458,,
+893,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,3.92,1156495,457,Miss Peregrine's Peculiar Children,1
+894,The Fabulous Riverboat,Philip José Farmer,1971,3.88,9842,457,Riverworld ,2
+895,Radiance,Catherynne M. Valente,2015,3.72,4506,456,,
+896,The Abyss Beyond Dreams,Peter F. Hamilton,2014,4.22,11865,456,,
+897,Mockingbird,Walter Tevis,1980,4.16,7483,456,,
+898,Nightfall and Other Stories,Isaac Asimov,1969,4.27,13050,455,,
+899,The Dolphins of Pern,Anne McCaffrey,1994,4.0,17569,455,Pern,12
+900,Hard to Be a God,Arkady Strugatsky,1964,4.16,13056,454,,
+901,Infomocracy,Malka Ann Older,2016,3.58,5600,454,The Centenal Cycle,1
+902,The Revenge of Seven,Pittacus Lore,2014,4.26,46356,454,Lorien Legacies,5
+903,The Anubis Gates,Tim Powers,1983,3.91,15391,454,,
+904,A War of Gifts,Orson Scott Card,2007,3.68,16077,454,Ender's Saga,1.1
+905,The Prisoner of Cell 25,Richard Paul Evans,2011,4.22,40894,454,Michael Vey,1
+906,Ammonite,Nicola Griffith,1992,3.89,5142,454,,
+907,The Gate to Women's Country,Sheri S. Tepper,1987,4.06,12889,454,,
+908,The Seven Deaths of Evelyn Hardcastle,Stuart Turton,2018,3.87,259859,453,,
+909,The Rest of the Robots,Isaac Asimov,1964,4.09,5785,453,Robot,0.2
+910,A Talent for War,Jack McDevitt,1989,3.76,6152,452,Alex Benedict,1
+911,Randomize,Andy Weir,2019,3.5,19771,451,,
+912,The Eternity Code,Eoin Colfer,2003,4.04,131876,451,Artemis Fowl,3
+913,Soulless,Gail Carriger,2009,3.89,107404,451,Parasol Protectorate,1
+914,Feersum Endjinn,Iain M. Banks,1994,3.83,10269,451,,
+915,Revenge of the Sith,Matthew Woodring Stover,2005,4.22,16987,450,Star Wars: Novelizations,3
+916,Nyxia,Scott Reintgen,2017,4.13,10068,449,The Nyxia Triad,1
+917,Ten Thousand Skies Above You,Claudia Gray,2015,4.06,21564,449,Firebird,2
+918,China Mountain Zhang,Maureen F. McHugh,1992,3.95,4128,449,,
+919,The Long Walk,Richard Bachman,1979,4.09,157583,449,,
+920,Starman Jones,Robert A. Heinlein,1953,3.86,8077,448,,
+921,Titan,John Varley,1979,3.95,8334,448,Gaea,1
+922,Shadow of the Hegemon,Orson Scott Card,2000,3.96,74693,448,The Shadow Series,2
+923,The Pride of Chanur,C.J. Cherryh,1981,3.94,6718,448,Chanur,1
+924,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,4.47,8826466,447,Harry Potter,1
+925,Non-Stop,Brian W. Aldiss,1958,3.88,6085,447,,
+926,Engaging the Enemy,Elizabeth Moon,2006,4.07,8933,447,Vatta's War,3
+927,Jumper,Steven Gould,1992,3.92,14155,447,Jumper,1
+928,Triplanetary,"E.E. ""Doc"" Smith",1948,3.65,6552,447,Lensman,1
+929,"The Science Fiction Hall of Fame, Volume One, 1929-1964",Robert Silverberg,1970,4.34,5633,446,,
+930,The Dog Stars,Peter Heller,2012,3.94,59141,445,,
+931,Make Room! Make Room!,Harry Harrison,1966,3.72,7603,445,,
+932,Tuf Voyaging,George R.R. Martin,1986,4.11,10713,444,,
+933,Blood Red Road,Moira Young,2011,3.91,61325,444,Dust Lands,1
+934,The Scar,China Miéville,2002,4.17,30194,444,New Crobuzon,2
+935,The Lady Astronaut of Mars,Mary Robinette Kowal,2012,4.2,5657,443,,
+936,The Hammer of God,Arthur C. Clarke,1992,3.7,7787,442,,
+937,Grasshopper Jungle,Andrew  Smith,2014,3.63,17494,441,,
+938,Damia,Anne McCaffrey,1991,4.02,12375,441,The Tower and the Hive,2
+939,The Gone-Away World,Nick Harkaway,2008,4.11,12413,441,,
+940,Timequake,Kurt Vonnegut Jr.,1997,3.72,35873,440,,
+941,A Case of Conscience,James Blish,1958,3.63,5900,440,After Such Knowledge,4
+942,The Shining Girls,Lauren Beukes,2013,3.54,46963,440,,
+943,Atlas Shrugged,Ayn Rand,1957,3.69,375328,440,,
+944,Mass Effect: Revelation,Drew Karpyshyn,2007,3.71,11943,440,Mass Effect,1
+945,Dreadnaught,Jack Campbell,2011,4.05,13500,439,The Lost Fleet: Beyond the Frontier,1
+946,Welcome to the Monkey House,Kurt Vonnegut Jr.,1968,4.13,57613,439,,
+947,The Fellowship of the Ring,J.R.R. Tolkien,1954,4.38,2617298,438,The Lord of the Rings,1
+948,Darth Plagueis,James Luceno,2012,4.14,23415,438,,
+949,Blackout,Mira Grant,2012,4.09,21911,438,Newsflesh,3
+950,The Call of Earth,Orson Scott Card,1993,3.59,11395,438,Homecoming,2
+951,Wanderlust,Ann Aguirre,2008,3.87,6334,438,Sirantha Jax,2
+952,Time's Eye,Arthur C. Clarke,2003,3.72,7313,438,A Time Odyssey,1
+953,The Last Watch,J.S. Dewes,2021,3.97,6497,437,The Divide,1
+954,Robot Visions,Isaac Asimov,1990,4.24,9936,437,Robot,0.5
+955,"Diamond Dogs, Turquoise Days",Alastair Reynolds,2003,3.98,9133,437,,
+956,Catalyst: A Rogue One Novel,James Luceno,2016,3.74,16667,436,,
+957,Beacon 23,Hugh Howey,2015,3.91,16209,436,Beacon 23,1
+958,The Mountains of Mourning,Lois McMaster Bujold,1989,4.28,7597,435,Vorkosigan Saga,5.1
+959,Empress of a Thousand Skies,Rhoda Belleza,2017,3.35,7892,434,Empress of a Thousand Skies,1
+960,The Stepford Wives,Ira Levin,1972,3.81,35134,434,,
+961,Inside Out,Maria V. Snyder,2010,3.82,23973,433,Insider,1
+962,The Opal Deception,Eoin Colfer,2005,4.05,135329,433,Artemis Fowl,4
+963,At All Costs,David Weber,2005,4.21,10542,433,Honor Harrington,11
+964,The Dead and the Gone,Susan Beth Pfeffer,2008,3.85,37943,431,Last Survivors,2
+965,The Telling,Ursula K. Le Guin,2000,3.95,6876,431,Hainish Cycle,8
+966,Heaven's Queen,Rachel Bach,2014,3.96,7233,430,Paradox ,3
+967,To Sail Beyond the Sunset,Robert A. Heinlein,1987,3.88,10929,430,,
+968,River of Gods,Ian McDonald,2004,3.91,5593,430,India 2047,1
+969,Elder Race,Adrian Tchaikovsky,2021,4.17,8326,429,,
+970,Dark Matter,Blake Crouch,2016,4.12,361828,428,,
+971,Slan,A.E. van Vogt,1940,3.68,4874,428,Slan,1
+972,Space Cadet,Robert A. Heinlein,1948,3.84,8446,428,,
+973,The Dark Tower,Stephen King,2004,4.27,161015,428,The Dark Tower,7
+974,The Ones Who Walk Away from Omelas,Ursula K. Le Guin,1973,4.39,30510,428,,
+975,Ark,Veronica Roth,2019,3.56,16331,427,,
+976,The Queen's Army,Marissa Meyer,2012,3.97,18690,427,The Lunar Chronicles,1.5
+977,The Invincible,Stanisław Lem,1964,4.15,8788,427,,
+978,The Supernaturalist,Eoin Colfer,2004,3.86,27901,427,,
+979,When Gravity Fails,George Alec Effinger,1986,3.9,7147,426,,
+980,Lies,Michael  Grant,2010,4.08,64892,425,Gone,3
+981,The Chronicles of Pern: First Fall,Anne McCaffrey,1993,4.06,16428,425,Pern,11.5
+982,The Empire Strikes Back,Donald F. Glut,1980,4.11,12153,424,Star Wars: Novelizations,5
+983,Rogue Squadron,Michael A. Stackpole,1996,4.05,15675,423,Star Wars: X-Wing,1
+984,Crystal Line,Anne McCaffrey,1992,4.04,11526,423,Crystal Singer ,3
+985,Origin,Jennifer L. Armentrout,2013,4.34,106075,422,Lux,4
+986,Hench,Natalie Zina Walschots,2020,4.04,16405,421,,
+987,Supernova,Marissa Meyer,2019,4.42,54255,421,Renegades,3
+988,Snapshot,Brandon Sanderson,2017,4.06,13327,421,,
+989,Hothouse,Brian W. Aldiss,1962,3.62,4291,421,,
+990,John Dies at the End,David  Wong,2007,3.89,68198,420,John Dies at the End,1
+991,The Lost Colony,Eoin Colfer,2006,4.01,153311,420,Artemis Fowl,5
+992,Ancestral Night,Elizabeth Bear,2019,3.77,4634,420,White Space ,1
+993,The Sheep Look Up,John Brunner,1972,3.92,4797,420,,
+994,The Program,Suzanne Young,2013,4.05,51879,420,The Program,1
+995,Time for the Stars,Robert A. Heinlein,1956,3.98,8675,420,,
+996,Command Decision,Elizabeth Moon,2007,4.11,9261,420,Vatta's War,4
+997,Dragon Pearl,Yoon Ha Lee,2019,3.84,9289,419,Thousand Worlds,1
+998,Wild Cards,George R.R. Martin,1986,3.69,12494,419,Wild Cards,1
+999,God's War,Kameron Hurley,2011,3.66,4902,419,Bel Dame Apocrypha,1
+1000,Terminal World,Alastair Reynolds,2010,3.75,7185,419,,
+1001,Mind of My Mind,Octavia E. Butler,1977,4.17,10671,418,Patternmaster,2
+1002,The Darkness Outside Us,Eliot Schrefer,2021,4.35,10417,416,,
+1003,Replica,Lauren Oliver,2016,3.64,15633,416,Replica,1
+1004,One Second After,William R. Forstchen,2009,3.95,56617,416,After,1
+1005,Winterfair Gifts,Lois McMaster Bujold,2002,4.14,8010,416,Vorkosigan Saga,13.1
+1006,Song of Susannah,Stephen King,2004,3.99,146681,416,The Dark Tower,6
+1007,Mission of Gravity,Hal Clement,1954,3.91,6927,416,,
+1008,Mitosis,Brandon Sanderson,2013,3.86,35667,415,The Reckoners,1.5
+1009,Time,Stephen Baxter,1999,3.78,7139,415,Manifold ,1
+1010,The Divine Invasion,Philip K. Dick,1981,3.82,8151,415,,
+1011,The Fifth Head of Cerberus,Gene Wolfe,1972,3.98,6425,414,,
+1012,Axis,Robert Charles Wilson,2007,3.52,8384,414,Spin,2
+1013,Max,James Patterson,2009,4.06,71600,411,Maximum Ride,5
+1014,Dry,Neal Shusterman,2018,4.03,36103,410,,
+1015,In the Afterlight,Alexandra Bracken,2014,4.26,57658,410,The Darkest Minds,3
+1016,Virals,Kathy Reichs,2010,3.94,37682,410,Virals,1
+1017,The City of Mirrors,Justin Cronin,2016,4.2,51353,409,The Passage,3
+1018,Timebound,Rysa Walker,2012,3.88,28816,408,The Chronos Files,1
+1019,Existence,David Brin,2012,3.77,6401,408,,
+1020,Machines Like Me,Ian McEwan,2019,3.59,26530,408,,
+1021,The Relentless Moon,Mary Robinette Kowal,2020,4.38,6670,408,Lady Astronaut Universe,3
+1022,"Akira, Vol. 1",Katsuhiro Otomo,1984,4.4,29945,408,,
+1023,The Swarm,Frank Schätzing,2004,4.08,20135,408,,
+1024,Nerilka's Story,Anne McCaffrey,1986,3.83,17040,408,Pern,8
+1025,Earth Unaware,Orson Scott Card,2012,3.97,51095,407,The First Formic War,1
+1026,Neutron Star,Larry Niven,1966,4.13,12255,406,,
+1027,Mirage,Somaiya Daud,2018,3.72,11809,405,Mirage,1
+1028,The Nine Billion Names of God,Arthur C. Clarke,1967,4.07,7234,405,,
+1029,Light,M. John Harrison,2002,3.6,5411,405,Kefahuchi Tract,1
+1030,"Paper Girls, Volume 4",Brian K. Vaughan,2018,4.15,15921,403,,
+1031,Galactic North,Alastair Reynolds,2006,4.12,7845,403,,
+1032,The Man Who Sold the Moon,Robert A. Heinlein,1950,3.9,9911,402,,
+1033,Columbus Day,Craig Alanson,2016,4.26,20717,402,Expeditionary Force,1
+1034,Star Wars: From a Certain Point of View,Elizabeth Schaefer,2017,3.93,11206,402,From a Certain Point of View,1
+1035,Saturn Run,John Sandford,2015,3.9,12976,402,,
+1036,The Rolling Stones,Robert A. Heinlein,1952,3.87,6834,402,,
+1037,The Green Hills of Earth,Robert A. Heinlein,1951,3.86,8190,401,,
+1038,Digital Fortress,Dan Brown,1998,3.68,608062,401,,
+1039,One Last Stop,Casey McQuiston,2021,4.01,155794,401,,
+1040,Invisible Planets: Contemporary Chinese Science Fiction in Translation,Ken Liu,2016,4.05,3949,401,,
+1041,The Collected Stories of Philip K. Dick 1: The Short Happy Life of the Brown Oxford,Philip K. Dick,1987,4.17,8485,400,,
+1042,To Ride Pegasus,Anne McCaffrey,1973,4.03,9756,400,The Talent,1
+1043,The Fever Code,James Dashner,2016,4.06,53081,399,The Maze Runner,0.5
+1044,The Book of the Unnamed Midwife,Meg Elison,2014,4.14,17046,399,The Road to Nowhere,1
+1045,The Hitch Hiker's Guide to the Galaxy: A Trilogy in Five Parts,Douglas Adams,1979,4.4,17752,398,,
+1046,The Psychology of Time Travel,Kate Mascarenhas,2018,3.71,11811,398,,
+1047,When She Woke,Hillary Jordan,2011,3.67,27590,397,,
+1048,Imperial Earth,Arthur C. Clarke,1975,3.74,6072,397,,
+1049,Predator's Gold,Philip Reeve,2003,3.94,22072,397,Mortal Engines Quartet ,2
+1050,The City of Gold and Lead,John Christopher,1967,4.07,7820,397,,
+1051,The Ships of Earth,Orson Scott Card,1994,3.55,10288,396,Homecoming Saga ,3
+1052,Infinity's Shore,David Brin,1996,3.98,8192,396,Uplift Storm Trilogy,2
+1053,The Star Beast,Robert A. Heinlein,1954,3.8,7137,395,,
+1054,Deathworld 1,Harry Harrison,1960,3.94,8008,395,Deathworld,1
+1055,The Golden Apples of the Sun,Ray Bradbury,1953,4.07,8936,395,,
+1056,Inherit the Stars,James P. Hogan,1977,4.07,4519,394,Giants,1
+1057,172 Hours on the Moon,Johan Harstad,2008,3.54,12825,393,,
+1058,Etiquette & Espionage,Gail Carriger,2013,3.82,46591,392,Finishing School,1
+1059,Angelfall,Susan Ee,2011,4.11,184505,392,Penryn & the End of Days,1
+1060,The Integral Trees,Larry Niven,1983,3.76,8648,392,The State,2
+1061,The Invasion,K.A. Applegate,1996,3.85,15723,392,Animorphs,1
+1062,Passenger,Alexandra Bracken,2016,3.76,39968,391,Passenger,1
+1063,Earth Awakens,Orson Scott Card,2014,4.1,11954,391,The First Formic War,3
+1064,Damia's Children,Anne McCaffrey,1993,3.93,10551,391,The Tower and the Hive,3
+1065,The Collected Stories of Philip K. Dick 4: The Minority Report,Philip K. Dick,1987,4.18,9405,390,,
+1066,Skyhunter,Marie Lu,2020,4.06,15189,390,Skyhunter,1
+1067,Mars,Ben Bova,1992,3.85,8203,389,The Grand Tour,4
+1068,Dies the Fire,S.M. Stirling,2004,3.93,16057,389,Emberverse,1
+1069,Zero History,William Gibson,2010,3.95,14421,389,Blue Ant,3
+1070,Victory Conditions,Elizabeth Moon,2008,4.1,8303,388,Vatta's War,5
+1071,The Time Ships,Stephen Baxter,1995,3.95,5596,388,,
+1072,Moving Mars,Greg Bear,1993,3.84,7179,388,Queen of Angels,3
+1073,Mission of Honor,David Weber,2010,4.22,10442,387,Honor Harrington,12
+1074,The Boy on the Bridge,M.R. Carey,2017,3.96,23422,386,The Girl With All the Gifts,2
+1075,The Egg,Andy Weir,2009,4.22,24897,386,,
+1076,Rocket Ship Galileo,Robert A. Heinlein,1947,3.71,7384,386,,
+1077,Deception Point,Dan Brown,2001,3.74,640300,385,,
+1078,The Star Diaries: Further Reminiscences of Ijon Tichy,Stanisław Lem,1971,4.25,7877,384,,
+1079,The Einstein Intersection,Samuel R. Delany,1967,3.55,5077,384,,
+1080,March Upcountry,David Weber,2001,4.19,11075,383,Empire of Man,1
+1081,Lines of Departure,Marko Kloos,2014,4.14,18689,383,Frontlines,2
+1082,Seeker,Jack McDevitt,2005,3.91,7295,382,Alex Benedict ,3
+1083,A World Out of Time,Larry Niven,1976,3.81,5749,382,The State,1
+1084,Jennifer Government,Max Barry,2002,3.67,14230,381,,
+1085,Empire of Silence,Christopher Ruocchio,2018,4.05,5155,380,Sun Eater,1
+1086,The Man Who Folded Himself,David Gerrold,1973,3.81,5273,380,,
+1087,The Time Paradox,Eoin Colfer,2008,4.08,87494,380,Artemis Fowl ,6
+1088,Persephone Station,Stina Leicht,2021,3.47,3296,379,,
+1089,Echopraxia,Peter Watts,2014,3.84,8525,379,Firefall,2
+1090,The Prestige,Christopher Priest,1995,3.9,20001,379,,
+1091,The Light of Other Days,Arthur C. Clarke,2000,3.99,6879,379,,
+1092,Thrawn: Alliances,Timothy Zahn,2018,3.94,21828,378,Star Wars: Thrawn,2
+1093,Agency,William Gibson,2020,3.79,9501,378,Jackpot ,2
+1094,Return of the Jedi,James Kahn,1983,4.06,9819,378,Star Wars: Novelizations,6
+1095,The Hunger Games Trilogy Boxset,Suzanne Collins,2008,4.49,207250,377,The Hunger Games,1
+1096,Dark Eden,Chris Beckett,2012,3.77,7366,377,Dark Eden,1
+1097,Fang,James Patterson,2010,4.06,59059,377,Maximum Ride,6
+1098,Ringworld's Children,Larry Niven,2004,3.76,8627,377,Ringworld,4
+1099,Vector Prime,R.A. Salvatore,1999,3.82,14982,376,Star Wars: The New Jedi Order,1
+1100,Dorsai!,Gordon R. Dickson,1960,4.03,10161,376,Childe Cycle,1
+1101,Adaptation,Malinda Lo,2012,3.62,7424,375,Adaptation,1
+1102,Earth Is Room Enough,Isaac Asimov,1957,4.05,9460,375,,
+1103,The Deep,Rivers Solomon,2019,3.79,25380,374,,
+1104,Finna,Nino Cipri,2020,3.73,5688,374,LitenVerse,1
+1105,Invictus,Ryan Graudin,2017,3.84,6276,374,,
+1106,The Fractal Prince,Hannu Rajaniemi,2012,4.05,8078,374,Jean le Flambeur,2
+1107,Transition,Iain M. Banks,2009,3.86,10055,374,,
+1108,The Dosadi Experiment,Frank Herbert,1977,3.82,7198,374,ConSentiency Universe,2
+1109,Nine Princes in Amber,Roger Zelazny,1970,4.06,54663,374,The Chronicles of Amber ,1
+1110,Time Salvager,Wesley Chu,2015,3.69,4415,373,Time Salvager,1
+1111,The Lifecycle of Software Objects,Ted Chiang,2010,3.93,5829,373,,
+1112,Clay's Ark,Octavia E. Butler,1984,3.83,8404,373,Patternmaster,3
+1113,Infected,Scott Sigler,2008,3.84,20277,372,Infected,1
+1114,Ball Lightning,Liu Cixin,2004,3.77,9367,371,,
+1115,Aurora's End,Amie Kaufman,2021,4.24,14140,371,The Aurora Cycle,3
+1116,The Marrow Thieves,Cherie Dimaline,2017,4.03,25951,371,,
+1117,2BR02B,Kurt Vonnegut Jr.,1968,3.95,17546,371,,
+1118,The Last Conversation,Paul Tremblay,2019,3.75,13076,370,,
+1119,Attack of the Clones,R.A. Salvatore,2002,3.71,10744,370,Star Wars: Novelizations,2
+1120,Glass Sword,Victoria Aveyard,2016,3.83,296990,370,Red Queen,2
+1121,Rule of Two,Drew Karpyshyn,2007,4.21,19970,369,Star Wars: Darth Bane,2
+1122,Paul of Dune,Brian Herbert,2008,3.72,7819,369,Heroes of Dune,1
+1123,Now Wait for Last Year,Philip K. Dick,1966,3.88,6415,369,,
+1124,Walkaway,Cory Doctorow,2017,3.74,7254,368,,
+1125,Rule 34,Charles Stross,2011,3.75,7761,368,Halting State,2
+1126,Plague,Michael  Grant,2011,4.17,53392,367,Gone,4
+1127,Quarantine,Greg Egan,1992,3.9,4970,367,,
+1128,The True Meaning of Smekday,Adam Rex,2007,4.1,9177,367,,
+1129,Off to Be the Wizard,Scott  Meyer,2013,3.99,37329,366,Magic 2.0,1
+1130,Leia: Princess of Alderaan,Claudia Gray,2017,4.15,11818,366,Journey to Star Wars: The Last Jedi,3
+1131,Odyssey One,Evan Currie,2011,4.07,12669,366,Odyssey One,1
+1132,Contagion,Erin Bowman,2018,3.89,5293,366,Contagion,1
+1133,The Pool of Fire,John Christopher,1968,4.0,6912,366,,
+1134,The Long Utopia,Terry Pratchett,2015,3.89,9823,366,The Long Earth ,4
+1135,Cities in Flight,James Blish,1970,3.94,6140,366,Cities in Flight,1
+1136,The Ship Who Searched,Anne McCaffrey,1992,4.1,11192,366,Brainship,3
+1137,Fragments,Dan Wells,2013,4.1,25697,366,Partials Sequence,2
+1138,Hull Zero Three,Greg Bear,2010,3.38,5534,366,,
+1139,You Have Arrived at Your Destination,Amor Towles,2019,3.47,16891,365,,
+1140,Heart of Iron,Ashley Poston,2018,3.75,6085,365,Heart of Iron,1
+1141,Quarter Share,Nathan Lowell,2007,4.16,8195,365,Golden Age of the Solar Clipper,1
+1142,Riot Baby,Tochi Onyebuchi,2020,3.74,8866,364,,
+1143,The Skies of Pern,Anne McCaffrey,2001,4.09,14763,363,Pern,15
+1144,Glow,Amy Kathleen Ryan,2011,3.52,13261,362,Sky Chasers,1
+1145,Shade's Children,Garth Nix,1997,3.9,12524,362,,
+1146,Eternity,Greg Bear,1988,3.89,7235,361,The Way,2
+1147,"Thuvia, Maid of Mars",Edgar Rice Burroughs,1916,3.76,8786,361,Barsoom,4
+1148,The Claw of the Conciliator,Gene Wolfe,1981,3.98,12421,361,,
+1149,This Perfect Day,Ira Levin,1970,4.01,8806,360,,
+1150,Swan Song,Robert McCammon,1987,4.28,61925,360,,
+1151,Heaven's Reach,David Brin,1998,3.97,6525,360,Uplift Storm Trilogy,3
+1152,Zodiac,Neal Stephenson,1988,3.73,18775,359,,
+1153,The Disasters,M.K. England,2018,3.71,5568,359,,
+1154,Version Control,Dexter Palmer,2016,3.73,6679,359,,
+1155,Fluency,Jennifer Foehner Wells,2014,3.81,10339,359,Confluence,1
+1156,Light of the Jedi,Charles Soule,2021,3.92,19241,358,,
+1157,Who Goes There?,John W. Campbell Jr.,1938,3.83,8294,358,,
+1158,The Children of the Sky,Vernor Vinge,2011,3.65,6394,358,Zones of Thought,3
+1159,The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts,Douglas Adams,1979,4.5,35459,358,,
+1160,The Positronic Man,Isaac Asimov,1992,4.12,6200,358,Robot,0.6
+1161,Termination Shock,Neal Stephenson,2021,3.86,11539,357,,
+1162,War with the Newts,Karel Čapek,1936,4.17,11930,357,,
+1163,Alien: Out of the Shadows,Tim Lebbon,2013,3.8,9807,357,Canonical Alien Trilogy,1
+1164,Helliconia Spring,Brian W. Aldiss,1982,3.61,3820,357,Helliconia,1
+1165,Dragonseye,Anne McCaffrey,1996,4.03,13415,357,Pern,13
+1166,The Legacy of Heorot,Larry Niven,1987,3.94,6924,357,Heorot ,1
+1167,The Death of Grass,John Christopher,1956,3.88,8524,356,,
+1168,Earthfall,Orson Scott Card,1995,3.52,9353,356,Homecoming,4
+1169,A Hymn Before Battle,John Ringo,2000,4.03,12809,356,Posleen War,1
+1170,Once & Future,Amy Rose Capetta,2019,3.56,8466,355,Once & Future ,1
+1171,Auberon,James S.A. Corey,2019,4.19,9358,354,The Expanse,8.5
+1172,Dogs of War,Adrian Tchaikovsky,2017,4.25,7888,354,Dogs of War,1
+1173,Pure,Julianna Baggott,2012,3.73,24039,354,Pure,1
+1174,Perfect State,Brandon Sanderson,2015,4.05,13578,354,,
+1175,UnDivided,Neal Shusterman,2014,4.46,23799,354,Unwind,4
+1176,The Chronoliths,Robert Charles Wilson,2001,3.68,5184,354,,
+1177,"Transmetropolitan, Vol. 1: Back on the Street",Warren Ellis,1998,4.21,43723,354,,
+1178,The Book of M,Peng Shepherd,2018,3.69,16336,353,,
+1179,Revenant Gun,Yoon Ha Lee,2018,4.14,5757,353,The Machineries of Empire,3
+1180,R.U.R.,Karel Čapek,1920,3.83,12041,353,,
+1181,The Big Time,Fritz Leiber,1958,3.21,3584,353,,
+1182,The Shrinking Man,Richard Matheson,1956,3.79,7594,353,,
+1183,The Illuminatus! Trilogy,Robert Shea,1975,4.01,15062,353,,
+1184,Free Four: Tobias Tells the Divergent Knife-Throwing Scene,Veronica Roth,2012,4.14,95984,352,Divergent,1.5
+1185,Airborn,Kenneth Oppel,2004,4.18,24641,352,Matt Cruse,1
+1186,Young Miles,Lois McMaster Bujold,1997,4.39,6015,352,Vorkosigan Omnibus,2
+1187,The Aeronaut's Windlass,Jim Butcher,2015,4.18,39636,351,The Cinder Spires,1
+1188,The Jennifer Morgue,Charles Stross,2006,4.03,13737,350,Laundry Files ,2
+1189,Axiomatic,Greg Egan,1990,4.29,4886,350,,
+1190,"Bitch Planet, Vol. 1: Extraordinary Machine",Kelly Sue DeConnick,2015,4.03,23606,350,Bitch Planet Collected Editions,1
+1191,A Rising Thunder,David Weber,2012,4.1,8991,350,Honor Harrington,13
+1192,Pegasus in Flight,Anne McCaffrey,1990,4.17,8465,350,The Talent,2
+1193,Watchers,Dean Koontz,1987,4.18,158536,349,,
+1194,The White Plague,Frank Herbert,1982,3.69,6231,349,,
+1195,The Book of Koli,M.R. Carey,2020,4.01,8231,348,Rampart Trilogy,1
+1196,A Million Worlds with You,Claudia Gray,2016,4.05,14872,348,Firebird,3
+1197,Proxima,Stephen Baxter,2013,3.8,6346,348,,
+1198,Clean Sweep,Ilona Andrews,2013,4.16,47798,348,Innkeeper Chronicles,1
+1199,A Confusion of Princes,Garth Nix,2012,3.77,6398,348,,
+1200,Chindi,Jack McDevitt,2002,3.89,5053,348,The Academy,3
+1201,Kiln People,David Brin,2002,3.85,5896,348,,
+1202,Hunting Party,Elizabeth Moon,1993,3.89,5818,348,The Serrano Legacy,1
+1203,The Doors of Eden,Adrian Tchaikovsky,2020,3.87,5558,347,,
+1204,Mindstar Rising,Peter F. Hamilton,1993,3.92,7892,347,Greg Mandel,1
+1205,Invader,C.J. Cherryh,1996,4.17,4708,347,Foreigner,2
+1206,1632,Eric Flint,2000,4.05,12111,347,,
+1207,Iron Sunrise,Charles Stross,2004,3.98,9092,347,Eschaton,2
+1208,Sisters of the Vast Black,Lina Rather,2019,4.06,2843,346,Our Lady of Endless Worlds,1
+1209,Gravity's Rainbow,Thomas Pynchon,1973,3.99,41130,346,,
+1210,Velocity Weapon,Megan E. O'Keefe,2019,3.85,4309,345,The Protectorate,1
+1211,Day 21,Kass Morgan,2014,3.73,33919,345,The 100,2
+1212,Starship Titanic,Terry Jones,1997,3.61,12028,344,,
+1213,The Ocean at the End of the Lane,Neil Gaiman,2013,4.01,557742,344,,
+1214,The Fate of Ten,Pittacus Lore,2015,4.31,35564,344,Lorien Legacies,6
+1215,Behold the Man,Michael Moorcock,1969,3.77,7173,344,,
+1216,Primary Inversion,Catherine Asaro,1995,3.74,4002,344,Saga of the Skolian Empire,1
+1217,Mirrorshades: The Cyberpunk Anthology,Bruce Sterling,1986,3.95,8625,343,,
+1218,Opposition,Jennifer L. Armentrout,2014,4.35,78896,343,Lux,5
+1219,Invincible,Jack Campbell,2012,4.12,11593,343,The Lost Fleet: Beyond the Frontier,2
+1220,Heaven's River,Dennis E. Taylor,2020,4.3,16135,342,Bobiverse,4
+1221,The Strain,Guillermo del Toro,2009,3.79,83620,342,The Strain Trilogy,1
+1222,The Fourteenth Goldfish,Jennifer L. Holm,2014,3.88,21653,342,,
+1223,Vurt,Jeff Noon,1993,4.05,9196,342,Vurt,1
+1224,This Mortal Coil,Emily Suvada,2017,4.14,9589,341,This Mortal Coil,1
+1225,Honor Among Thieves,Rachel Caine,2018,3.9,5051,341,The Honors,1
+1226,Behind the Throne,K.B. Wagers,2016,3.87,3570,341,The Indranan War ,1
+1227,The Dervish House,Ian McDonald,2009,3.85,4500,341,,
+1228,Cell,Stephen King,2006,3.66,210868,341,,
+1229,The Drowned Cities,Paolo Bacigalupi,2012,3.9,10508,340,Ship Breaker,2
+1230,An Acceptable Time,Madeleine L'Engle,1962,3.8,21254,340,Time Quintet,5
+1231,"Wires and Nerve, Volume 2: Gone Rogue",Marissa Meyer,2018,4.22,15204,339,Wires and Nerve,2
+1232,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,2015,3.92,57484,339,,
+1233,Proxy,Alex London,2013,3.87,10775,339,Proxy,1
+1234,This World We Live In,Susan Beth Pfeffer,2010,3.8,31395,339,Last Survivors,3
+1235,Forever Free,Joe Haldeman,1999,3.45,6698,339,The Forever War,3
+1236,Y The Last Man Vol. 2: Cycles,Brian K. Vaughan,2003,4.22,37974,339,,
+1237,Sword & Citadel,Gene Wolfe,1994,4.33,11944,339,,
+1238,The Map of Time,Félix J. Palma,2008,3.38,12359,338,,
+1239,The Dark Design,Philip José Farmer,1977,3.73,5860,338,Riverworld,3
+1240,The Hidden Girl and Other Stories,Ken Liu,2020,3.92,4870,337,,
+1241,Embers of War,Gareth L. Powell,2018,3.91,5111,337,Embers of War,1
+1242,Camouflage,Joe Haldeman,2004,3.65,6008,337,,
+1243,The Time Machine/The Invisible Man,H.G. Wells,1968,4.1,55658,336,,
+1244,The Young Elites,Marie Lu,2014,3.88,128095,336,The Young Elites,1
+1245,Birthmarked,Caragh M. O'Brien,2010,3.88,47982,336,Birthmarked,1

@@ -1,0 +1,1249 @@
+,title,author,pub_year,avg_rate,num_rate,shelved,series_name,series_num
+0,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,4.47,8827238,71462,Harry Potter,1.0
+1,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,4.43,3409926,59741,Harry Potter,2.0
+2,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,4.58,3595393,59290,Harry Potter,3.0
+3,The Hobbit,J.R.R. Tolkien,1937,4.28,3483329,58644,,
+4,Harry Potter and the Goblet of Fire,J.K. Rowling,2000,4.57,3164528,57211,Harry Potter,4.0
+5,Harry Potter and the Half-Blood Prince,J.K. Rowling,2005,4.58,2923256,54962,Harry Potter,6.0
+6,Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,4.5,3019296,54948,Harry Potter,5.0
+7,A Game of Thrones,George R.R. Martin,1996,4.44,2281001,49589,A Song of Ice and Fire,1.0
+8,The Fellowship of the Ring,J.R.R. Tolkien,1954,4.38,2617415,45975,The Lord of the Rings,1.0
+9,A Clash of Kings,George R.R. Martin,1998,4.41,865168,34640,A Song of Ice and Fire,2.0
+10,The Name of the Wind,Patrick Rothfuss,2007,4.52,854536,33511,The Kingkiller Chronicle,1.0
+11,The Two Towers,J.R.R. Tolkien,1954,4.47,847263,33274,The Lord of the Rings,2.0
+12,The Return of the King,J.R.R. Tolkien,1955,4.55,793098,31628,The Lord of the Rings,3.0
+13,The Final Empire,Brandon Sanderson,2006,4.46,536486,29062,Mistborn,1.0
+14,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1950,4.23,2518695,28998,Chronicles of Narnia,1.0
+15,A Storm of Swords,George R.R. Martin,2000,4.54,725092,28875,A Song of Ice and Fire,3.0
+16,A Feast for Crows,George R.R. Martin,2005,4.15,683927,28609,A Song of Ice and Fire,4.0
+17,Six of Crows,Leigh Bardugo,2015,4.49,711301,28212,Six of Crows,1.0
+18,The Lightning Thief,Rick Riordan,2005,4.29,2549138,28160,Percy Jackson and the Olympians,1.0
+19,The Golden Compass,Philip Pullman,1995,4.01,1430863,27539,His Dark Materials,1.0
+20,A Court of Thorns and Roses,Sarah J. Maas,2015,4.2,1152398,27144,A Court of Thorns and Roses,1.0
+21,Shadow and Bone,Leigh Bardugo,2012,3.95,778700,26534,The Shadow and Bone Trilogy,1.0
+22,Eragon,Christopher Paolini,2002,3.93,1626768,26514,The Inheritance Cycle,1.0
+23,A Dance with Dragons,George R.R. Martin,2011,4.33,608297,24421,A Song of Ice and Fire,5.0
+24,American Gods,Neil Gaiman,2001,4.11,857116,24094,American Gods,1.0
+25,City of Bones,Cassandra Clare,2007,4.08,1861995,22539,The Mortal Instruments,1.0
+26,The Night Circus,Erin Morgenstern,2011,4.03,850826,22523,,
+27,Twilight,Stephenie Meyer,2005,3.63,5911774,21771,The Twilight Saga,1.0
+28,A Darker Shade of Magic,V.E. Schwab,2015,4.07,288899,20396,Shades of Magic,1.0
+29,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,1990,4.25,651803,20380,,
+30,The Cruel Prince,Holly Black,2018,4.09,728047,19711,The Folk of the Air,1.0
+31,Stardust,Neil Gaiman,1998,4.1,411955,19658,,
+32,The Way of Kings,Brandon Sanderson,2010,4.64,396802,19619,The Stormlight Archive,1.0
+33,A Court of Mist and Fury,Sarah J. Maas,2016,4.62,825234,19576,A Court of Thorns and Roses,2.0
+34,Neverwhere,Neil Gaiman,1996,4.17,485986,19328,London Below,1.0
+35,The Wise Man's Fear,Patrick Rothfuss,2011,4.55,499952,18940,The Kingkiller Chronicle,2.0
+36,The Sea of Monsters,Rick Riordan,2006,4.24,973020,18473,Percy Jackson and the Olympians,2.0
+37,Crooked Kingdom,Leigh Bardugo,2016,4.61,479304,18383,Six of Crows,2.0
+38,The Lies of Locke Lamora,Scott Lynch,2006,4.29,264258,18033,Gentleman Bastard,1.0
+39,The Well of Ascension,Brandon Sanderson,2007,4.37,370091,17928,Mistborn,2.0
+40,Assassin's Apprentice,Robin Hobb,1995,4.17,282637,17924,Farseer Trilogy,1.0
+41,Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,2016,3.52,894440,17804,Harry Potter,8.0
+42,The Ocean at the End of the Lane,Neil Gaiman,2013,4.01,557712,17683,,
+43,Graceling,Kristin Cashore,2008,4.07,433214,17196,Graceling Realm,1.0
+44,Siege and Storm,Leigh Bardugo,2013,3.85,488552,17185,The Shadow and Bone Trilogy,2.0
+45,The Princess Bride,William Goldman,1973,4.26,852541,16700,,
+46,The Titan's Curse,Rick Riordan,2007,4.36,883095,16679,Percy Jackson and the Olympians,3.0
+47,The Color of Magic,Terry Pratchett,1983,4.0,356919,16671,Discworld,1.0
+48,Uprooted,Naomi Novik,2015,4.05,209539,16570,,
+49,Crown of Midnight,Sarah J. Maas,2013,4.36,557633,16529,Throne of Glass,2.0
+50,The Subtle Knife,Philip Pullman,1997,4.14,410751,16373,His Dark Materials,2.0
+51,Red Queen,Victoria Aveyard,2015,4.03,835760,16221,Red Queen,1.0
+52,A Wizard of Earthsea,Ursula K. Le Guin,1968,4.01,282038,16215,Earthsea Cycle,1.0
+53,The Hero of Ages,Brandon Sanderson,2008,4.51,340428,16168,Mistborn,3.0
+54,A Court of Wings and Ruin,Sarah J. Maas,2017,4.44,661918,16101,A Court of Thorns and Roses,3.0
+55,The Battle of the Labyrinth,Rick Riordan,2008,4.41,925472,15992,Percy Jackson and the Olympians,4.0
+56,Howl’s Moving Castle,Diana Wynne Jones,1986,4.29,284080,15774,Howl’s Moving Castle,1.0
+57,The Hunger Games,Suzanne Collins,2008,4.32,7605969,15708,The Hunger Games,1.0
+58,The Silmarillion,J.R.R. Tolkien,1977,3.97,254591,15648,,
+59,The Magician's Nephew,C.S. Lewis,1955,4.05,486532,15605,Chronicles of Narnia,6.0
+60,The Last Olympian,Rick Riordan,2009,4.53,848878,15435,Percy Jackson and the Olympians,5.0
+61,The Last Wish,Andrzej Sapkowski,1993,4.14,289898,15386,The Witcher,0.5
+62,New Moon,Stephenie Meyer,2006,3.58,1737737,15339,The Twilight Saga,2.0
+63,The Fifth Season,N.K. Jemisin,2015,4.32,214766,15249,The Broken Earth,1.0
+64,Eldest,Christopher Paolini,2005,4.01,404230,15142,The Inheritance Cycle,2.0
+65,Ruin and Rising,Leigh Bardugo,2014,4.02,415688,15024,The Shadow and Bone Trilogy,3.0
+66,City of Ashes,Cassandra Clare,2008,4.13,866138,15010,The Mortal Instruments,2.0
+67,The Amber Spyglass,Philip Pullman,2000,4.1,337385,14778,His Dark Materials,3.0
+68,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,3.92,1156440,14739,Miss Peregrine's Peculiar Children,1.0
+69,Heir of Fire,Sarah J. Maas,2014,4.46,475563,14498,Throne of Glass,3.0
+70,Circe,Madeline Miller,2018,4.26,750857,14195,,
+71,The Graveyard Book,Neil Gaiman,2008,4.15,496793,14189,,
+72,Breaking Dawn,Stephenie Meyer,2008,3.72,1546618,14148,The Twilight Saga,4.0
+73,The Invisible Life of Addie LaRue,V.E. Schwab,2020,4.22,693401,13996,,
+74,City of Glass,Cassandra Clare,2009,4.29,901762,13951,The Mortal Instruments,3.0
+75,Prince Caspian,C.S. Lewis,1951,3.98,399617,13947,Chronicles of Narnia,2.0
+76,An Ember in the Ashes,Sabaa Tahir,2015,4.26,256254,13818,An Ember in the Ashes,1.0
+77,The Great Hunt,Robert Jordan,1990,4.25,281531,13788,The Wheel of Time,2.0
+78,A Wrinkle in Time,Madeleine L'Engle,1962,3.99,1131808,13704,Time Quintet,1.0
+79,Daughter of Smoke & Bone,Laini Taylor,2011,4.0,351842,13689,Daughter of Smoke & Bone,1.0
+80,The Blade Itself,Joe Abercrombie,2006,4.19,205840,13601,The First Law,1.0
+81,The Voyage of the Dawn Treader,C.S. Lewis,1952,4.09,437878,13559,Chronicles of Narnia,3.0
+82,Clockwork Angel,Cassandra Clare,2010,4.32,776436,13466,The Infernal Devices,1.0
+83,The Wicked King,Holly Black,2019,4.34,450006,13265,The Folk of the Air,2.0
+84,The Tales of Beedle the Bard,J.K. Rowling,2008,4.05,461617,13260,,
+85,The Gunslinger,Stephen King,1982,3.94,565471,13036,The Dark Tower,1.0
+86,Queen of Shadows,Sarah J. Maas,2015,4.56,414405,12842,Throne of Glass,4.0
+87,The Bear and the Nightingale,Katherine Arden,2017,4.1,167388,12838,The Winternight Trilogy,1.0
+88,The Chronicles of Narnia,C.S. Lewis,1956,4.27,598357,12763,Chronicles of Narnia,1.0
+89,The House in the Cerulean Sea,T.J. Klune,2020,4.45,363497,12758,,
+90,The Horse and His Boy,C.S. Lewis,1954,3.91,318213,12704,Chronicles of Narnia,5.0
+91,Brisingr,Christopher Paolini,2008,4.07,340661,12697,The Inheritance Cycle,3.0
+92,Jonathan Strange & Mr Norrell,Susanna Clarke,2004,3.84,222021,12504,,
+93,The Poppy War,R.F. Kuang,2018,4.14,138199,12436,The Poppy War,1.0
+94,The Dragon Reborn,Robert Jordan,1991,4.27,258546,12434,The Wheel of Time,3.0
+95,The Raven Boys,Maggie Stiefvater,2012,4.05,332704,12393,The Raven Cycle,1.0
+96,Coraline,Neil Gaiman,2002,4.09,596427,12310,,
+97,Catching Fire,Suzanne Collins,2009,4.3,3070110,12113,The Hunger Games,2.0
+98,Cinder,Marissa Meyer,2012,4.13,832561,12054,The Lunar Chronicles,1.0
+99,Storm Front,Jim Butcher,2000,3.98,329085,12051,The Dresden Files,1.0
+100,Elantris,Brandon Sanderson,2005,4.19,221834,11973,Elantris,1.0
+101,The Lost Hero,Rick Riordan,2010,4.32,749259,11782,The Heroes of Olympus,1.0
+102,Words of Radiance,Brandon Sanderson,2014,4.75,277234,11654,The Stormlight Archive,2.0
+103,The Queen of Nothing,Holly Black,2019,4.37,400169,11620,The Folk of the Air,3.0
+104,Sabriel,Garth Nix,1995,4.16,199515,11618,"Abhorsen,  ",1.0
+105,The Silver Chair,C.S. Lewis,1953,3.96,272623,11557,Chronicles of Narnia,4.0
+106,Caraval,Stephanie Garber,2016,4.0,296092,11349,Caraval,1.0
+107,The Magicians,Lev Grossman,2009,3.52,251692,11325,The Magicians,1.0
+108,A Discovery of Witches,Deborah Harkness,2011,4.01,446048,11314,All Souls,1.0
+109,The Priory of the Orange Tree,Samantha Shannon,2019,4.23,112926,11279,The Roots of Chaos,1.0
+110,Children of Blood and Bone,Tomi Adeyemi,2018,4.11,202401,11273,Legacy of Orïsha,1.0
+111,Mockingjay,Suzanne Collins,2010,4.06,2808950,11196,The Hunger Games,3.0
+112,The Last Battle,C.S. Lewis,1956,4.01,252990,11052,Chronicles of Narnia,7.0
+113,Inkheart,Cornelia Funke,2003,3.9,403557,10949,Inkworld,1.0
+114,The Shadow Rising,Robert Jordan,1992,4.26,207306,10908,The Wheel of Time,4.0
+115,City of Fallen Angels,Cassandra Clare,2011,4.09,559206,10806,The Mortal Instruments,4.0
+116,Artemis Fowl,Eoin Colfer,2001,3.86,531928,10716,Artemis Fowl,1.0
+117,Empire of Storms,Sarah J. Maas,2016,4.56,345693,10652,Throne of Glass,5.0
+118,Mort,Terry Pratchett,1987,4.23,223750,10532,Discworld,4.0
+119,House of Earth and Blood,Sarah J. Maas,2020,4.48,314996,10419,Crescent City,1.0
+120,A Court of Frost and Starlight,Sarah J. Maas,2018,3.8,438862,10366,A Court of Thorns and Roses,3.1
+121,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1995,3.54,586026,10250,The Wicked Years,1.0
+122,Poison Study,Maria V. Snyder,2005,4.1,159022,10136,Study,1.0
+123,Spinning Silver,Naomi Novik,2018,4.21,108175,10098,,
+124,Royal Assassin,Robin Hobb,1996,4.25,174347,10067,Farseer Trilogy,2.0
+125,From Blood and Ash,Jennifer L. Armentrout,2020,4.28,329281,10030,Blood and Ash,1.0
+126,Wizard's First Rule,Terry Goodkind,1994,4.12,240142,10014,Sword of Truth,1.0
+127,Warbreaker,Brandon Sanderson,2009,4.3,157657,9994,Warbreaker,1.0
+128,A Gathering of Shadows,V.E. Schwab,2016,4.24,156541,9876,Shades of Magic,2.0
+129,Fantastic Beasts and Where to Find Them,Newt Scamander,2001,3.97,379080,9728,,
+130,Blood of Elves,Andrzej Sapkowski,1994,4.1,166579,9686,The Witcher,1.0
+131,The Mists of Avalon,Marion Zimmer Bradley,1982,4.12,200744,9558,Avalon,1.0
+132,Clockwork Prince,Cassandra Clare,2011,4.43,515526,9514,The Infernal Devices,2.0
+133,Carry On,Rainbow Rowell,2015,4.2,280610,9496,Simon Snow,1.0
+134,Strange the Dreamer,Laini Taylor,2017,4.29,107318,9452,Strange the Dreamer,1.0
+135,The Son of Neptune,Rick Riordan,2011,4.42,510846,9417,The Heroes of Olympus,2.0
+136,The Alloy of Law,Brandon Sanderson,2011,4.21,174599,9330,Mistborn,4.0
+137,City of Lost Souls,Cassandra Clare,2012,4.23,493319,9319,The Mortal Instruments,5.0
+138,Equal Rites,Terry Pratchett,1987,4.04,163654,9260,Discworld,3.0
+139,The Starless Sea,Erin Morgenstern,2019,3.86,163792,9240,,
+140,Lord of Chaos,Robert Jordan,1994,4.16,155078,9224,The Wheel of Time,6.0
+141,The City of Brass,S.A. Chakraborty,2017,4.14,85426,9136,The Daevabad Trilogy,1.0
+142,Ninth House,Leigh Bardugo,2019,4.04,186413,9066,Alex Stern,1.0
+143,Guards! Guards!,Terry Pratchett,1989,4.32,186236,9044,Discworld,8.0
+144,A ​Court of Silver Flames,Sarah J. Maas,2021,4.41,386825,8991,A Court of Thorns and Roses,4.0
+145,The Light Fantastic,Terry Pratchett,1986,3.99,138852,8968,Discworld,2.0
+146,Assassin's Quest,Robin Hobb,1997,4.19,138764,8954,Farseer Trilogy,3.0
+147,Gardens of the Moon,Steven Erikson,1999,3.9,105832,8834,Malazan Book of the Fallen,1.0
+148,Anansi Boys,Neil Gaiman,2005,4.03,211566,8833,American Gods,2.0
+149,Clockwork Princess,Cassandra Clare,2013,4.56,409255,8772,The Infernal Devices,3.0
+150,Every Heart a Doorway,Seanan McGuire,2016,3.82,94331,8753,Wayward Children,1.0
+151,The Mark of Athena,Rick Riordan,2012,4.46,529160,8664,The Heroes of Olympus,3.0
+152,A Crown of Swords,Robert Jordan,1996,4.05,148783,8655,The Wheel of Time,7.0
+153,The Wrath and the Dawn,Renée Ahdieh,2015,4.08,160669,8649,The Wrath and the Dawn,1.0
+154,Serpent & Dove,Shelby Mahurin,2019,4.03,222248,8573,Serpent & Dove,1.0
+155,Piranesi,Susanna Clarke,2020,4.25,174538,8556,,
+156,The Song of Achilles,Madeline Miller,2011,4.38,959015,8465,,
+157,His Majesty's Dragon,Naomi Novik,2006,4.05,90261,8464,Temeraire,1.0
+158,Kingdom of Ash,Sarah J. Maas,2018,4.62,263286,8310,Throne of Glass,7.0
+159,Vicious,V.E. Schwab,2013,4.23,175670,8301,Villains,1.0
+160,King of Scars,Leigh Bardugo,2019,4.17,149027,8298,King of Scars,1.0
+161,Fire,Kristin Cashore,2009,4.1,177047,8253,Graceling Realm,2.0
+162,Ella Enchanted,Gail Carson Levine,1997,4.0,403183,8230,Ella Enchanted,1.0
+163,The Path of Daggers,Robert Jordan,1998,3.92,128157,8125,The Wheel of Time,8.0
+164,Oathbringer,Brandon Sanderson,2017,4.61,186335,8118,The Stormlight Archive,3.0
+165,A Conjuring of Light,V.E. Schwab,2017,4.34,126977,8091,Shades of Magic,3.0
+166,The Way of Shadows,Brent Weeks,2008,4.15,159692,8034,Night Angel,1.0
+167,Tower of Dawn,Sarah J. Maas,2017,4.28,247922,8033,Throne of Glass,6.0
+168,Sword of Destiny,Andrzej Sapkowski,1992,4.28,148795,7980,The Witcher,0.7
+169,City of Heavenly Fire,Cassandra Clare,2014,4.4,350489,7980,The Mortal Instruments,6.0
+170,Outlander,Diana Gabaldon,1991,4.25,958355,7885,Outlander,1.0
+171,Scarlet,Marissa Meyer,2013,4.26,377707,7875,The Lunar Chronicles,2.0
+172,The Assassin's Blade,Sarah J. Maas,2014,4.33,257128,7861,Throne of Glass,0.1
+173,The Hundred Thousand Kingdoms,N.K. Jemisin,2010,3.89,67391,7852,Inheritance,1.0
+174,Red Seas Under Red Skies,Scott Lynch,2007,4.24,130084,7840,Gentleman Bastard,2.0
+175,Winter's Heart,Robert Jordan,2000,3.96,122407,7761,The Wheel of Time,9.0
+176,Divergent,Veronica Roth,2011,4.16,3546937,7755,Divergent,1.0
+177,The House of Hades,Rick Riordan,2013,4.55,347132,7725,The Heroes of Olympus,4.0
+178,Before They Are Hanged,Joe Abercrombie,2007,4.32,143364,7711,The First Law,2.0
+179,The Midnight Library,Matt Haig,2020,4.03,1133477,7681,,
+180,Sorcery of Thorns,Margaret  Rogerson,2019,4.08,96872,7677,Sorcery of Thorns,1.0
+181,Alanna: The First Adventure,Tamora Pierce,1983,4.26,125309,7654,Song of the Lioness,1.0
+182,A Deadly Education,Naomi Novik,2020,4.01,104764,7585,The Scholomance,1.0
+183,Norse Mythology,Neil Gaiman,2017,4.1,280180,7562,,
+184,The Neverending Story,Michael Ende,1979,4.18,186511,7417,,
+185,Prince of Thorns,Mark  Lawrence,2011,3.85,106671,7417,The Broken Empire,1.0
+186,The Black Prism,Brent Weeks,2010,4.23,114320,7246,Lightbringer,1.0
+187,Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1871,4.06,520533,7244,,
+188,Pawn of Prophecy,David Eddings,1982,4.15,101408,7241,The Belgariad,1.0
+189,To Kill a Kingdom,Alexandra Christo,2018,3.79,137364,7232,,
+190,To Kill a Kingdom,Alexandra Christo,2018,3.79,137364,7230,,
+191,The Wonderful Wizard of Oz,L. Frank Baum,1900,3.99,420764,7202,Oz,1.0
+192,The Dream Thieves,Maggie Stiefvater,2013,4.23,182575,7196,The Raven Cycle,2.0
+193,Crossroads of Twilight,Robert Jordan,2003,3.8,109147,7193,The Wheel of Time,10.0
+194,The Golem and the Jinni,Helene Wecker,2013,4.12,115827,7192,The Golem and the Jinni,1.0
+195,Wyrd Sisters,Terry Pratchett,1988,4.14,106963,7177,Discworld,6.0
+196,The Thief,Megan Whalen Turner,1996,3.86,79565,7145,The Queen's Thief,1.0
+197,Fool Moon,Jim Butcher,2001,3.99,182066,7137,The Dresden Files,2.0
+198,The Obelisk Gate,N.K. Jemisin,2016,4.31,130766,7110,The Broken Earth,2.0
+199,The Drawing of the Three,Stephen King,1987,4.23,240077,7073,The Dark Tower,2.0
+200,Gideon the Ninth,Tamsyn Muir,2019,4.23,82846,7072,The Locked Tomb,1.0
+201,The Tombs of Atuan,Ursula K. Le Guin,1970,4.11,104596,7045,Earthsea Cycle,2.0
+202,The Red Pyramid,Rick Riordan,2010,4.1,366689,7036,The Kane Chronicles,1.0
+203,Last Argument of Kings,Joe Abercrombie,2008,4.31,133596,7034,The First Law,3.0
+204,Glass Sword,Victoria Aveyard,2016,3.83,296950,7029,Red Queen,2.0
+205,The Sword of Shannara,Terry Brooks,1977,3.76,92628,7026,The Original Shannara Trilogy,1.0
+206,Seraphina,Rachel Hartman,2012,3.94,84557,7020,Seraphina,1.0
+207,Days of Blood & Starlight,Laini Taylor,2012,4.14,156086,7019,Daughter of Smoke & Bone,2.0
+208,The Warded Man,Peter V. Brett,2008,4.24,117794,6985,The Demon Cycle,1.0
+209,Heartless,Marissa Meyer,2016,4.08,152282,6981,,
+210,The Gathering Storm,Robert Jordan,2009,4.4,145238,6953,The Wheel of Time,12.0
+211,The Last Unicorn,Peter S. Beagle,1968,4.16,102404,6938,The Last Unicorn,1.0
+212,Knife of Dreams,Robert Jordan,2005,4.17,117830,6929,The Wheel of Time,11.0
+213,Cress,Marissa Meyer,2014,4.42,332226,6830,The Lunar Chronicles,3.0
+214,A Curse So Dark and Lonely,Brigid Kemmerer,2019,4.02,123586,6791,Cursebreakers,1.0
+215,Nevernight,Jay Kristoff,2016,4.23,79708,6780,The Nevernight Chronicle,1.0
+216,Dune,Frank Herbert,1965,4.25,1128902,6751,Dune,1.0
+217,The Slow Regard of Silent Things,Patrick Rothfuss,2014,3.89,132399,6700,The Kingkiller Chronicle,2.5
+218,A Torch Against the Night,Sabaa Tahir,2016,4.25,137993,6683,An Ember in the Ashes,2.0
+219,The Blood of Olympus,Rick Riordan,2014,4.43,271311,6676,The Heroes of Olympus,5.0
+220,The Queen of the Tearling,Erika Johansen,2014,3.99,90409,6675,The Queen of the Tearling,1.0
+221,The Amulet of Samarkand,Jonathan Stroud,2003,4.02,123320,6666,Bartimaeus,1.0
+222,Dragonflight,Anne McCaffrey,1968,4.09,132764,6614,Dragonriders of Pern,1.0
+223,Furies of Calderon,Jim Butcher,2004,4.12,103220,6593,Codex Alera,1.0
+224,Quidditch Through the Ages,J.K. Rowling,2001,3.82,168486,6569,,
+225,The Little Prince,Antoine de Saint-Exupéry,1943,4.32,1795450,6526,,
+226,Towers of Midnight,Robert Jordan,2010,4.45,142715,6526,The Wheel of Time,13.0
+227,Ship of Magic,Robin Hobb,1998,4.18,73185,6523,Liveship Traders,1.0
+228,Small Gods,Terry Pratchett,1992,4.31,111817,6446,Discworld,13.0
+229,The Iron King,Julie Kagawa,2010,3.88,207143,6443,The Iron Fey,1.0
+230,The Ten Thousand Doors of January,Alix E. Harrow,2019,4.05,105146,6427,,
+231,Vampire Academy,Richelle Mead,2007,4.11,614645,6413,Vampire Academy,1.0
+232,The Kiss of Deception,Mary E. Pearson,2014,3.96,116569,6377,The Remnant Chronicles,1.0
+233,Shadows of Self,Brandon Sanderson,2015,4.29,112968,6357,Mistborn,5.0
+234,"Blue Lily, Lily Blue",Maggie Stiefvater,2014,4.26,148196,6268,The Raven Cycle,3.0
+235,Winter,Marissa Meyer,2015,4.43,246082,6214,The Lunar Chronicles,4.0
+236,The Time of Contempt,Andrzej Sapkowski,1995,4.17,112701,6206,The Witcher,2.0
+237,Kushiel's Dart,Jacqueline Carey,2001,4.01,77085,6206,Phèdre's Trilogy,1.0
+238,Sourcery,Terry Pratchett,1988,3.9,91181,6191,Discworld,5.0
+239,Reaper Man,Terry Pratchett,1991,4.27,93585,6179,Discworld,11.0
+240,Lirael,Garth Nix,2001,4.28,114614,6167,Abhorsen,2.0
+241,Interview with the Vampire,Anne Rice,1976,4.01,540107,6142,The Vampire Chronicles,1.0
+242,Lady Midnight,Cassandra Clare,2016,4.38,209077,6117,The Dark Artifices,1.0
+243,The Young Elites,Marie Lu,2014,3.88,128020,6110,The Young Elites,1.0
+244,Bitterblue,Kristin Cashore,2012,4.0,112109,6102,Graceling Realm,3.0
+245,Grave Peril,Jim Butcher,2001,4.14,154788,6084,The Dresden Files,3.0
+246,Going Postal,Terry Pratchett,2004,4.39,114888,6051,Discworld,33.0
+247,The Wee Free Men,Terry Pratchett,2003,4.27,104496,6045,Discworld,30.0
+248,The Waste Lands,Stephen King,1991,4.24,204783,6032,The Dark Tower,3.0
+249,Daughter of the Forest,Juliet Marillier,1999,4.27,60943,6028,Sevenwaters,1.0
+250,A Memory of Light,Robert Jordan,2013,4.54,127083,6015,The Wheel of Time,14.0
+251,The Children of Húrin,J.R.R. Tolkien,2007,4.0,75473,5999,,
+252,Three Dark Crowns,Kendare Blake,2016,3.82,99257,5980,Three Dark Crowns,1.0
+253,Kingdom of the Wicked,Kerri Maniscalco,2020,3.96,152224,5946,Kingdom of the Wicked,1.0
+254,The Republic of Thieves,Scott Lynch,2013,4.21,97991,5934,Gentleman Bastard,3.0
+255,The Stone Sky,N.K. Jemisin,2017,4.36,109614,5931,The Broken Earth,3.0
+256,Hogfather,Terry Pratchett,1996,4.24,86234,5890,Discworld,20.0
+257,The Farthest Shore,Ursula K. Le Guin,1972,4.12,104340,5859,Earthsea Cycle,3.0
+258,Beautiful Creatures,Kami Garcia,2009,3.76,577913,5847,Caster Chronicles,1.0
+259,Shiver,Maggie Stiefvater,2009,3.76,465017,5809,The Wolves of Mercy Falls,1.0
+260,The Raven King,Maggie Stiefvater,2016,4.25,129732,5786,The Raven Cycle,4.0
+261,Dead Until Dark,Charlaine Harris,2001,3.96,522285,5732,Sookie Stackhouse,1.0
+262,Men at Arms,Terry Pratchett,1993,4.38,92813,5713,Discworld,15.0
+263,Fool's Errand,Robin Hobb,2001,4.33,84700,5643,Tawny Man,1.0
+264,Rivers of London,Ben Aaronovitch,2011,3.87,115072,5631,Rivers of London,1.0
+265,The Girl in the Tower,Katherine Arden,2017,4.35,81776,5620,The Winternight Trilogy,2.0
+266,A Great and Terrible Beauty,Libba Bray,2003,3.79,219231,5616,Gemma Doyle,1.0
+267,Abhorsen,Garth Nix,2003,4.23,120327,5609,Abhorsen,3.0
+268,Peter Pan,J.M. Barrie,1911,4.04,320913,5603,,
+269,The Magicians' Guild,Trudi Canavan,2001,3.95,79451,5601,Black Magician Trilogy,1.0
+270,The Bands of Mourning,Brandon Sanderson,2016,4.42,101028,5547,Mistborn,6.0
+271,The Winner's Curse,Marie Rutkoski,2014,3.96,105029,5540,The Winner's Trilogy,1.0
+272,The Goblin Emperor,Katherine Addison,2014,4.06,38063,5531,The Goblin Emperor,1.0
+273,An Enchantment of Ravens,Margaret  Rogerson,2017,3.65,74428,5524,,
+274,The Shadows Between Us,Tricia Levenseller,2020,3.88,129605,5523,The Shadows Between Us,1.0
+275,Dracula,Bram Stoker,1897,4.01,1116598,5520,,
+276,The Once and Future King,T.H. White,1958,4.06,105034,5516,,
+277,"Hush, Hush",Becca Fitzpatrick,2009,3.94,660925,5508,HushHush,1.0
+278,Legendborn,Tracy Deonn,2020,4.41,68372,5500,Legendborn,1.0
+279,The Atlas Six,Olivie Blake,2020,3.8,79264,5494,The Atlas,1.0
+280,The Dragonbone Chair,Tad Williams,1988,3.96,67323,5486,MemorySorrowand Thorn,1.0
+281,Dreams of Gods & Monsters,Laini Taylor,2014,4.13,102638,5483,Daughter of Smoke & Bone,3.0
+282,Wizard and Glass,Stephen King,1997,4.25,183094,5473,The Dark Tower,4.0
+283,Night Watch,Terry Pratchett,2002,4.48,104925,5466,Discworld,29.0
+284,Stone of Tears,Terry Goodkind,1995,4.1,109689,5462,Sword of Truth,2.0
+285,Pyramids,Terry Pratchett,1989,3.92,79116,5459,Discworld,7.0
+286,Red Sister,Mark  Lawrence,2017,4.17,52128,5445,Book of the Ancestor,1.0
+287,A Kingdom of Flesh and Fire,Jennifer L. Armentrout,2020,4.43,227239,5444,Blood and Ash,2.0
+288,This Savage Song,Victoria Schwab,2016,4.05,90496,5432,Monsters of Verity,1.0
+289,Jade City,Fonda Lee,2017,4.11,34482,5430,The Green Bone Saga,1.0
+290,A Monster Calls,Patrick Ness,2011,4.34,244551,5416,,
+291,Shadow of Night,Deborah Harkness,2012,4.07,219465,5396,All Souls,2.0
+292,Watership Down,Richard  Adams,1972,4.07,461514,5395,Watership Down,1.0
+293,Summer Knight,Jim Butcher,2002,4.27,141306,5393,The Dresden Files,4.0
+294,Witches Abroad,Terry Pratchett,1991,4.23,82526,5377,Discworld,12.0
+295,We Hunt the Flame,Hafsah Faizal,2019,3.93,66826,5367,Sands of Arawiya,1.0
+296,Dealing with Dragons,Patricia C. Wrede,1990,4.15,88608,5337,Enchanted Forest Chronicles,1.0
+297,The Emperor's Soul,Brandon Sanderson,2012,4.36,78380,5320,,
+298,The Sword of Summer,Rick Riordan,2015,4.24,188038,5317,Magnus Chase and the Gods of Asgard,1.0
+299,Hollow City,Ransom Riggs,2014,4.06,223808,5317,Miss Peregrine's Peculiar Children,2.0
+300,Dragons of Autumn Twilight,Margaret Weis,1984,4.0,112877,5308,Dragonlance: Chronicles,1.0
+301,Magician: Apprentice,Raymond E. Feist,1982,4.16,90348,5287,The Riftwar Saga,1.0
+302,Magician's Gambit,David Eddings,1983,4.14,89228,5275,The Belgariad,3.0
+303,Daughter of the Pirate King,Tricia Levenseller,2017,4.01,130113,5273,Daughter of the Pirate King,1.0
+304,Queen of Sorcery,David Eddings,1982,4.14,70053,5264,The Belgariad,2.0
+305,In the Hand of the Goddess,Tamora Pierce,1984,4.23,94890,5237,Song of the Lioness,2.0
+306,Blood Song,Anthony Ryan,2011,4.41,80622,5226,Raven's Shadow,1.0
+307,Cruel Beauty,Rosamund Hodge,2014,3.66,86826,5226,,
+308,Tigana,Guy Gavriel Kay,1990,4.09,45845,5200,,
+309,Redwall,Brian Jacques,1986,4.12,112767,5161,Redwall,1.0
+310,Baptism of Fire,Andrzej Sapkowski,1996,4.26,92285,5153,The Witcher,3.0
+311,The Girl of Fire and Thorns,Rae Carson,2011,3.79,79645,5134,Fire and Thorns,1.0
+312,The Book of Three,Lloyd Alexander,1964,3.98,76437,5125,The Chronicles of Prydain,1.0
+313,Theft of Swords,Michael J. Sullivan,2011,4.21,62605,5118,The Riyria Revelations,1.0
+314,Feet of Clay,Terry Pratchett,1996,4.3,78003,5104,Discworld,19.0
+315,Magic Study,Maria V. Snyder,2006,4.04,76485,5093,Study,2.0
+316,Shatter Me,Tahereh Mafi,2011,3.9,522442,5086,Shatter Me,1.0
+317,Angelfall,Susan Ee,2011,4.11,184429,5082,Penryn & the End of Days,1.0
+318,The Demon King,Cinda Williams Chima,2009,4.15,73784,5082,Seven Realms,1.0
+319,Steelheart,Brandon Sanderson,2013,4.14,168709,5079,The Reckoners,1.0
+320,Preludes & Nocturnes,Neil Gaiman,1988,4.24,247701,5065,The Sandman,1.0
+321,New Spring,Robert Jordan,2004,4.05,92011,5029,The Wheel of Time,0.0
+322,Enchanters' End Game,David Eddings,1984,4.18,89956,5020,The Belgariad,5.0
+323,Truthwitch,Susan Dennard,2016,3.86,49741,5015,The Witchlands,1.0
+324,Inkspell,Cornelia Funke,2005,3.93,120716,5012,Inkworld,2.0
+325,Castle of Wizardry,David Eddings,1984,4.16,73772,5007,The Belgariad,4.0
+326,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,4.23,1679154,4996,Hitchhiker's Guide to the Galaxy,1.0
+327,Homeland,R.A. Salvatore,1990,4.25,82332,4982,Forgotten Realms: The Dark Elf Trilogy,1.0
+328,Soul Music,Terry Pratchett,1994,4.04,73821,4971,Discworld,16.0
+329,The Ruins of Gorlan,John Flanagan,2004,4.24,143729,4893,Ranger's Apprentice,1.0
+330,The Alchemyst,Michael Scott,2007,3.86,153180,4884,The Secrets of the Immortal Nicholas Flamel,1.0
+331,These Violent Delights,Chloe Gong,2020,3.96,96811,4884,These Violent Delights,1.0
+332,King's Cage,Victoria Aveyard,2017,3.94,201106,4873,Red Queen,3.0
+333,The Arctic Incident,Eoin Colfer,2002,3.96,149229,4852,Artemis Fowl,2.0
+334,Rule of Wolves,Leigh Bardugo,2021,4.39,102154,4838,King of Scars,2.0
+335,Grave Mercy,Robin LaFevers,2012,3.89,104139,4832,His Fair Assassin,1.0
+336,The Scorpio Races,Maggie Stiefvater,2011,4.09,105707,4809,,
+337,Half a King,Joe Abercrombie,2014,3.97,59039,4807,Shattered Sea,1.0
+338,Fallen,Lauren Kate,2009,3.72,553720,4806,Fallen,1.0
+339,Death Masks,Jim Butcher,2003,4.29,129724,4803,The Dresden Files,5.0
+340,Moving Pictures,Terry Pratchett,1990,3.95,75360,4792,Discworld,10.0
+341,Wolves of the Calla,Stephen King,2003,4.19,171183,4771,The Dark Tower,5.0
+342,Golden Fool,Robin Hobb,2002,4.34,73801,4763,Tawny Man,2.0
+343,Nimona,N.D. Stevenson,2015,4.15,135120,4758,,
+344,The Hazel Wood,Melissa Albert,2018,3.58,83931,4748,The Hazel Wood,1.0
+345,Eric,Terry Pratchett,1990,3.77,67923,4745,Discworld,9.0
+346,Wild Magic,Tamora Pierce,1992,4.3,77679,4739,Immortals,1.0
+347,Lords and Ladies,Terry Pratchett,1992,4.18,74435,4737,Discworld,14.0
+348,The Diviners,Libba Bray,2012,3.94,94359,4735,The Diviners,1.0
+349,Falling Kingdoms,Morgan Rhodes,2012,3.78,58481,4730,Falling Kingdoms,1.0
+350,His Dark Materials,Philip Pullman,2000,4.28,154951,4718,His Dark Materials ,1.0
+351,The Woman Who Rides Like a Man,Tamora Pierce,1986,4.18,77524,4708,Song of the Lioness,3.0
+352,Soulless,Gail Carriger,2009,3.89,107340,4686,Parasol Protectorate,1.0
+353,Insurgent,Veronica Roth,2012,3.99,1369282,4681,Divergent,2.0
+354,The Blue Sword,Robin McKinley,1982,4.2,59634,4679,Damar,1.0
+355,Fablehaven,Brandon Mull,2006,4.12,152867,4639,Fablehaven,1.0
+356,Foundryside,Robert Jackson Bennett,2018,4.21,30160,4638,The Founders Trilogy,1.0
+357,City of Stairs,Robert Jackson Bennett,2014,4.09,32085,4629,The Divine Cities,1.0
+358,The Magician King,Lev Grossman,2011,3.92,94357,4622,The Magicians,2.0
+359,The Hidden Oracle,Rick Riordan,2016,4.19,155744,4615,The Trials of Apollo,1.0
+360,The Eyre Affair,Jasper Fforde,2001,3.88,128877,4606,Thursday Next,1.0
+361,Alice's Adventures in Wonderland,Lewis Carroll,1865,4.0,335586,4604,,
+362,The Girl Who Drank the Moon,Kelly Barnhill,2016,4.12,80595,4604,,
+363,The Invisible Library,Genevieve Cogman,2014,3.74,51057,4595,The Invisible Library,1.0
+364,The Mad Ship,Robin Hobb,1999,4.26,58987,4595,Liveship Traders,2.0
+365,Lioness Rampant,Tamora Pierce,1988,4.27,87457,4589,Song of the Lioness,4.0
+366,Shadow's Edge,Brent Weeks,2008,4.25,98287,4577,Night Angel,2.0
+367,La Belle Sauvage,Philip Pullman,2017,4.15,93572,4575,The Book of Dust,1.0
+368,Thief of Time,Terry Pratchett,2001,4.26,67525,4572,Discworld,26.0
+369,Gods of Jade and Shadow,Silvia Moreno-Garcia,2019,3.91,50367,4565,,
+370,Rhythm of War,Brandon Sanderson,2020,4.61,96103,4559,The Stormlight Archive,4.0
+371,The Fifth Elephant,Terry Pratchett,1999,4.28,68618,4556,Discworld,24.0
+372,The Gilded Wolves,Roshani Chokshi,2019,3.74,37554,4541,The Gilded Wolves,1.0
+373,Promise of Blood,Brian  McClellan,2013,4.13,50496,4539,Powder Mage,1.0
+374,Thud!,Terry Pratchett,2005,4.33,68610,4524,Discworld,34.0
+375,Rebel of the Sands,Alwyn Hamilton,2016,3.96,59253,4522,Rebel of the Sands,1.0
+376,Dance of Thieves,Mary E. Pearson,2018,4.21,71681,4521,Dance of Thieves,1.0
+377,The Host,Stephenie Meyer,2008,3.85,963414,4513,The Host,1.0
+378,The Tower of the Swallow,Andrzej Sapkowski,1997,4.23,77394,4490,The Witcher,4.0
+379,Ship of Destiny,Robin Hobb,2000,4.25,65597,4472,Liveship Traders,3.0
+380,Song of Susannah,Stephen King,2004,3.99,146613,4464,The Dark Tower,6.0
+381,Black Sun,Rebecca Roanhorse,2020,4.22,31807,4460,Between Earth and Sky,1.0
+382,A Natural History of Dragons,Marie Brennan,2013,3.83,30477,4458,The Memoirs of Lady Trent,1.0
+383,Blood Rites,Jim Butcher,2004,4.3,122530,4444,The Dresden Files,6.0
+384,The Winter of the Witch,Katherine Arden,2019,4.5,62658,4441,The Winternight Trilogy,3.0
+385,The Curse of Chalion,Lois McMaster Bujold,2001,4.16,37082,4441,World of the Five Gods,1.0
+386,The Giver,Lois Lowry,1993,4.13,2177714,4422,The Giver,1.0
+387,Monstrous Regiment,Terry Pratchett,2003,4.21,68296,4421,Discworld,31.0
+388,Jingo,Terry Pratchett,1997,4.17,60942,4416,Discworld,21.0
+389,The Throne of Fire,Rick Riordan,2011,4.19,191070,4414,The Kane Chronicles,2.0
+390,The Alchemist,Paulo Coelho,1988,3.9,2640500,4403,,
+391,The Dragon Republic,R.F. Kuang,2019,4.39,58536,4402,The Poppy War,2.0
+392,The Dark Tower,Stephen King,2004,4.27,160924,4396,The Dark Tower,7.0
+393,The Elfstones of Shannara,Terry Brooks,1982,3.97,69222,4377,The Original Shannara Trilogy,2.0
+394,Scythe,Neal Shusterman,2016,4.33,227894,4372,Arc of a Scythe,1.0
+395,Best Served Cold,Joe Abercrombie,2009,4.2,77859,4367,,
+396,Legendary,Stephanie Garber,2018,4.23,126594,4350,Caraval,2.0
+397,Legendary,Stephanie Garber,2018,4.23,126594,4350,Caraval,2.0
+398,The Rithmatist,Brandon Sanderson,2013,4.24,61796,4330,The Rithmatist,1.0
+399,The Book of Life,Deborah Harkness,2014,4.19,171828,4313,All Souls,3.0
+400,A Winter's Promise,Christelle Dabos,2013,4.08,70491,4306,The Mirror Visitor ,1.0
+401,The Goose Girl,Shannon Hale,2003,4.13,140314,4292,The Books of Bayern,1.0
+402,Kings of the Wyld,Nicholas Eames,2017,4.29,39831,4290,The Band,1.0
+403,Snow Like Ashes,Sara Raasch,2014,3.89,66189,4280,Snow Like Ashes,1.0
+404,Girls of Paper and Fire,Natasha Ngan,2018,3.82,46166,4279,Girls of Paper and Fire,1.0
+405,She Who Became the Sun,Shelley Parker-Chan,2021,3.91,36398,4277,The Radiant Emperor,1.0
+406,A Hat Full of Sky,Terry Pratchett,2004,4.3,69995,4268,Discworld,32.0
+407,Finnikin of the Rock,Melina Marchetta,2008,3.9,43813,4265,Lumatere Chronicles,1.0
+408,Magyk,Angie Sage,2005,3.84,117255,4263,Septimus Heap,1.0
+409,Darkfever,Karen Marie Moning,2006,4.06,173529,4262,Fever,1.0
+410,Dead Beat,Jim Butcher,2005,4.41,118803,4260,The Dresden Files,7.0
+411,Maskerade,Terry Pratchett,1995,4.1,58892,4257,Discworld,18.0
+412,The Eternity Code,Eoin Colfer,2003,4.04,131801,4249,Artemis Fowl,3.0
+413,The Darkest Part of the Forest,Holly Black,2015,3.87,67016,4247,,
+414,Beyond the Shadows,Brent Weeks,2008,4.27,93850,4231,Night Angel,3.0
+415,Making Money,Terry Pratchett,2007,4.24,66635,4225,Discworld,36.0
+416,Temple of the Winds,Terry Goodkind,1998,4.02,78897,4205,Sword of Truth,4.0
+417,"Saga, Volume 1",Brian K. Vaughan,2012,4.17,303187,4201,,
+418,The Selection,Kiera Cass,2012,4.1,1308224,4191,The Selection,1.0
+419,The Phantom Tollbooth,Norton Juster,1961,4.19,270574,4190,,
+420,Down Among the Sticks and Bones,Seanan McGuire,2017,4.15,44078,4188,Wayward Children,2.0
+421,Magic Bites,Ilona Andrews,2007,4.05,117851,4187,Kate Daniels,1.0
+422,Moon Called,Patricia Briggs,2006,4.14,196106,4186,Mercy Thompson,1.0
+423,Carpe Jugulum,Terry Pratchett,1998,4.15,59181,4183,Discworld,23.0
+424,Throne of Jade,Naomi Novik,2006,3.88,44836,4181,Temeraire,2.0
+425,The Rose & the Dagger,Renée Ahdieh,2016,4.06,85609,4172,The Wrath and the Dawn,2.0
+426,The Eyes of the Dragon,Stephen King,1987,3.94,117334,4167,,
+427,The Language of Thorns: Midnight Tales and Dangerous Magic,Leigh Bardugo,2017,4.33,49161,4119,Grishaverse,2.5
+428,House of Salt and Sorrows,Erin A. Craig,2019,3.93,64527,4115,,
+429,Spin the Dawn,Elizabeth Lim,2019,4.0,44901,4107,The Blood of Stars,1.0
+430,How the King of Elfhame Learned to Hate Stories,Holly Black,2020,4.23,111160,4103,The Folk of the Air,3.5
+431,House of Sky and Breath,Sarah J. Maas,2022,4.52,153949,4087,Crescent City,2.0
+432,The Book of Lost Things,John Connolly,2006,3.95,75406,4085,,
+433,The Bone Season,Samantha Shannon,2013,3.79,71678,4082,The Bone Season,1.0
+434,Muse of Nightmares,Laini Taylor,2018,4.44,52512,4076,Strange the Dreamer,2.0
+435,Perdido Street Station,China Miéville,2000,3.97,65458,4070,New Crobuzon,1.0
+436,Proven Guilty,Jim Butcher,2006,4.39,113993,4059,The Dresden Files,8.0
+437,A Reaper at the Gates,Sabaa Tahir,2018,4.19,75126,4050,An Ember in the Ashes,3.0
+438,Rubinrot,Kerstin Gier,2009,4.12,138503,4032,Edelstein-Trilogie,1.0
+439,A Knight of the Seven Kingdoms,George R.R. Martin,2013,4.21,76684,4021,The Tales of Dunk and Egg,1.0
+440,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,Catherynne M. Valente,2011,3.94,39694,4011,Fairyland,1.0
+441,Fire Study,Maria V. Snyder,2008,3.92,60101,4011,Study,3.0
+442,Red Rising,Pierce Brown,2014,4.26,311603,3996,Red Rising Saga,1.0
+443,The Time Traveler's Wife,Audrey Niffenegger,2004,3.99,1704670,3989,,
+444,Eon: Dragoneye Reborn,Alison Goodman,2008,3.95,60505,3986,Eon,1.0
+445,Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley,1978,4.05,77680,3986,,
+446,The Once and Future Witches,Alix E. Harrow,2020,4.07,58572,3982,,
+447,Charlie and the Chocolate Factory,Roald Dahl,1964,4.15,778490,3980,Charlie Bucket,1.0
+448,Wintersmith,Terry Pratchett,2006,4.23,58903,3974,Discworld,35.0
+449,Radiance,Grace Draven,2015,4.03,50580,3970,Wraith Kings,1.0
+450,Frostbite,Richelle Mead,2008,4.26,337917,3967,Vampire Academy,2.0
+451,Fantastic Beasts and Where to Find Them: The Original Screenplay,J.K. Rowling,2016,4.19,147281,3963,Fantastic Beasts: The Original Screenplay,1.0
+452,Hounded,Kevin Hearne,2011,4.09,83604,3954,The Iron Druid Chronicles,1.0
+453,Lord of Shadows,Cassandra Clare,2017,4.44,129228,3940,The Dark Artifices,2.0
+454,The ​Crown of Gilded Bones,Jennifer L. Armentrout,2021,4.23,162163,3939,Blood and Ash,3.0
+455,Under the Whispering Door,T.J. Klune,2021,4.19,103911,3933,,
+456,Under the Whispering Door,T.J. Klune,2021,4.19,103911,3933,,
+457,The Bridge Kingdom,Danielle L. Jensen,2018,4.09,75095,3930,The Bridge Kingdom,1.0
+458,Castle in the Air,Diana Wynne Jones,1990,3.89,48716,3913,Howl's Moving Castle,2.0
+459,Academ's Fury,Jim Butcher,2005,4.26,66979,3911,Codex Alera,2.0
+460,Ready Player One,Ernest Cline,2011,4.24,1044462,3906,Ready Player One,1.0
+461,White Night,Jim Butcher,2007,4.38,112646,3902,The Dresden Files,9.0
+462,Deadhouse Gates,Steven Erikson,2000,4.25,65958,3900,Malazan Book of the Fallen,2.0
+463,The Hero and the Crown,Robin McKinley,1984,4.21,51843,3899,Damar,2.0
+464,The Novice,Trudi Canavan,2002,4.07,56634,3892,Black Magician Trilogy,2.0
+465,The False Prince,Jennifer A. Nielsen,2012,4.22,87645,3890,Ascendance,1.0
+466,The City We Became,N.K. Jemisin,2020,3.91,52754,3885,Great Cities,1.0
+467,Furyborn,Claire Legrand,2018,3.83,39302,3879,Empirium,1.0
+468,Nine Princes in Amber,Roger Zelazny,1970,4.06,54610,3875,The Chronicles of Amber ,1.0
+469,Silverthorn,Raymond E. Feist,1985,4.1,60067,3863,The Riftwar Saga,3.0
+470,Pani Jeziora,Andrzej Sapkowski,1999,4.12,64881,3862,Saga o Wiedźminie,5.0
+471,Captive Prince,C.S. Pacat,2013,3.81,79334,3860,Captive Prince,1.0
+472,Tehanu,Ursula K. Le Guin,1990,3.99,43869,3840,Earthsea Cycle,4.0
+473,The Black Company,Glen Cook,1984,3.92,46041,3833,The Chronicles of the Black Company,1.0
+474,The Opal Deception,Eoin Colfer,2005,4.05,135234,3807,Artemis Fowl,4.0
+475,Cemetery Boys,Aiden Thomas,2020,4.33,63923,3803,Cemetery Boys,1.0
+476,The Last Continent,Terry Pratchett,1998,3.99,54784,3799,Discworld,22.0
+477,The School for Good and Evil,Soman Chainani,2013,4.02,91581,3775,The School for Good and Evil,1.0
+478,The Golem's Eye,Jonathan Stroud,2004,4.1,89920,3775,Bartimaeus,2.0
+479,Small Favor,Jim Butcher,2008,4.44,102730,3757,The Dresden Files,10.0
+480,Guardians of the West,David Eddings,1987,4.1,52388,3740,The Malloreon,1.0
+481,Living Dead in Dallas,Charlaine Harris,2002,3.96,245363,3734,Sookie Stackhouse,2.0
+482,The Paper Magician,Charlie N. Holmberg,2014,3.67,78338,3730,The Paper Magician,1.0
+483,Inkdeath,Cornelia Funke,2007,3.95,82435,3726,Inkworld,3.0
+484,The High Lord,Trudi Canavan,2002,4.14,56113,3723,Black Magician Trilogy,3.0
+485,The Dragon Keeper,Robin Hobb,2009,3.95,40950,3719,Rain Wild Chronicles,1.0
+486,Wicked Lovely,Melissa Marr,2007,3.69,161717,3717,Wicked Lovely,1.0
+487,The Serpent's Shadow,Rick Riordan,2012,4.29,146370,3715,The Kane Chronicles,3.0
+488,Soul of the Fire,Terry Goodkind,1999,3.86,65268,3713,Sword of Truth,5.0
+489,Snuff,Terry Pratchett,2011,4.16,54780,3713,Discworld,39.0
+490,First Test,Tamora Pierce,1999,4.23,59222,3707,Protector of the Small,1.0
+491,Marked,P.C. Cast,2007,3.8,469112,3699,House of Night,1.0
+492,The Library at Mount Char,Scott  Hawkins,2015,4.09,43857,3682,,
+493,Six Crimson Cranes,Elizabeth Lim,2021,4.28,36604,3663,Six Crimson Cranes,1.0
+494,Shadow Kiss,Richelle Mead,2008,4.34,350519,3659,Vampire Academy,3.0
+495,Turn Coat,Jim Butcher,2009,4.43,98387,3658,The Dresden Files,11.0
+496,Daughter of the Blood,Anne Bishop,1998,4.06,38940,3657,The Black Jewels,1.0
+497,Fire & Blood,George R.R. Martin,2018,3.95,57513,3649,A Targaryen History,1.0
+498,Unseen Academicals,Terry Pratchett,2009,3.99,51956,3646,Discworld,37.0
+499,A Storm of Swords 2: Blood and Gold,George R.R. Martin,2000,4.54,88367,3642,A Song of Ice and Fire,3.0
+500,Faith of the Fallen,Terry Goodkind,2001,4.1,70371,3639,Sword of Truth,6.0
+501,Library of Souls,Ransom Riggs,2015,4.14,140277,3626,Miss Peregrine's Peculiar Children,3.0
+502,The Desert Spear,Peter V. Brett,2010,4.21,83544,3620,Demon Cycle,2.0
+503,A Darkness At Sethanon,Raymond E. Feist,1986,4.18,64436,3605,The Riftwar Saga,4.0
+504,Wayward Son,Rainbow Rowell,2019,3.94,91657,3599,Simon Snow,2.0
+505,The Shadow of What Was Lost,James Islington,2014,4.14,40086,3587,The Licanius Trilogy,1.0
+506,Dragons of Winter Night,Margaret Weis,1985,4.13,48644,3574,Dragonlance: Chronicles,2.0
+507,Cursor's Fury,Jim Butcher,2006,4.35,64736,3571,Codex Alera,3.0
+508,Changes,Jim Butcher,2010,4.5,108789,3570,The Dresden Files,12.0
+509,Trickster's Choice,Tamora Pierce,2003,4.25,64730,3568,Daughter of the Lioness,1.0
+510,The Wishsong of Shannara,Terry Brooks,1985,3.97,51911,3565,The Original Shannara Trilogy,3.0
+511,Harry Potter Series Box Set,J.K. Rowling,2007,4.74,273411,3564,Harry Potter,1.0
+512,Edgedancer,Brandon Sanderson,2017,4.26,68924,3557,The Stormlight Archive,2.5
+513,Tithe,Holly Black,2002,3.71,89053,3555,Modern Faerie Tales,1.0
+514,Daughter of the Moon Goddess,Sue Lynn Tan,2022,4.18,27745,3538,The Celestial Kingdom Duology,1.0
+515,Animal Farm,George Orwell,1945,3.98,3390275,3531,,
+516,The Empress of Salt and Fortune,Nghi Vo,2020,4.0,23794,3527,The Singing Hills Cycle,1.0
+517,Exile,R.A. Salvatore,1990,4.22,61072,3516,Forgotten Realms: The Dark Elf Trilogy,2.0
+518,The Queen of Attolia,Megan Whalen Turner,2000,4.17,43167,3506,The Queen's Thief,2.0
+519,Wolf-Speaker,Tamora Pierce,1993,4.19,57046,3503,Immortals,2.0
+520,The Black Cauldron,Lloyd Alexander,1965,4.11,63120,3495,The Chronicles of Prydain,2.0
+521,Chain of Gold,Cassandra Clare,2020,4.44,80365,3494,The Last Hours,1.0
+522,Green Rider,Kristen Britain,1998,4.07,36347,3493,Green Rider,1.0
+523,War Storm,Victoria Aveyard,2018,3.85,129434,3492,Red Queen,4.0
+524,Dragons of Spring Dawning,Margaret Weis,1985,4.12,55838,3487,Dragonlance: Chronicles,3.0
+525,Fable,Adrienne Young,2020,4.07,63276,3484,Fable,1.0
+526,Unfinished Tales of Númenor and Middle-Earth,J.R.R. Tolkien,1980,3.98,36067,3473,,
+527,I Shall Wear Midnight,Terry Pratchett,2010,4.33,52789,3472,Discworld,38.0
+528,The Emperor's Blades,Brian Staveley,2014,4.08,38408,3471,Chronicle of the Unhewn Throne,1.0
+529,Lord Foul's Bane,Stephen R. Donaldson,1977,3.72,46615,3465,The Chronicles of Thomas Covenant the Unbeliever,1.0
+530,The Blinding Knife,Brent Weeks,2012,4.41,82126,3461,Lightbringer,2.0
+531,The Kingdom of Copper,S.A. Chakraborty,2019,4.4,46827,3455,The Daevabad Trilogy,2.0
+532,Emperor Mage,Tamora Pierce,1995,4.27,62283,3453,Immortals,3.0
+533,Flame in the Mist,Renée Ahdieh,2017,3.86,44045,3451,Flame in the Mist,1.0
+534,The Magician's Land,Lev Grossman,2014,4.14,72501,3446,The Magicians,3.0
+535,Fairest,Marissa Meyer,2015,3.97,125574,3437,The Lunar Chronicles,3.5
+536,Captain's Fury,Jim Butcher,2007,4.36,64070,3437,Codex Alera,4.0
+537,Fool's Assassin,Robin Hobb,2014,4.4,49385,3434,The Fitz and the Fool,1.0
+538,Fragile Things: Short Fictions and Wonders,Neil Gaiman,2006,3.96,67432,3431,,
+539,"Over Sea, Under Stone",Susan Cooper,1965,3.85,50753,3428,The Dark is Rising,1.0
+540,Allegiant,Veronica Roth,2013,3.61,962580,3426,Divergent,3.0
+541,King of the Murgos,David Eddings,1988,4.1,54036,3416,The Malloreon,2.0
+542,Smoke and Mirrors: Short Fiction and Illusions,Neil Gaiman,1998,4.02,69029,3412,,
+543,The Gilded Ones,Namina Forna,2020,4.02,34132,3395,The Gilded Ones,1.0
+544,Ptolemy's Gate,Jonathan Stroud,2005,4.27,83272,3388,Bartimaeus,3.0
+545,The Lost Colony,Eoin Colfer,2006,4.01,153266,3386,Artemis Fowl,5.0
+546,Rhapsodic,Laura Thalassa,2016,3.98,88415,3380,The Bargainer,1.0
+547,Ghost Story,Jim Butcher,2011,4.25,92261,3380,The Dresden Files,13.0
+548,Club Dead,Charlaine Harris,2003,4.01,229721,3375,Sookie Stackhouse,3.0
+549,Arrows of the Queen,Mercedes Lackey,1987,4.13,36822,3370,Heralds of Valdemar,1.0
+550,Air Awakens,Elise Kova,2015,4.01,43336,3367,Air Awakens,1.0
+551,Interesting Times,Terry Pratchett,1994,4.14,50702,3366,Discworld,17.0
+552,The Rage of Dragons,Evan Winter,2017,4.33,25376,3362,The Burning,1.0
+553,Beneath the Sugar Sky,Seanan McGuire,2018,3.87,34044,3357,Wayward Children,3.0
+554,Renegades,Marissa Meyer,2017,4.15,113914,3354,Renegades,1.0
+555,Terrier,Tamora Pierce,2006,4.14,67344,3352,Beka Cooper,1.0
+556,Blood Promise,Richelle Mead,2009,4.31,299438,3345,Vampire Academy,4.0
+557,Finale,Stephanie Garber,2019,4.21,97901,3344,Caraval,3.0
+558,Cold Days,Jim Butcher,2012,4.48,94413,3339,The Dresden Files,14.0
+559,Magician: Master,Raymond E. Feist,1982,4.24,69807,3330,The Riftwar Saga,2.0
+560,The Trials of Morrigan Crow,Jessica  Townsend,2017,4.34,53281,3316,Nevermoor,1.0
+561,Sorceress of Darshiva,David Eddings,1989,4.09,45538,3309,The Malloreon,4.0
+562,Ash Princess,Laura Sebastian,2018,3.89,55130,3305,Ash Princess Trilogy,1.0
+563,Belgarath the Sorcerer,David Eddings,1995,4.09,74148,3305,,
+564,The Maze Runner,James Dashner,2009,4.04,1328129,3303,The Maze Runner,1.0
+565,A Wind in the Door,Madeleine L'Engle,1973,4.0,124636,3286,Time Quintet,2.0
+566,Seeress of Kell,David Eddings,1991,4.13,44854,3285,The Malloreon,5.0
+567,Dragonsong,Anne McCaffrey,1976,4.24,53559,3283,Harper Hall,1.0
+568,Demon Lord of Karanda,David Eddings,1988,4.05,41661,3280,The Malloreon,3.0
+569,The Pillars of Creation,Terry Goodkind,2002,3.69,57418,3278,Sword of Truth,7.0
+570,Queen of Air and Darkness,Cassandra Clare,2018,4.35,96736,3277,The Dark Artifices,3.0
+571,Dead to the World,Charlaine Harris,2004,4.12,253112,3263,Sookie Stackhouse,4.0
+572,Magician,Raymond E. Feist,1982,4.31,64577,3260,The Riftwar Saga,1.0
+573,Sojourn,R.A. Salvatore,1991,4.21,63305,3252,Forgotten Realms: The Dark Elf Trilogy,3.0
+574,Black Powder War,Naomi Novik,2006,3.89,35792,3252,Temeraire,3.0
+575,Princess Academy,Shannon Hale,2005,4.02,112747,3249,Princess Academy,1.0
+576,Malice,John Gwynne,2012,4.15,26284,3237,The Faithful and the Fallen,1.0
+577,King of Thorns,Mark  Lawrence,2012,4.19,61864,3226,The Broken Empire,2.0
+578,Senlin Ascends,Josiah Bancroft,2013,4.14,24302,3217,The Books of Babel,1.0
+579,Ender's Game,Orson Scott Card,1985,4.3,1273750,3203,Ender's Saga,1.0
+580,The Crystal Shard,R.A. Salvatore,1988,4.11,52393,3198,Forgotten Realms: Icewind Dale,1.0
+581,The Dark Is Rising,Susan Cooper,1973,4.05,53642,3187,The Dark is Rising,2.0
+582,Tuck Everlasting,Natalie Babbitt,1975,3.89,257210,3176,,
+583,Once Upon a Broken Heart,Stephanie Garber,2021,4.15,60495,3173,Once Upon a Broken Heart,1.0
+584,The Bone Shard Daughter,Andrea Stewart,2020,4.05,17823,3166,The Drowning Empire,1.0
+585,The Heroes,Joe Abercrombie,2011,4.32,52427,3162,First Law World,5.0
+586,The Iron Daughter,Julie Kagawa,2010,4.08,124096,3143,The Iron Fey,2.0
+587,A Touch of Darkness,Scarlett St.  Clair,2019,3.85,144945,3133,Hades & Persephone,1.0
+588,Obsidian,Jennifer L. Armentrout,2011,4.15,267366,3130,Lux,1.0
+589,The Amazing Maurice and His Educated Rodents,Terry Pratchett,2001,4.05,44406,3124,Discworld,28.0
+590,Memories of Ice,Steven Erikson,2001,4.44,51848,3123,Malazan Book of the Fallen,3.0
+591,The Last Graduate,Naomi Novik,2021,4.31,55239,3120,The Scholomance,2.0
+592,The Burning God,R.F. Kuang,2020,4.34,40749,3120,The Poppy War,3.0
+593,The Iron Trial,Holly Black,2014,3.95,70465,3120,Magisterium,1.0
+594,Age of Myth,Michael J. Sullivan,2016,4.23,31058,3115,The Legends of the First Empire,1.0
+595,Matilda,Roald Dahl,1988,4.33,825760,3111,,
+596,Akata Witch,Nnedi Okorafor,2011,4.05,30802,3109,The Nsibidi Scripts,1.0
+597,The Broken Kingdoms,N.K. Jemisin,2010,4.13,31441,3101,Inheritance,2.0
+598,A Spell for Chameleon,Piers Anthony,1977,3.91,44871,3101,Xanth,1.0
+599,Squire,Tamora Pierce,2001,4.29,51542,3099,Protector of the Small,3.0
+600,The Star-Touched Queen,Roshani Chokshi,2016,3.56,25381,3095,The Star-Touched Queen,1.0
+601,Lore,Alexandra Bracken,2021,3.8,64190,3086,,
+602,The Hammer of Thor,Rick Riordan,2016,4.33,94104,3083,Magnus Chase and the Gods of Asgard,2.0
+603,"Monstress, Vol. 1: Awakening",Marjorie M. Liu,2016,3.96,56630,3076,,
+604,Gregor the Overlander,Suzanne Collins,2003,4.02,99637,3075,Underland Chronicles,1.0
+605,Luck in the Shadows,Lynn Flewelling,1996,4.09,20223,3072,Nightrunner,1.0
+606,The Rook,Daniel O'Malley,2012,4.11,54163,3071,The Checquy Files,1.0
+607,The Invasion of the Tearling,Erika Johansen,2015,4.1,51010,3068,The Queen of the Tearling,2.0
+608,Page,Tamora Pierce,2000,4.24,48025,3054,Protector of the Small,2.0
+609,Spirit Bound,Richelle Mead,2010,4.33,281944,3054,Vampire Academy,5.0
+610,House of Many Ways,Diana Wynne Jones,2008,4.06,34846,3044,Howl's Moving Castle,3.0
+611,Stone of Farewell,Tad Williams,1990,4.09,46800,3038,MemorySorrowand Thorn,2.0
+612,Touch of Power,Maria V. Snyder,2011,4.13,44516,3035,Healer,1.0
+613,The BFG,Roald Dahl,1982,4.22,442100,3027,,
+614,Dragonfly in Amber,Diana Gabaldon,1992,4.33,327443,3023,Outlander,2.0
+615,Written in Red,Anne Bishop,2013,4.25,57218,3016,The Others,1.0
+616,Kushiel's Chosen,Jacqueline Carey,2002,4.28,38734,3015,Phèdre's Trilogy,2.0
+617,The Sleeper and the Spindle,Neil Gaiman,2013,3.89,46820,3014,,
+618,A Promise of Fire,Amanda Bouchet,2016,4.04,32578,3010,Kingmaker Chronicles,1.0
+619,Trickster's Queen,Tamora Pierce,2004,4.27,58574,3009,Daughter of the Lioness,2.0
+620,The Doll's House,Neil Gaiman,1990,4.44,95743,3008,The Sandman,2.0
+621,Middlegame,Seanan McGuire,2019,4.03,24255,2999,Alchemical Journeys,1.0
+622,Naked Empire,Terry Goodkind,2004,3.82,52579,2999,Sword of Truth,8.0
+623,Alice in Wonderland,Jane Carruth,1865,4.03,384872,2993,,
+624,Life of Pi,Yann Martel,2001,3.93,1509085,2989,,
+625,All the Birds in the Sky,Charlie Jane Anders,2016,3.59,42943,2982,All the Birds in the Sky,1.0
+626,Dead as a Doornail,Charlaine Harris,2005,4.0,212247,2982,Sookie Stackhouse,5.0
+627,Lady Knight,Tamora Pierce,2002,4.31,51662,2981,Protector of the Small,4.0
+628,The Stand,Stephen King,1978,4.34,702231,2972,,
+629,Last Sacrifice,Richelle Mead,2010,4.37,275513,2969,Vampire Academy,6.0
+630,Dragonquest,Anne McCaffrey,1971,4.08,47898,2955,Dragonriders of Pern,2.0
+631,The Summer Tree,Guy Gavriel Kay,1984,3.98,23073,2950,The Fionavar Tapestry ,1.0
+632,The Jasmine Throne,Tasha Suri,2021,4.2,13790,2940,The Burning Kingdoms,1.0
+633,The Bone Witch,Rin Chupeco,2017,3.71,30378,2935,The Bone Witch,1.0
+634,James and the Giant Peach,Roald Dahl,1961,4.02,437414,2935,,
+635,Daughter of the Empire,Raymond E. Feist,1987,4.28,35615,2934,The Empire Trilogy,1.0
+636,The Heart of Betrayal,Mary E. Pearson,2015,4.22,63808,2926,The Remnant Chronicles,2.0
+637,The Winner's Crime,Marie Rutkoski,2015,4.1,62445,2924,The Winner's Trilogy,2.0
+638,Iron Widow,Xiran Jay Zhao,2021,4.17,45554,2917,Iron Widow,1.0
+639,The Short Second Life of Bree Tanner,Stephenie Meyer,2009,3.51,205201,2917,,
+640,The Killing Moon,N.K. Jemisin,2012,3.94,17470,2906,Dreamblood,1.0
+641,Sandry's Book,Tamora Pierce,1997,4.01,42078,2902,Circle of Magic,1.0
+642,The Binding,Bridget Collins,2019,3.87,62460,2901,,
+643,Hex Hall,Rachel Hawkins,2010,3.92,139982,2897,Hex Hall,1.0
+644,The Buried Giant,Kazuo Ishiguro,2015,3.55,90890,2895,,
+645,The Deep,Rivers Solomon,2019,3.79,25388,2891,,
+646,Rebel Angels,Libba Bray,2004,3.94,109195,2886,Gemma Doyle,2.0
+647,Godsgrave,Jay Kristoff,2017,4.48,48131,2883,The Nevernight Chronicle,2.0
+648,Sky in the Deep,Adrienne Young,2018,3.96,53019,2881,Sky and Sea,1.0
+649,The Crystal Cave,Mary  Stewart,1970,4.14,44195,2879,Arthurian Saga,1.0
+650,"Black Leopard, Red Wolf",Marlon James,2019,3.44,23527,2873,The Dark Star Trilogy,1.0
+651,Definitely Dead,Charlaine Harris,2006,4.01,198686,2848,Sookie Stackhouse,6.0
+652,The Burning Bridge,John Flanagan,2005,4.31,115469,2843,Ranger's Apprentice,2.0
+653,The Witches,Roald Dahl,1983,4.17,367076,2841,,
+654,The Rose Society,Marie Lu,2015,4.04,59584,2841,The Young Elites,2.0
+655,The Time Paradox,Eoin Colfer,2008,4.08,87498,2835,Artemis Fowl ,6.0
+656,The High King,Lloyd Alexander,1968,4.24,53464,2828,The Chronicles of Prydain,5.0
+657,Prince of Fools,Mark  Lawrence,2014,4.06,30231,2824,The Red Queen's War,1.0
+658,Skin Game,Jim Butcher,2014,4.56,79428,2822,The Dresden Files,15.0
+659,The King of Attolia,Megan Whalen Turner,2006,4.38,37089,2816,The Queen's Thief,3.0
+660,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,2015,3.92,57459,2816,,
+661,"Girl, Serpent, Thorn",Melissa Bashardoust,2020,3.68,28587,2815,,
+662,Ink and Bone,Rachel Caine,2015,3.97,26861,2814,The Great Library,1.0
+663,Chainfire,Terry Goodkind,2005,3.94,50847,2807,Sword of Truth,9.0
+664,Dorothy Must Die,Danielle  Paige,2014,3.81,76883,2799,Dorothy Must Die,1.0
+665,Traitor's Blade,Sebastien de Castell,2014,4.05,20621,2793,Greatcoats,1.0
+666,Wildwood Dancing,Juliet Marillier,2006,4.1,28700,2790,Wildwood,1.0
+667,Gallant,V.E. Schwab,2022,3.8,52466,2786,,
+668,For the Wolf,Hannah F. Whitten,2021,3.66,26458,2783,Wilderwood ,1.0
+669,Vengeful,V.E. Schwab,2018,4.19,68923,2779,Villains,2.0
+670,The Witch's Heart,Genevieve Gornichec,2021,4.07,31750,2774,,
+671,In an Absent Dream,Seanan McGuire,2019,4.17,26803,2762,Wayward Children,4.0
+672,Moon Over Soho,Ben Aaronovitch,2011,4.09,57464,2759,Rivers of London,2.0
+673,The Diamond Throne,David Eddings,1989,3.97,33937,2757,The Elenium,1.0
+674,Children of Virtue and Vengeance,Tomi Adeyemi,2019,3.87,56766,2756,Legacy of Orïsha,2.0
+675,Season of Storms,Andrzej Sapkowski,2013,3.96,42251,2754,The Witcher,0.0
+676,The Tale of Despereaux,Kate DiCamillo,2003,4.05,184626,2752,,
+677,The Two Princesses of Bamarre,Gail Carson Levine,2001,4.05,70464,2752,The Two Princesses of Bamarre,1.0
+678,The Picture of Dorian Gray,Oscar Wilde,1890,4.11,1268108,2747,,
+679,Fairest,Gail Carson Levine,2006,3.89,64412,2745,,
+680,Blood & Honey,Shelby Mahurin,2020,3.56,82424,2744,Serpent & Dove,2.0
+681,Beastly,Alex Flinn,2007,3.83,174773,2738,Beastly,1.0
+682,The Field Guide,Tony DiTerlizzi,2003,3.91,83839,2738,The Spiderwick Chronicles,1.0
+683,Dragon Haven,Robin Hobb,2010,4.11,31969,2737,Rain Wild Chronicles,2.0
+684,The Aeronaut's Windlass,Jim Butcher,2015,4.18,39636,2737,The Cinder Spires,1.0
+685,A Swiftly Tilting Planet,Madeleine L'Engle,1978,4.08,106298,2728,Time Quintet,3.0
+686,Midnight Sun,Stephenie Meyer,2020,3.72,195562,2724,,
+687,Something Wicked This Way Comes,Ray Bradbury,1962,3.92,117115,2723,Green Town,2.0
+688,All Together Dead,Charlaine Harris,2007,4.05,195801,2711,Sookie Stackhouse,7.0
+689,Rise of Empire,Michael J. Sullivan,2010,4.36,46578,2710,The Riyria Revelations,3.0
+690,A Deal with the Elf King,Elise Kova,2020,3.76,62528,2706,Married to Magic,1.0
+691,The White Dragon,Anne McCaffrey,1978,4.19,45274,2706,Dragonriders of Pern,3.0
+692,The Bane Chronicles,Cassandra Clare,2014,4.11,89322,2705,,
+693,Raybearer,Jordan Ifueko,2020,4.39,20140,2704,Raybearer,1.0
+694,The Grace of Kings,Ken Liu,2015,3.75,15663,2704,The Dandelion Dynasty,1.0
+695,The Shadow of the Gods,John Gwynne,2021,4.29,17188,2703,The Bloodsworn Saga,1.0
+696,Sorcerer to the Crown,Zen Cho,2015,3.74,13463,2702,Sorcerer Royal,1.0
+697,Book of Night,Holly Black,2022,3.56,29481,2699,Book of Night,1.0
+698,Wintersong,S. Jae-Jones,2017,3.54,29669,2695,Wintersong,1.0
+699,Magic Kingdom for Sale/Sold,Terry Brooks,1986,3.9,36169,2694,Magic Kingdom of Landover,1.0
+700,Cinderella Is Dead,Kalynn  Bayron,2020,3.72,50650,2690,,
+701,The Dark Prophecy,Rick Riordan,2017,4.19,87793,2690,The Trials of Apollo,2.0
+702,The Castle of Llyr,Lloyd Alexander,1966,4.06,36338,2688,The Chronicles of Prydain,3.0
+703,The Vampire Lestat,Anne Rice,1985,4.08,189023,2679,The Vampire Chronicles,2.0
+704,Linger,Maggie Stiefvater,2010,3.88,164625,2678,The Wolves of Mercy Falls,2.0
+705,The Truth,Stephen Briggs,2000,4.24,49446,2677,,
+706,Crescendo,Becca Fitzpatrick,2010,4.0,307669,2676,HushHush,2.0
+707,Raising Steam,Terry Pratchett,2013,3.99,37143,2673,Discworld,40.0
+708,The Bird and the Sword,Amy Harmon,2016,4.2,36397,2671,The Bird and the Sword Chronicles,1.0
+709,Everless,Sara  Holland,2018,3.81,37958,2670,Everless,1.0
+710,Red Country,Joe Abercrombie,2012,4.31,43720,2669,First Law World,6.0
+711,Saphirblau,Kerstin Gier,2010,4.17,97547,2659,Edelstein-Trilogie,2.0
+712,The Broken Eye,Brent Weeks,2014,4.46,58305,2658,Lightbringer,3.0
+713,Firefight,Brandon Sanderson,2015,4.26,93379,2657,The Reckoners,2.0
+714,The Traitor Baru Cormorant,Seth Dickinson,2015,4.06,17308,2655,The Masquerade,1.0
+715,House of Chains,Steven Erikson,2002,4.34,43217,2655,Malazan Book of the Fallen,4.0
+716,Emperor of Thorns,Mark  Lawrence,2013,4.24,49467,2654,The Broken Empire,3.0
+717,Magic's Pawn,Mercedes Lackey,1989,4.21,25541,2654,The Last Herald-Mage ,1.0
+718,The Girl Who Fell Beneath the Sea,Axie Oh,2022,4.17,23061,2645,,
+719,The Daylight War,Peter V. Brett,2013,4.21,58191,2645,Demon Cycle,3.0
+720,The Crown Tower,Michael J. Sullivan,2013,4.33,34596,2644,The Riyria Chronicles,1.0
+721,Elric of Melniboné,Michael Moorcock,1972,3.89,25336,2640,The Elric Saga,1.0
+722,The Library of the Unwritten,A.J. Hackwith,2019,3.84,16965,2637,Hell's Library,1.0
+723,Taran Wanderer,Lloyd Alexander,1967,4.13,40276,2634,The Chronicles of Prydain,4.0
+724,Deathless,Catherynne M. Valente,2011,3.98,18463,2633,,
+725,Wicked Saints,Emily A. Duncan,2019,3.56,27666,2632,Something Dark and Holy,1.0
+726,Unravel Me,Tahereh Mafi,2013,4.18,313463,2629,Shatter Me,2.0
+727,Captive Prince: Volume Two,C.S. Pacat,2013,4.38,57668,2629,Captive Prince,2.0
+728,I Am Number Four,Pittacus Lore,2010,3.94,332360,2627,Lorien Legacies,1.0
+729,Dream Country,Neil Gaiman,1990,4.24,112199,2627,The Sandman,3.0
+730,Dragonsinger,Anne McCaffrey,1977,4.29,44152,2623,Harper Hall,2.0
+731,Evermore,Alyson Noel,2009,3.59,282274,2618,The Immortals,1.0
+732,A Song of Wraiths and Ruin,Roseanne A. Brown,2020,3.98,15405,2614,A Song of Wraiths and Ruin,1.0
+733,Kushiel's Avatar,Jacqueline Carey,2003,4.37,34827,2610,Phèdre's Trilogy,3.0
+734,Phantom,Terry Goodkind,2006,3.99,44588,2608,Sword of Truth,10.0
+735,All the Stars and Teeth,Adalyn  Grace,2020,3.69,24843,2606,All the Stars and Teeth,1.0
+736,Crier's War,Nina Varela,2019,4.16,28258,2601,Crier's War,1.0
+737,Splintered,A.G. Howard,2013,3.91,59682,2600,Splintered,1.0
+738,The Empire of Gold,S.A. Chakraborty,2020,4.5,34934,2585,The Daevabad Trilogy,3.0
+739,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,1818,3.84,1390785,2585,,
+740,And I Darken,Kiersten White,2016,3.83,49161,2582,The Conqueror's Saga,1.0
+741,The Exiled Queen,Cinda Williams Chima,2010,4.33,48934,2581,Seven Realms,2.0
+742,From Dead to Worse,Charlaine Harris,2008,4.01,183411,2579,Sookie Stackhouse,8.0
+743,Empire of Ivory,Naomi Novik,2007,3.97,26997,2576,Temeraire,4.0
+744,The Looking Glass Wars,Frank Beddor,2004,3.93,43551,2575,The Looking Glass Wars,1.0
+745,Time of the Twins,Margaret Weis,1986,4.17,34459,2574,Dragonlance: Legends,1.0
+746,My Lady Jane,Cynthia Hand,2016,4.04,50546,2574,The Lady Janies,1.0
+747,The Warrior Heir,Cinda Williams Chima,2006,3.94,50746,2573,The Heir Chronicles,1.0
+748,Gild,Raven Kennedy,2020,3.66,66715,2569,The Plated Prisoner,1.0
+749,The Iron Queen,Julie Kagawa,2011,4.2,104083,2565,The Iron Fey,3.0
+751,Streams of Silver,R.A. Salvatore,1989,4.16,39601,2559,Forgotten Realms: Icewind Dale,2.0
+752,Blood Bound,Patricia Briggs,2007,4.31,121697,2552,Mercy Thompson,2.0
+753,The Wishing Spell,Chris Colfer,2012,4.25,124963,2549,The Land of Stories,1.0
+754,Dead and Gone,Charlaine Harris,2009,4.01,183460,2548,Sookie Stackhouse,9.0
+755,Stolen Songbird,Danielle L. Jensen,2014,3.9,26999,2542,The Malediction Trilogy ,1.0
+756,Hunted,Meagan Spooner,2017,3.89,28491,2540,,
+757,Among Others,Jo Walton,2011,3.7,23363,2536,,
+758,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,1955,4.61,124589,2532,,
+759,Legend,David Gemmell,1984,4.27,29767,2532,The Drenai Saga,1.0
+760,Confessor,Terry Goodkind,2007,4.09,48251,2528,Sword of Truth,11.0
+761,The Last Hero,Terry Pratchett,2001,4.17,34508,2527,Discworld,27.0
+762,Dark Lover,J.R. Ward,2005,4.16,321146,2513,Black Dagger Brotherhood,1.0
+763,Through the Looking-Glass and What Alice Found There,Lewis Carroll,1871,4.03,128705,2510,Alice's Adventures in Wonderland,2.0
+764,The Lost Sisters,Holly Black,2018,3.47,45317,2507,The Folk of the Air,1.5
+765,The Wind Through the Keyhole,Stephen King,2012,4.15,75422,2505,,
+766,The Winner's Kiss,Marie Rutkoski,2016,4.22,46621,2500,The Winner's Trilogy,3.0
+767,Son of the Shadows,Juliet Marillier,2000,4.33,30036,2499,Sevenwaters,2.0
+768,The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones,George R.R. Martin,2014,4.26,30510,2497,,
+769,Polgara the Sorceress,David Eddings,1997,4.11,28610,2492,,
+770,A Little Hatred,Joe Abercrombie,2019,4.45,30553,2488,The Age of Madness,1.0
+771,Practical Magic,Alice Hoffman,1995,3.75,107812,2470,Practical Magic,1.0
+772,The Ship of the Dead,Rick Riordan,2017,4.39,73056,2468,Magnus Chase and the Gods of Asgard,3.0
+773,Night Watch,Sergei Lukyanenko,1998,3.97,41999,2467,Watch ,1.0
+774,The Bad Beginning,Lemony Snicket,1999,3.98,472717,2464,A Series of Unfortunate Events,1.0
+775,The Sweet Far Thing,Libba Bray,2007,3.97,69521,2464,Gemma Doyle,3.0
+776,The Magician,Michael Scott,2008,4.1,92622,2461,The Secrets of the Immortal Nicholas Flamel,2.0
+777,A ​Sky Beyond the Storm,Sabaa Tahir,2020,4.34,43289,2459,An Ember in the Ashes,4.0
+778,The Halfling's Gem,R.A. Salvatore,1990,4.18,40154,2457,Forgotten Realms: Icewind Dale,3.0
+779,The Raven Tower,Ann Leckie,2019,3.92,16797,2454,,
+780,Arcanum Unbounded: The Cosmere Collection,Brandon Sanderson,2016,4.5,34064,2454,,
+781,"Babel, or the Necessity of Violence: an Arcane History of the Oxford Translators' Revolution",R.F. Kuang,2022,4.45,15516,2451,,
+782,Paladin of Souls,Lois McMaster Bujold,2003,4.17,23617,2451,World of the Five Gods,2.0
+783,Our Dark Duet,Victoria Schwab,2017,4.16,46396,2448,Monsters of Verity,2.0
+784,The Elite,Kiera Cass,2013,3.97,647742,2447,The Selection,2.0
+785,Daughter of the Siren Queen,Tricia Levenseller,2018,4.11,73491,2446,Daughter of the Pirate King,2.0
+786,Bloodfever,Karen Marie Moning,2007,4.26,103837,2445,Fever,2.0
+787,These Hollow Vows,Lexi Ryan,2021,4.07,41300,2444,These Hollow Vows,1.0
+788,Heir of Novron,Michael J. Sullivan,2012,4.5,45064,2441,The Riyria Revelations,5.0
+789,The Darkest Minds,Alexandra Bracken,2012,4.16,176359,2440,The Darkest Minds,1.0
+790,Mossflower,Brian Jacques,1988,4.11,66968,2438,Redwall,2.0
+791,Dragon Rider,Cornelia Funke,1997,3.98,81083,2433,Dragon Rider,1.0
+792,Midnight Tides,Steven Erikson,2004,4.4,37049,2433,Malazan Book of the Fallen,5.0
+793,World After,Susan Ee,2013,4.16,100022,2430,Penryn & the End of Days,2.0
+794,Smaragdgrün,Kerstin Gier,2010,4.19,88156,2423,Edelstein-Trilogie,3.0
+795,Secret History,Brandon Sanderson,2016,4.38,40712,2419,Mistborn,3.5
+796,Fool's Quest,Robin Hobb,2015,4.52,36869,2417,The Fitz and the Fool,2.0
+797,Kingdom of the Cursed,Kerri Maniscalco,2021,4.24,77504,2412,Kingdom of the Wicked,2.0
+798,Gulliver's Travels: Travels into Several Remote Nations of the World.,Jonathan Swift,1726,3.58,257353,2408,,
+799,The Lions of Al-Rassan,Guy Gavriel Kay,1995,4.29,21038,2407,,
+800,Ash,Malinda Lo,2009,3.63,34400,2407,,
+801,Calling on Dragons,Patricia C. Wrede,1993,4.19,41653,2404,Enchanted Forest Chronicles,3.0
+802,Trail of Lightning,Rebecca Roanhorse,2018,3.96,22742,2402,The Sixth World,1.0
+803,City of Dragons,Robin Hobb,2011,4.09,28991,2402,Rain Wild Chronicles,3.0
+804,Magic Burns,Ilona Andrews,2008,4.31,82403,2399,Kate Daniels,2.0
+805,A Master of Djinn,P. Djèlí Clark,2021,4.1,15459,2394,Dead Djinn Universe,1.0
+806,Kings Rising,C.S. Pacat,2016,4.43,50054,2392,Captive Prince,3.0
+807,The Icebound Land,John Flanagan,2005,4.24,77567,2390,Ranger's Apprentice,3.0
+808,Clariel,Garth Nix,2014,3.86,25030,2390,Abhorsen,4.0
+809,Iron Kissed,Patricia Briggs,2008,4.34,118715,2388,Mercy Thompson,3.0
+810,A Heart So Fierce and Broken,Brigid Kemmerer,2020,3.93,50172,2387,Cursebreakers,2.0
+811,Ignite Me,Tahereh Mafi,2014,4.45,265451,2386,Shatter Me,3.0
+812,Half the World,Joe Abercrombie,2015,4.2,34967,2384,Shattered Sea,2.0
+813,The Dragon's Path,Daniel Abraham,2011,3.8,20285,2381,The Dagger and the Coin,1.0
+814,One Dark Throne,Kendare Blake,2017,4.06,51292,2379,Three Dark Crowns,2.0
+815,Charmed Life,Diana Wynne Jones,1977,3.96,32718,2376,Chrestomanci,1.0
+816,The Sword of Kaigen: A Theonite War Story,M.L.  Wang,2018,4.46,10947,2366,,
+817,The Other Wind,Ursula K. Le Guin,2001,4.17,23604,2365,Earthsea Cycle,6.0
+818,The Ruby Knight,David Eddings,1990,3.99,31193,2364,The Elenium,2.0
+819,Magic for Liars,Sarah Gailey,2019,3.63,27340,2352,,
+820,The Demigod Files,Rick Riordan,2009,4.04,93720,2352,,
+821,Voyager,Diana Gabaldon,1993,4.39,286652,2350,Outlander,3.0
+822,On a Pale Horse,Piers Anthony,1983,4.14,38219,2350,Incarnations of Immortality,1.0
+823,Harrow the Ninth,Tamsyn Muir,2020,4.29,38959,2346,The Locked Tomb,2.0
+824,Rise of the Evening Star,Brandon Mull,2007,4.17,120291,2342,Fablehaven,2.0
+825,The Crown of Embers,Rae Carson,2012,4.17,46009,2338,Fire and Thorns,2.0
+826,Tales from Earthsea,Ursula K. Le Guin,2001,4.07,23362,2331,Earthsea Cycle,5.0
+827,Dead Witch Walking,Kim Harrison,2004,4.03,122214,2330,The Hollows,1.0
+828,The Sapphire Rose,David Eddings,1991,4.01,28838,2323,The Elenium,3.0
+829,Book of a Thousand Days,Shannon Hale,2007,3.96,52566,2319,,
+830,Legend,Marie Lu,2011,4.16,487741,2317,Legend,1.0
+831,Titus Groan,Mervyn Peake,1946,3.91,18275,2315,Gormenghast,1.0
+832,War of the Twins,Margaret Weis,1986,4.14,29250,2314,Dragonlance: Legends,2.0
+833,Revenge of the Witch,Joseph Delaney,2004,4.0,46582,2312,The Last Apprentice / Wardstone Chronicles,1.0
+834,Across the Nightingale Floor,Lian Hearn,2002,4.06,39253,2311,Tales of the Otori,1.0
+835,The Kingdom of Gods,N.K. Jemisin,2011,3.98,23121,2310,Inheritance,3.0
+836,The Gray Wolf Throne,Cinda Williams Chima,2011,4.38,46167,2308,Seven Realms,3.0
+837,Bloodhound,Tamora Pierce,2009,4.28,37016,2300,Beka Cooper,2.0
+838,Whispers Under Ground,Ben Aaronovitch,2012,4.15,50910,2299,Rivers of London,3.0
+839,Betrayed,P.C. Cast,2007,3.92,257066,2298,House of Night,2.0
+840,Season of Mists,Neil Gaiman,1990,4.54,71053,2297,The Sandman,4.0
+841,"Saga, Volume 3",Brian K. Vaughan,2014,4.49,89200,2294,,
+842,Dead in the Family,Charlaine Harris,2010,3.89,158777,2293,Sookie Stackhouse,10.0
+843,Son of a Witch,Gregory Maguire,2005,3.49,60410,2292,The Wicked Years,2.0
+844,Changeless,Gail Carriger,2010,3.99,44755,2289,Parasol Protectorate,2.0
+845,Skulduggery Pleasant,Derek Landy,2007,4.18,61043,2286,Skulduggery Pleasant,1.0
+846,The Bonehunters,Steven Erikson,2006,4.47,35821,2280,Malazan Book of the Fallen,6.0
+847,Talking to Dragons,Patricia C. Wrede,1985,4.19,34889,2278,Enchanted Forest Chronicles,4.0
+848,Empire of the Vampire,Jay Kristoff,2021,4.42,24592,2272,Empire of the Vampire,1.0
+849,Test of the Twins,Margaret Weis,1986,4.19,28518,2271,Dragonlance: Legends,3.0
+850,Shadow of the Fox,Julie Kagawa,2018,4.01,17936,2265,Shadow of the Fox,1.0
+851,Odd and the Frost Giants,Neil Gaiman,2008,3.98,33434,2264,,
+852,Half Bad,Sally Green,2014,3.78,48145,2263,The Half Bad Trilogy,1.0
+853,Dragondrums,Anne McCaffrey,1979,4.09,34274,2261,Harper Hall,3.0
+854,East,Edith Pattou,2003,4.14,42266,2261,East,1.0
+855,Ariadne,Jennifer Saint,2021,3.82,64859,2258,,
+856,The Scions of Shannara,Terry Brooks,1990,4.0,31839,2258,Heritage of Shannara,1.0
+857,The Battle for Skandia,John Flanagan,2006,4.35,89996,2252,Ranger's Apprentice,4.0
+858,The Darkness That Comes Before,R. Scott Bakker,2003,3.8,19388,2252,The Prince of Nothing,1.0
+859,Beautiful Darkness,Kami Garcia,2010,3.83,132596,2248,Caster Chronicles,2.0
+860,The One,Kiera Cass,2014,4.17,576328,2247,The Selection,3.0
+861,Stars Above,Marissa Meyer,2016,4.18,82746,2243,The Lunar Chronicles,4.5
+862,The Summoning,Kelley Armstrong,2008,4.02,167490,2234,Darkest Powers,1.0
+863,The Complete Grimm's Fairy Tales,Jacob Grimm,1812,4.28,152002,2231,,
+864,Flyte,Angie Sage,2006,4.01,70399,2230,Septimus Heap,2.0
+865,The Last Magician,Lisa   Maxwell,2017,4.06,17803,2227,The Last Magician,1.0
+866,Torment,Lauren Kate,2010,3.85,226611,2226,Fallen,2.0
+867,"Fables, Vol. 1: Legends in Exile",Bill Willingham,2002,3.98,137308,2226,Fables,1.0
+868,Dragon Wing,Margaret Weis,1990,3.96,27155,2226,The Death Gate Cycle,1.0
+869,Tris's Book,Tamora Pierce,1998,4.11,31322,2217,Circle of Magic,2.0
+870,Silver in the Wood,Emily Tesh,2019,4.02,13417,2215,The Greenhollow Duology,1.0
+871,Darkdawn,Jay Kristoff,2019,4.31,35231,2204,The Nevernight Chronicle,3.0
+872,The Atlantis Complex,Eoin Colfer,2010,3.98,56793,2203,Artemis Fowl ,7.0
+873,The Knife of Never Letting Go,Patrick Ness,2008,3.97,183780,2200,Chaos Walking,1.0
+874,The Beauty of Darkness,Mary E. Pearson,2016,4.2,45198,2197,The Remnant Chronicles,3.0
+875,The Forgotten Beasts of Eld,Patricia A. McKillip,1974,4.08,16500,2193,,
+876,Victory of Eagles,Naomi Novik,2008,4.06,22607,2192,Temeraire,5.0
+877,White Cat,Holly Black,2010,3.8,46245,2185,Curse Workers,1.0
+878,Grey Sister,Mark  Lawrence,2018,4.38,30249,2182,Book of the Ancestor,2.0
+879,The Thief Lord,Cornelia Funke,2000,3.97,93467,2178,,
+880,Tower Lord,Anthony Ryan,2014,4.17,44891,2177,Raven's Shadow,2.0
+881,Silence,Becca Fitzpatrick,2011,4.09,269696,2177,HushHush,3.0
+882,The Coldest Girl in Coldtown,Holly Black,2013,3.84,66527,2172,,
+883,Bloodlines,Richelle Mead,2011,4.2,180614,2169,Bloodlines,1.0
+884,How to Train Your Dragon,Cressida Cowell,2003,3.9,43952,2168,How to Train Your Dragon,1.0
+885,Hexed,Kevin Hearne,2011,4.22,59563,2164,The Iron Druid Chronicles,2.0
+886,The Historian,Elizabeth Kostova,2005,3.79,256509,2163,,
+887,Blood of Dragons,Robin Hobb,2013,4.16,27303,2163,Rain Wild Chronicles,4.0
+888,Arrow's Flight,Mercedes Lackey,1987,4.13,21867,2163,,
+889,Seventh Son,Orson Scott Card,1987,3.87,34755,2162,Tales of Alvin Maker,1.0
+890,The Odyssey,Homer,-700,3.79,981609,2159,,
+891,Call Down the Hawk,Maggie Stiefvater,2019,4.29,29155,2157,Dreamer Trilogy,1.0
+892,Shadow Scale,Rachel Hartman,2015,3.74,18985,2156,Seraphina,2.0
+893,Shaman's Crossing,Robin Hobb,2005,3.49,22045,2154,Soldier Son,1.0
+894,Bone Crossed,Patricia Briggs,2009,4.34,104818,2153,Mercy Thompson,4.0
+895,Halfway to the Grave,Jeaniene Frost,2007,4.13,151661,2151,Night Huntress,1.0
+896,Shades of Milk and Honey,Mary Robinette Kowal,2010,3.49,15921,2144,Glamourist Histories,1.0
+897,Daja's Book,Tamora Pierce,1998,4.11,28918,2144,Circle of Magic,3.0
+898,The Archived,Victoria Schwab,2013,3.97,32615,2143,The Archived,1.0
+899,The Rest of Us Just Live Here,Patrick Ness,2015,3.69,57902,2142,,
+900,The Fate of the Tearling,Erika Johansen,2016,3.75,36764,2142,The Queen of the Tearling,3.0
+901,Of Fire and Stars,Audrey Coulthurst,2016,3.76,19353,2141,Of Fire and Stars,1.0
+902,Keeper of the Lost Cities,Shannon Messenger,2012,4.43,55806,2140,Keeper of the Lost Cities,1.0
+903,The Thousand Names,Django Wexler,2013,4.05,17920,2139,The Shadow Campaigns,1.0
+904,Shadowfever,Karen Marie Moning,2011,4.39,105353,2136,Fever,5.0
+905,The Crimson Crown,Cinda Williams Chima,2012,4.47,41492,2133,Seven Realms,4.0
+906,Dreamfever,Karen Marie Moning,2009,4.38,98353,2128,Fever,4.0
+907,The Druid of Shannara,Terry Brooks,1991,4.03,31739,2119,Heritage of Shannara,2.0
+908,The Queen of Blood,Sarah Beth Durst,2016,3.89,10521,2115,The Queens of Renthia,1.0
+909,Come Tumbling Down,Seanan McGuire,2020,3.92,20196,2115,Wayward Children,5.0
+910,Heir to the Shadows,Anne Bishop,1999,4.33,26176,2115,The Black Jewels,2.0
+911,Nettle & Bone,T. Kingfisher,2022,4.28,14532,2113,,
+912,The Burning Maze,Rick Riordan,2018,4.32,67033,2113,The Trials of Apollo,3.0
+913,Briar's Book,Tamora Pierce,1999,4.19,29536,2113,Circle of Magic,4.0
+914,Arrow's Fall,Mercedes Lackey,1988,4.19,22032,2113,Heralds of Valdemar,3.0
+915,Cry Wolf,Patricia Briggs,2008,4.12,97808,2109,Alpha & Omega,1.0
+916,The Awakening,Caroline Peckham,2019,3.96,72863,2107,Zodiac Academy,1.0
+917,Lost in a Good Book,Jasper Fforde,2002,4.13,52070,2104,Thursday Next,2.0
+918,The Naming,Alison Croggon,2002,4.02,25519,2102,The Books of Pellinor,1.0
+919,Eona: The Last Dragoneye,Alison Goodman,2011,4.11,37684,2102,Eon,2.0
+920,Assassin's Fate,Robin Hobb,2017,4.65,33961,2100,The Fitz and the Fool,3.0
+921,Calamity,Brandon Sanderson,2016,4.18,72989,2100,Reckoners,3.0
+922,The Bloody Chamber and Other Stories,Angela Carter,1979,3.95,48647,2098,,
+923,The Midnight Star,Marie Lu,2016,4.12,40190,2098,The Young Elites,3.0
+924,The Iron Knight,Julie Kagawa,2011,4.18,83160,2098,The Iron Fey,4.0
+925,Spindle's End,Robin McKinley,2000,3.82,23077,2093,,
+926,Carve the Mark,Veronica Roth,2017,3.78,79710,2090,Carve the Mark,1.0
+927,Reaper's Gale,Steven Erikson,2007,4.38,30875,2089,Malazan Book of the Fallen,7.0
+928,The Black Tides of Heaven,Neon Yang,2017,3.72,10449,2076,Tensorate,1.0
+929,Dreamer's Pool,Juliet Marillier,2014,3.97,13687,2076,Blackthorn & Grim,1.0
+930,The Unbecoming of Mara Dyer,Michelle Hodkin,2011,4.03,168371,2074,Mara Dyer,1.0
+931,The Wolf and the Woodsman,Ava Reid,2021,3.57,14123,2069,,
+932,The Queen of the Damned,Anne Rice,1988,3.9,144965,2066,The Vampire Chronicles,3.0
+933,The Crown's Game,Evelyn Skye,2016,3.83,22964,2063,The Crown's Game,1.0
+934,First King of Shannara,Terry Brooks,1996,3.97,29149,2062,The Original Shannara Trilogy,0.0
+935,Chosen,P.C. Cast,2008,3.91,235289,2061,House of Night,3.0
+936,Entwined,Heather Dixon Wallwork,2011,3.86,35122,2054,,
+937,The Talisman,Stephen King,1984,4.13,119193,2054,The Talisman,1.0
+938,The Belles,Dhonielle Clayton,2018,3.82,21942,2054,The Belles,1.0
+939,City of Ghosts,Victoria Schwab,2018,3.9,56404,2051,Cassidy Blake,1.0
+940,The Tea Dragon Society,Kay O'Neill,2017,4.36,38458,2051,Tea Dragon,1.0
+941,Forever,Maggie Stiefvater,2011,3.89,119908,2051,The Wolves of Mercy Falls,3.0
+942,Clean Sweep,Ilona Andrews,2013,4.16,47795,2050,Innkeeper Chronicles,1.0
+943,A Christmas Carol,Charles Dickens,1843,4.07,727380,2048,,
+944,Magic Bleeds,Ilona Andrews,2010,4.44,78970,2048,Kate Daniels,4.0
+945,Witchmark,C.L. Polk,2018,3.88,11824,2047,The Kingston Cycle,1.0
+946,The Grey King,Susan Cooper,1975,4.16,37822,2042,The Dark is Rising,4.0
+947,Dark Triumph,Robin LaFevers,2013,4.14,41159,2041,His Fair Assassin,2.0
+948,Servant of the Empire,Raymond E. Feist,1990,4.31,27933,2040,The Empire Trilogy,2.0
+949,Grip of the Shadow Plague,Brandon Mull,2008,4.29,86201,2039,Fablehaven,3.0
+950,Incarceron,Catherine Fisher,2007,3.64,60015,2039,Incarceron,1.0
+951,The Secret Commonwealth,Philip Pullman,2019,4.04,47458,2038,The Book of Dust,2.0
+952,The Shadow of the Torturer,Gene Wolfe,1980,3.82,24961,2038,The Book of the New Sun ,1.0
+953,Rebel Spring,Morgan Rhodes,2013,4.09,32765,2037,Falling Kingdoms,2.0
+954,A Midsummer Night's Dream,William Shakespeare,1595,3.95,499587,2036,,
+955,Crimson Bound,Rosamund Hodge,2015,3.63,20581,2036,,
+956,Unearthly,Cynthia Hand,2011,4.01,126301,2034,Unearthly,1.0
+957,Dawnshard,Brandon Sanderson,2020,4.51,41043,2031,The Stormlight Archive,3.5
+958,Legends & Lattes,Travis  Baldree,2022,4.43,18061,2030,,
+959,Sass & Sorcery,Kurtis J. Wiebe,2014,4.08,43634,2024,Rat Queens,1.0
+960,Tales from the Shadowhunter Academy,Cassandra Clare,2016,4.34,61304,2021,,
+961,The Elf Queen of Shannara,Terry Brooks,1992,4.05,30669,2021,Heritage of Shannara,3.0
+962,Alice,Christina Henry,2015,3.86,33524,2020,The Chronicles of Alice,1.0
+963,To Green Angel Tower,Tad Williams,1993,4.19,33231,2020,MemorySorrowand Thorn,3.0
+964,Chain of Iron,Cassandra Clare,2021,4.46,53351,2020,The Last Hours,2.0
+965,The City & the City,China Miéville,2009,3.9,63173,2019,,
+966,The Sorceress,Michael Scott,2009,4.11,80101,2018,The Secrets of the Immortal Nicholas Flamel,3.0
+967,Guilty Pleasures,Laurell K. Hamilton,1993,4.02,142246,2017,Anita BlakeVampire Hunter,1.0
+969,Magic's Promise,Mercedes Lackey,1990,4.22,20249,2016,The Last Herald-Mage ,2.0
+970,Queen of the Darkness,Anne Bishop,2000,4.37,27098,2013,The Black Jewels,3.0
+971,Greenwitch,Susan Cooper,1974,3.99,29353,2007,The Dark is Rising,3.0
+972,A Game of You,Neil Gaiman,1992,4.42,60209,2007,The Sandman,5.0
+973,The Year of the Witching,Alexis Henderson,2020,3.82,26846,2004,Bethel,1.0
+974,Storm Glass,Maria V. Snyder,2009,3.96,24638,2004,Glass,1.0
+975,Side Jobs,Jim Butcher,2010,4.26,51560,2003,The Dresden Files,12.5
+976,The Blood Mirror,Brent Weeks,2015,4.33,42365,2002,Lightbringer,4.0
+977,Sorcery & Cecelia: or The Enchanted Chocolate Pot,Patricia C. Wrede,1988,4.02,19429,1999,Cecelia and Kate,1.0
+978,1Q84,Haruki Murakami,2009,3.93,236942,1998,1Q84,1.0
+979,Empire of Sand,Tasha Suri,2018,3.83,9387,1998,The Books of Ambha,1.0
+980,Rosemary and Rue,Seanan McGuire,2009,3.77,36207,1998,October Daye,1.0
+981,Heart's Blood,Juliet Marillier,2009,4.09,15592,1997,,
+982,Half-Blood,Jennifer L. Armentrout,2011,4.11,96057,1996,Covenant,1.0
+983,The Crown Conspiracy,Michael J. Sullivan,2008,4.19,21550,1993,The Riyria Revelations,1.0
+984,Skyward,Brandon Sanderson,2018,4.5,108864,1992,Skyward,1.0
+985,The Hobbit,Chuck Dixon,1989,4.5,205788,1992,,
+986,Switched,Amanda Hocking,2010,3.87,97507,1992,Trylle ,1.0
+987,The Guinevere Deception,Kiersten White,2019,3.77,17859,1990,Camelot Rising,1.0
+988,The Cloud Roads,Martha Wells,2011,3.97,10968,1990,Books of the Raksura,1.0
+989,Silver Borne,Patricia Briggs,2010,4.38,102381,1990,Mercy Thompson,5.0
+990,The Talismans of Shannara,Terry Brooks,1993,4.03,38796,1989,Heritage of Shannara,4.0
+991,Beowulf,Unknown,900,3.47,278084,1988,,
+992,Les Disparus du Clairdelune,Christelle Dabos,2015,4.49,47306,1977,La Passe-Miroir,2.0
+993,Enna Burning,Shannon Hale,2004,3.99,41108,1977,The Books of Bayern,2.0
+994,Deerskin,Robin McKinley,1993,3.91,21829,1976,,
+995,Magic's Price,Mercedes Lackey,1990,4.27,20744,1974,The Last Herald-Mage ,3.0
+996,The City of Ember,Jeanne DuPrau,2003,3.88,267373,1973,Book of Ember,1.0
+997,Toll the Hounds,Steven Erikson,2008,4.36,29778,1971,Malazan Book of the Fallen,8.0
+998,Who Fears Death,Nnedi Okorafor,2010,3.95,22640,1968,Who Fears Death,1.0
+999,Throne of the Crescent Moon,Saladin Ahmed,2012,3.64,10918,1968,The Crescent Moon Kingdoms,1.0
+1000,Where the Wild Things Are,Maurice Sendak,1963,4.23,935430,1968,,
+1001,The Red Scrolls of Magic,Cassandra Clare,2019,4.14,43807,1967,The Eldest Curses,1.0
+1002,Broken Homes,Ben Aaronovitch,2013,4.17,43210,1964,Rivers of London,4.0
+1003,A Marvellous Light,Freya Marske,2021,4.03,17111,1962,The Last Binding,1.0
+1004,Realm Breaker,Victoria Aveyard,2021,3.66,21746,1958,Realm Breaker,1.0
+1005,The Sorcerer of the North,John Flanagan,2006,4.27,66590,1955,Ranger's Apprentice,5.0
+1006,The Illearth War,Stephen R. Donaldson,1978,4.02,26362,1953,The Chronicles of Thomas Covenant the Unbeliever,2.0
+1007,The Strange and Beautiful Sorrows of Ava Lavender,Leslye Walton,2014,4.04,39896,1952,,
+1008,Bridge to Terabithia,Katherine Paterson,1977,4.03,506811,1950,,
+1009,Pestilence,Laura Thalassa,2018,3.92,62813,1945,The Four Horsemen,1.0
+1010,Dead Reckoning,Charlaine Harris,2011,3.8,122832,1945,Sookie Stackhouse,11.0
+1011,The Handmaid's Tale,Margaret Atwood,1985,4.13,1801614,1942,The Handmaid's Tale,1.0
+1012,The Shepherd's Crown,Terry Pratchett,2015,4.37,27328,1939,Discworld,41.0
+1013,The Bone Clocks,David Mitchell,2014,3.84,91212,1938,,
+1014,The Crimson Campaign,Brian  McClellan,2014,4.36,33410,1934,Powder Mage,2.0
+1015,"Saga, Volume 4",Brian K. Vaughan,2014,4.43,73588,1931,,
+1016,Child of the Prophecy,Juliet Marillier,2001,4.12,21554,1931,Sevenwaters,3.0
+1017,The Master and Margarita,Mikhail Bulgakov,1967,4.3,300365,1930,,
+1018,Descendant of the Crane,Joan He,2019,3.63,8987,1928,,
+1019,Confessions of an Ugly Stepsister,Gregory Maguire,1999,3.53,58643,1928,,
+1020,Wonder Woman: Warbringer,Leigh Bardugo,2017,4.02,34269,1927,,
+1021,The Ruin of Kings,Jenn Lyons,2019,3.83,10212,1926,A Chorus of Dragons,1.0
+1022,Lord of the Fading Lands,C.L. Wilson,2007,3.99,20840,1924,Tairen Soul,1.0
+1023,Blameless,Gail Carriger,2010,4.0,39464,1922,Parasol Protectorate,3.0
+1024,Mister Monday,Garth Nix,2003,3.8,37117,1914,The Keys to the Kingdom,1.0
+1025,A Shadow in the Ember,Jennifer L. Armentrout,2021,4.49,63742,1913,Flesh and Fire,1.0
+1026,Cloud Atlas,David Mitchell,2004,4.01,236196,1913,,
+1027,The Kingdom of Back,Marie Lu,2020,3.71,18437,1905,,
+1028,Leviathan,Scott Westerfeld,2009,3.91,90471,1905,Leviathan,1.0
+1029,Frostblood,Elly Blake,2017,3.85,30864,1903,Frostblood Saga,1.0
+1030,The Last Dragonslayer,Jasper Fforde,2010,3.87,21222,1903,The Last Dragonslayer,1.0
+1031,The Source of Magic,Piers Anthony,1979,3.88,24441,1902,Xanth,2.0
+1032,The Metamorphosis,Franz Kafka,1915,3.84,843600,1901,,
+1033,Onyx,Jennifer L. Armentrout,2012,4.25,171732,1900,Lux,2.0
+1034,The Princess and the Goblin,George MacDonald,1872,4.0,33550,1900,Princess Irene and Curdie,1.0
+1035,Murder of Crows,Anne Bishop,2014,4.27,41573,1898,The Others,2.0
+1036,The Steel Remains,Richard K. Morgan,2008,3.74,16123,1898,A Land Fit for Heroes,1.0
+1037,Silver on the Tree,Susan Cooper,1977,4.11,33651,1898,The Dark is Rising,5.0
+1038,The Beautiful,Renée Ahdieh,2019,3.67,29699,1894,The Beautiful,1.0
+1039,The Angel Experiment,James Patterson,2005,4.07,218003,1893,Maximum Ride,1.0
+1040,Untamed,P.C. Cast,2008,3.94,227763,1887,House of Night,4.0
+1041,Domes of Fire,David Eddings,1992,4.02,27506,1887,The Tamuli,1.0
+1042,The Novice,Taran Matharu,2015,4.12,29437,1885,Summoner,1.0
+1043,Shadow of a Dark Queen,Raymond E. Feist,1994,4.07,28341,1885,The Serpentwar Saga,1.0
+1044,The Fairy Godmother,Mercedes Lackey,2004,3.98,17907,1880,Five Hundred Kingdoms,1.0
+1045,The Burning Sky,Sherry Thomas,2013,3.91,18777,1879,The Elemental Trilogy,1.0
+1046,The Screaming Staircase,Jonathan Stroud,2013,4.22,39842,1877,Lockwood & Co.,1.0
+1047,Mastiff,Tamora Pierce,2011,4.27,27334,1876,Beka Cooper,3.0
+1048,The Prison Healer,Lynette Noni,2021,4.28,24529,1874,The Prison Healer,1.0
+1049,Bitten,Kelley Armstrong,2001,4.02,99483,1871,Otherworld,1.0
+1050,Defy the Night,Brigid Kemmerer,2021,4.23,24132,1867,Defy the Night,1.0
+1051,A Spindle Splintered,Alix E. Harrow,2021,3.67,19715,1863,Fractured Fables,1.0
+1052,Bone Crier's Moon,Kathryn Purdie,2020,3.69,20857,1862,Bone Grace,1.0
+1053,Half a War,Joe Abercrombie,2015,4.03,28435,1862,Shattered Sea,3.0
+1054,Rogues,George R.R. Martin,2014,3.88,22455,1860,,
+1055,The Black Witch,Laurie Forest,2017,4.1,26917,1858,The Black Witch Chronicles,1.0
+1056,The Power That Preserves,Stephen R. Donaldson,1978,4.03,24052,1858,The Chronicles of Thomas Covenant the Unbeliever,3.0
+1057,Enchantment,Orson Scott Card,1999,3.91,26512,1858,,
+1058,So You Want to Be a Wizard,Diane Duane,1983,3.84,26467,1854,Young Wizards,1.0
+1059,The Wicked Deep,Shea Ernshaw,2018,3.85,33582,1854,,
+1060,Secrets of the Dragon Sanctuary,Brandon Mull,2009,4.38,83540,1853,Fablehaven,4.0
+1061,Every Day,David Levithan,2012,3.91,221397,1852,Every Day,1.0
+1062,The War of Two Queens,Jennifer L. Armentrout,2022,4.05,74924,1850,Blood and Ash,4.0
+1063,The Merciful Crow,Margaret  Owen,2019,3.88,14319,1847,The Merciful Crow,1.0
+1064,Fables & Reflections,Neil Gaiman,1993,4.43,54266,1846,The Sandman,6.0
+1065,Passenger,Alexandra Bracken,2016,3.76,39939,1838,Passenger,1.0
+1066,Any Way the Wind Blows,Rainbow Rowell,2021,4.16,40823,1837,Simon Snow,3.0
+1067,Kindred,Octavia E. Butler,1979,4.29,153331,1837,,
+1068,Drums of Autumn,Diana Gabaldon,1996,4.34,232439,1836,Outlander,4.0
+1069,The Scar,China Miéville,2002,4.17,30195,1836,New Crobuzon,2.0
+1070,The Ladies of Grace Adieu and Other Stories,Susanna Clarke,2004,3.87,19113,1835,,
+1071,Crave,Tracy Wolff,2020,3.81,99050,1834,Crave,1.0
+1072,The Siege of Macindaw,John Flanagan,2006,4.34,62964,1834,Ranger's Apprentice,6.0
+1073,River Marked,Patricia Briggs,2011,4.28,84414,1832,Mercy Thompson,6.0
+1074,Magic Slays,Ilona Andrews,2011,4.4,70905,1831,Kate Daniels,5.0
+1075,Swordspoint,Ellen Kushner,1987,3.79,9605,1826,Riverside,1.0
+1076,Black Sun Rising,C.S. Friedman,1991,3.94,18315,1826,The Coldfire Trilogy,1.0
+1077,The Guns of Avalon,Roger Zelazny,1972,4.15,22503,1825,The Chronicles of Amber ,2.0
+1078,Dust of Dreams,Steven Erikson,2009,4.31,26575,1823,Malazan Book of the Fallen,9.0
+1079,Fool's Fate,Robin Hobb,2003,4.45,70851,1820,Tawny Man,3.0
+1080,Etiquette & Espionage,Gail Carriger,2013,3.82,46591,1820,Finishing School,1.0
+1081,Tiger Lily,Jodi Lynn Anderson,2012,3.96,26642,1818,,
+1082,Kushiel's Scion,Jacqueline Carey,2006,4.21,20867,1817,Imriel's Trilogy,1.0
+1083,The Last Namsara,Kristen Ciccarelli,2017,4.09,17194,1817,Iskari,1.0
+1084,Stalking Darkness,Lynn Flewelling,1997,4.26,14512,1817,Nightrunner,2.0
+1085,Many Waters,Madeleine L'Engle,1962,3.97,45784,1817,Time Quintet,4.0
+1086,Debt of Bones,Terry Goodkind,1998,3.87,29355,1816,Sword of Truth,0.5
+1087,Malice,Heather   Walter,2021,4.02,16882,1815,Malice Duology,1.0
+1088,End of Days,Susan Ee,2015,4.07,66625,1814,Penryn & the End of Days,3.0
+1089,The Wandering Fire,Guy Gavriel Kay,1986,4.12,16722,1812,The Fionavar Tapestry,2.0
+1090,"Fortunately, the Milk",Neil Gaiman,2013,4.05,58723,1812,,
+1091,The Skull Throne,Peter V. Brett,2015,4.13,36568,1811,Demon Cycle,4.0
+1092,Daggerspell,Katharine Kerr,1986,3.9,15179,1808,Deverry,1.0
+1093,Cast in Shadow,Michelle Sagara,2005,3.8,16870,1805,Chronicles of Elantra,1.0
+1094,Kafka on the Shore,Haruki Murakami,2002,4.14,398957,1804,,
+1095,First Rider's Call,Kristen Britain,2003,4.22,22323,1803,Green Rider,2.0
+1096,The Falconer,Elizabeth May,2013,3.77,18234,1802,The Falconer,1.0
+1097,The Bone Houses,Emily Lloyd-Jones,2019,4.01,16991,1799,,
+1098,Physik,Angie Sage,2007,4.01,52411,1797,Septimus Heap,3.0
+1099,House of Hollow,Krystal Sutherland,2021,4.07,43289,1796,,
+1100,Wings,Aprilynne Pike,2009,3.75,79385,1794,Wings,1.0
+1101,The Ghost Bride,Yangsze Choo,2013,3.8,29346,1794,,
+1102,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,1971,4.15,172413,1789,Rats of NIMH,1.0
+1103,The Red Knight,Miles  Cameron,2012,4.1,16401,1788,The Traitor Son Cycle,1.0
+1104,The Masked City,Genevieve Cogman,2015,3.95,21655,1787,The Invisible Library,2.0
+1105,The Demon in the Wood,Leigh Bardugo,2014,3.93,28981,1781,Grishaverse,0.1
+1106,Prince of the Blood,Raymond E. Feist,1989,4.01,24239,1780,Krondor's Sons,1.0
+1107,Rose Daughter,Robin McKinley,1997,3.78,19827,1779,,
+1108,The Legacy,R.A. Salvatore,1992,4.2,30760,1779,Forgotten Realms: Legacy of the Drow,1.0
+1109,Hammered,Kevin Hearne,2011,4.21,51118,1775,The Iron Druid Chronicles,3.0
+1110,Princess of the Midnight Ball,Jessica Day George,2009,3.94,33647,1775,The Princesses of Westfalin Trilogy,1.0
+1111,The Bone Doll's Twin,Lynn Flewelling,2001,4.06,12145,1774,The Tamír Triad,1.0
+1112,Tongues of Serpents,Naomi Novik,2010,3.74,18661,1770,Temeraire,6.0
+1113,Angels' Blood,Nalini Singh,2009,4.07,87367,1765,Guild Hunter,1.0
+1114,The Midnight Lie,Marie Rutkoski,2020,3.97,10461,1764,Forgotten Gods,1.0
+1115,Forest of a Thousand Lanterns,Julie C. Dao,2017,3.72,9309,1762,Rise of the Empress,1.0
+1116,The Ballad of Songbirds and Snakes,Suzanne Collins,2020,3.83,319470,1761,The Hunger Games,0.0
+1117,Stormdancer,Jay Kristoff,2012,3.79,15479,1761,The Lotus Wars,1.0
+1118,Foxglove Summer,Ben Aaronovitch,2014,4.2,38516,1759,Rivers of London,5.0
+1119,Under Heaven,Guy Gavriel Kay,2010,4.16,14382,1759,Under Heaven,1.0
+1120,Keys to the Demon Prison,Brandon Mull,2010,4.45,77758,1758,Fablehaven,5.0
+1121,The Seven Deaths of Evelyn Hardcastle,Stuart Turton,2018,3.87,259865,1757,,
+1122,Year One,Nora Roberts,2017,4.04,79262,1755,Chronicles of The One,1.0
+1123,Lyra's Oxford,Philip Pullman,2003,3.6,25502,1755,His Dark Materials,3.5
+1124,Harry Potter and the Deathly Hallows,J.K. Rowling,2007,4.62,3332983,1754,Harry Potter,7.0
+1125,The Crippled God,Steven Erikson,2011,4.49,26552,1754,Malazan Book of the Fallen,10.0
+1126,The Seeing Stone,Tony DiTerlizzi,2003,3.9,41409,1753,The Spiderwick Chronicles,2.0
+1127,The Near Witch,Victoria Schwab,2011,3.67,28856,1751,The Near Witch,1.0
+1128,The Wind in the Willows,Kenneth Grahame,1908,4.0,200511,1747,,
+1129,Magic Steps,Tamora Pierce,2000,4.03,22773,1746,The Circle Opens,1.0
+1130,The Shining Ones,David Eddings,1993,3.98,23324,1744,The Tamuli,2.0
+1131,The Shadow of the Wind,Carlos Ruiz Zafón,2001,4.29,564458,1741,The Cemetery of Forgotten Books,1.0
+1132,Burn for Me,Ilona Andrews,2014,4.32,53517,1738,Hidden Legacy,1.0
+1133,Dragonsdawn,Anne McCaffrey,1988,4.21,37169,1736,Pern,9.0
+1134,Tempests and Slaughter,Tamora Pierce,2018,4.09,15570,1736,The Numair Chronicles,1.0
+1135,On the Edge,Ilona Andrews,2009,4.04,42680,1733,The Edge,1.0
+1136,Brief Lives,Neil Gaiman,1993,4.55,54312,1733,The Sandman,7.0
+1137,Golden Son,Pierce Brown,2015,4.44,186839,1733,Red Rising Saga,2.0
+1138,Vita Nostra,Marina Dyachenko,2007,4.05,12432,1731,Vita Nostra,1.0
+1139,The Darkest Road,Guy Gavriel Kay,1986,4.2,16756,1729,The Fionavar Tapestry,3.0
+1140,Castle Roogna,Piers Anthony,1979,3.89,24521,1727,Xanth,3.0
+1141,Ace of Shades,Amanda Foody,2018,3.86,16660,1722,The Shadow Game,1.0
+1142,The Magic of Recluce,L.E. Modesitt Jr.,1991,3.86,23736,1721,The Saga of Recluce,1.0
+1143,The Necromancer,Michael Scott,2010,4.13,63467,1721,The Secrets of the Immortal Nicholas Flamel,4.0
+1144,Mr. Penumbra's 24-Hour Bookstore,Robin Sloan,2012,3.73,194166,1719,Mr. Penumbra's 24-Hour Bookstore,1.0
+1145,Charlotte's Web,E.B. White,1952,4.19,1664892,1717,,
+1146,Windwitch,Susan Dennard,2017,3.97,20372,1713,The Witchlands,2.0
+1147,Master of Crows,Grace Draven,2009,3.93,16701,1713,Master of Crows,1.0
+1148,The Hidden City,David Eddings,1994,4.01,23064,1712,The Tamuli,3.0
+1149,The Tailor,Leigh Bardugo,2013,3.74,23536,1711,The Shadow and Bone Trilogy,1.5
+1150,Finale,Becca Fitzpatrick,2012,4.14,163164,1711,HushHush,4.0
+1151,Holy Sister,Mark  Lawrence,2019,4.32,24029,1710,Book of the Ancestor,3.0
+1152,The Shadow Queen,C.J. Redwine,2016,3.74,18977,1708,Ravenspire,1.0
+1153,The Assassin and the Pirate Lord,Sarah J. Maas,2012,4.22,42569,1708,Throne of Glass,0.1
+1154,Rise of a Merchant Prince,Raymond E. Feist,1995,4.08,27981,1708,The Serpentwar Saga,2.0
+1155,Tiger's Curse,Colleen Houck,2011,4.05,61273,1707,The Tiger Saga,1.0
+1156,Uglies,Scott Westerfeld,2005,3.85,622935,1705,Uglies,1.0
+1157,The Left Hand of Darkness,Ursula K. Le Guin,1969,4.09,152202,1704,Hainish Cycle,4.0
+1158,The Last Guardian,Eoin Colfer,2012,4.16,55424,1702,Artemis Fowl ,8.0
+1159,Martin the Warrior,Brian Jacques,1993,4.15,41553,1702,Redwall,6.0
+1160,The Unbroken,C.L. Clark,2021,3.85,5790,1700,Magic of the Lost,1.0
+1161,Matched,Ally Condie,2010,3.63,732141,1700,Matched,1.0
+1162,Wicked Fox,Kat Cho,2019,3.75,14555,1699,Gumiho,1.0
+1163,Elatsoe,Darcie Little Badger,2020,4.04,13189,1697,,
+1164,The Well of Lost Plots,Jasper Fforde,2003,4.09,39302,1697,Thursday Next ,3.0
+1165,Thunderhead,Neal Shusterman,2018,4.42,128328,1694,Arc of a Scythe,2.0
+1166,The Stonekeeper,Kazu Kibuishi,2008,4.17,88110,1692,Amulet,1.0
+1167,Ink Exchange,Melissa Marr,2008,3.69,61616,1690,Wicked Lovely,2.0
+1168,Valiant,Holly Black,2002,3.84,39717,1687,Modern Faerie Tales,2.0
+1169,Aru Shah and the End of Time,Roshani Chokshi,2018,4.1,20843,1686,Pandava,1.0
+1170,Kraken,China Miéville,2010,3.61,25130,1686,,
+1171,A Dead Djinn in Cairo,P. Djèlí Clark,2016,4.03,13072,1683,Dead Djinn Universe,0.1
+1172,Peace Talks,Jim Butcher,2020,4.21,40172,1681,The Dresden Files,16.0
+1173,"The Book of Lost Tales, Part One",J.R.R. Tolkien,1983,3.85,14037,1677,The History of Middle-Earth,1.0
+1174,Mexican Gothic,Silvia Moreno-Garcia,2020,3.68,257847,1677,,
+1175,This Woven Kingdom,Tahereh Mafi,2022,4.07,16608,1677,This Woven Kingdom,1.0
+1176,The Siren,Kiera Cass,2009,3.72,76543,1675,,
+1177,Talon,Julie Kagawa,2014,3.75,28313,1674,Talon,1.0
+1178,Hunted,P.C. Cast,2009,3.92,175510,1673,House of Night,5.0
+1179,"Saga, Volume 5",Brian K. Vaughan,2015,4.41,63840,1672,,
+1180,The Child Thief,Brom,2009,4.09,16356,1672,,
+1181,Passion,Lauren Kate,2011,3.86,162044,1671,Fallen,3.0
+1182,Starless Night,R.A. Salvatore,1992,4.15,26468,1669,Forgotten Realms: Legacy of the Drow,2.0
+1183,Moreta: Dragonlady of Pern,Anne McCaffrey,1983,4.01,27293,1667,Pern,7.0
+1184,Sailing to Sarantium,Guy Gavriel Kay,1998,4.18,14047,1667,The Sarantine Mosaic,1.0
+1185,The Great Book of Amber,Roger Zelazny,1999,4.31,25160,1666,The Chronicles of Amber,1.0
+1186,Abarat,Clive Barker,2002,4.1,27111,1663,,
+1187,Erak's Ransom,John Flanagan,2007,4.33,57492,1660,Ranger's Apprentice,7.0
+1188,The Winter King,C.L. Wilson,2014,4.07,18818,1656,Weathermages of Mystral,1.0
+1189,The Strange Case of the Alchemist's Daughter,Theodora Goss,2017,3.82,21725,1655,The Extraordinary Adventures of the Athena Club,1.0
+1190,Worlds' End,Neil Gaiman,1993,4.46,47906,1652,The Sandman,8.0
+1191,The Runaway King,Jennifer A. Nielsen,2013,4.24,41720,1648,Ascendance,2.0
+1192,Dark Lord of Derkholm,Diana Wynne Jones,1998,4.12,15951,1646,Derkholm,1.0
+1193,Beren and Lúthien,J.R.R. Tolkien,2017,4.02,13615,1642,,
+1194,Neon Gods,Katee Robert,2021,3.74,114872,1638,Dark Olympus,1.0
+1195,The King's Buccaneer,Raymond E. Feist,1992,4.06,23374,1638,Krondor's Sons,2.0
+1196,The Tyrant’s Tomb,Rick Riordan,2019,4.36,51932,1636,The Trials of Apollo,4.0
+1197,The Autumn Republic,Brian  McClellan,2015,4.37,28029,1636,Powder Mage,3.0
+1198,Magic Strikes,Ilona Andrews,2009,4.43,80670,1633,Kate Daniels,3.0
+1199,The Ring of Solomon,Jonathan Stroud,2010,4.21,29218,1632,Bartimaeus,0.5
+1200,Heartless,Gail Carriger,2011,4.05,34096,1631,Parasol Protectorate,4.0
+1201,Gathering Darkness,Morgan Rhodes,2014,4.23,26260,1627,Falling Kingdoms,3.0
+1202,The Traitor Queen,Danielle L. Jensen,2020,4.28,51252,1626,The Bridge Kingdom,2.0
+1203,A Dance with Dragons 1: Dreams and Dust,George R.R. Martin,2011,4.35,27548,1624,A Song of Ice and Fire,5.0
+1204,Forest Mage,Robin Hobb,2006,3.43,17474,1623,Soldier Son,2.0
+1205,Nation,Terry Pratchett,2008,4.09,34201,1620,,
+1206,Paranormalcy,Kiersten White,2010,3.88,97931,1618,Paranormalcy,1.0
+1207,Jackaby,William Ritter,2014,3.83,28496,1616,Jackaby,1.0
+1208,The Scorch Trials,James Dashner,2010,3.9,527161,1615,The Maze Runner,2.0
+1209,The Ice Dragon,George R.R. Martin,1980,3.76,20545,1614,,
+1210,White Hot Kiss,Jennifer L. Armentrout,2014,4.2,71299,1613,The Dark Elements,1.0
+1211,Chalice,Robin McKinley,2008,3.83,14543,1613,,
+1212,Labyrinth Lost,Zoraida Córdova,2016,3.72,12513,1612,Brooklyn Brujas,1.0
+1213,Deadlocked,Charlaine Harris,2012,3.71,98423,1611,Sookie Stackhouse,12.0
+1214,Across the Green Grass Fields,Seanan McGuire,2021,3.81,14725,1610,Wayward Children,6.0
+1215,Rhapsody: Child of Blood,Elizabeth Haydon,1999,3.97,19387,1609,Symphony of Ages,1.0
+1216,Storm and Fury,Jennifer L. Armentrout,2019,4.1,39940,1608,The Harbinger,1.0
+1217,Froi of the Exiles,Melina Marchetta,2011,4.29,16866,1606,Lumatere Chronicles,2.0
+1218,The Fairy-Tale Detectives,Michael Buckley,2005,4.03,52891,1605,The Sisters Grimm ,1.0
+1219,Street Magic,Tamora Pierce,2001,4.17,23690,1605,The Circle Opens,2.0
+1220,Into the Wild,Erin Hunter,2003,4.31,91219,1604,Warriors,1.0
+1221,Alcatraz Versus the Evil Librarians,Brandon Sanderson,2007,3.91,26090,1598,Alcatraz,1.0
+1222,The Queen's Poisoner,Jeff Wheeler,2016,4.12,34218,1595,Kingfountain,1.0
+1223,Kushiel's Justice,Jacqueline Carey,2007,4.26,18594,1595,Imriel's Trilogy,2.0
+1224,Beautiful Chaos,Kami Garcia,2011,3.92,99637,1594,Caster Chronicles,3.0
+1225,Demonglass,Rachel Hawkins,2011,4.09,92449,1594,Hex Hall,2.0
+1226,The Innocent Mage,Karen Miller,2005,3.66,19431,1593,KingmakerKingbreaker,1.0
+1227,Frost Burned,Patricia Briggs,2013,4.36,70090,1593,Mercy Thompson,7.0
+1228,The Snow Child,Eowyn Ivey,2012,3.99,135008,1592,,
+1229,Winds of Fate,Mercedes Lackey,1991,4.06,16585,1592,Mage Winds ,1.0
+1230,Magic Rises,Ilona Andrews,2013,4.44,54494,1591,Kate Daniels,
+1231,The Witching Hour,Anne Rice,1990,4.11,109518,1591,Lives of the Mayfair Witches,1.0
+1232,The Glass Magician,Charlie N. Holmberg,2014,3.92,42777,1591,The Paper Magician,2.0
+1233,A Wizard’s Guide to Defensive Baking,T. Kingfisher,2020,4.18,17044,1587,,
+1234,The Magician's Apprentice,Trudi Canavan,2009,3.97,23812,1587,Black Magician,0.5
+1235,Starcrossed,Josephine Angelini,2011,4.05,70905,1587,Starcrossed,1.0
+1236,The Unspoken Name,A.K. Larkwood,2020,3.74,6831,1586,The Serpent Gates,1.0
+1237,Siege of Darkness,R.A. Salvatore,1993,4.18,25181,1586,Forgotten Realms: Legacy of the Drow,3.0
+1238,The Kindly Ones,Neil Gaiman,1995,4.59,47089,1586,The Sandman,9.0
+1239,Gilded,Marissa Meyer,2021,3.93,20212,1585,Gilded,1.0
+1240,The Golden Lily,Richelle Mead,2012,4.31,115317,1585,Bloodlines,2.0
+1241,Where the Mountain Meets the Moon,Grace Lin,2009,4.29,44917,1585,,
+1242,Vision in Silver,Anne Bishop,2015,4.24,33604,1584,The Others,3.0
+1243,Tess of the Road,Rachel Hartman,2018,3.91,8783,1582,Tess of the Road,1.0
+1244,Four Dead Queens,Astrid Scholte,2019,3.79,21708,1581,,
+1245,Mariel of Redwall,Brian Jacques,1991,3.99,27204,1579,Redwall,4.0
+1246,Our Violent Ends,Chloe Gong,2021,4.42,38428,1577,These Violent Delights,2.0
+1247,Wildest Dreams,Kristen Ashley,2011,4.07,31799,1575,Fantasyland,1.0
+1248,La Mémoire de Babel,Christelle Dabos,2017,4.25,38023,1574,La Passe-Miroir,3.0
+1249,King of Battle and Blood,Scarlett St.  Clair,2021,3.84,41444,1572,Adrian x Isolde,1.0

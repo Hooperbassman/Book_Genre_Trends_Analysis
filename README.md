@@ -45,14 +45,14 @@ The project uses two Goodreads-derived datasets.
 
 **Goodreads's Books**
 
-- Author: Justin Nguyen
+- Author: Ishan RealState
 - Source: Kaggle
 - Original source of the book information: Goodreads
-- Dataset license: CC0 / Public Domain
+- Dataset license: MIT
 
 Dataset:
 
-[https://www.kaggle.com/datasets/khanhdnguyen/goodreadss-books](https://www.kaggle.com/datasets/khanhdnguyen/goodreadss-books)
+[https://www.kaggle.com/datasets/ishanrealstate/goodreads-cleaned-dataset](https://www.kaggle.com/datasets/ishanrealstate/goodreads-cleaned-dataset)
 
 The primary dataset contains book-level information including:
 
@@ -105,6 +105,8 @@ The secondary dataset contains information including:
 - Original source genre
 
 This dataset was integrated with the primary Goodreads dataset using normalized book-title and author matching.
+
+---
 
 ---
 
